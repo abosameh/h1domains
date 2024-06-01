@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun  1 05:10:10 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jun  1 06:12:13 UTC 2024)
 ```
 api.circle.com
 app.circle.com
@@ -25,9 +25,9 @@ secure.netflix.com
 ichnaea.netflix.com
 presentationtracking.netflix.com
 nmtracking.netflix.com
-*.nflxvideo.net
 help.netflix.com
 *.nflxso.net
+*.nflxvideo.net
 meechum.netflix.com
 www.netflix.com
 *.nflxext.com
@@ -389,6 +389,7 @@ verification-eu.truecaller.com
 video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
+cards.remitly.io
 rewire.com
 app.rewire.to
 rates.rewire.com
@@ -399,7 +400,6 @@ media.remitly.io
 cardpayments.remitly.io
 partner-webhook.remitly.io
 ablink.info.remitly.com
-cards.remitly.io
 api.remitly.io
 remitly.com
 *.int.remitly.com
@@ -551,6 +551,9 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.temu.com
 www.temu.com
+booking.com
+careers.booking.com
+kyc-onboarding.booking.com
 supplier.auth.toag.booking.com
 www.fareharbor.com
 taxi.booking.com
@@ -582,9 +585,6 @@ teleport.fareharbor.engineering
 fhdn.fareharbor.com
 tableau.fareharbor.engineering
 fareharborsites.com
-booking.com
-careers.booking.com
-kyc-onboarding.booking.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -732,8 +732,8 @@ fhir.redoxengine.com
 explore.redoxengine.com
 help.redoxengine.com
 testapp.redoxengine.com
-10x.redoxengine.com
 www.redoxengine.com
+10x.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -972,13 +972,13 @@ api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
-hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.io
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
+hilton.io
 hiltonhotels.jp
 *.hilton.com
 hilton.com
@@ -1179,15 +1179,15 @@ pay.8x8.com
 admin.8x8.com
 *.napoleongames.be
 *.spinaway.com
+*.luckydays.com
+*.superbet.rs
 *.napoleonsports.be
 *.napoleondice.be
-*.luckydays.com
 *.luckydays.ca
-*.superbet.rs
+*.superbet.pl
 *.magicjackpot.ro
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -1219,12 +1219,6 @@ doppler.team
 api.doppler.com
 dashboard.doppler.com
 share.doppler.com
-*.boredapeyachtclub.com
-*.yuga.com
-*.yugalabs.io
-*.otherside.xyz
-*.meebits.app
-*.cryptopunks.app
 dookeydash.com
 hv-mtl.com
 *.mdvmm.xyz
@@ -1236,11 +1230,27 @@ hv-mtl.com
 *.otherside.xyz
 *.meebits.app
 *.cryptopunks.app
+*.boredapeyachtclub.com
+*.yuga.com
+*.yugalabs.io
+*.otherside.xyz
+*.meebits.app
+*.cryptopunks.app
 *.mdvmm.xyz
 *.10ktf.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+www.expediaagents.com
+www.hotels.com
+www.vrbo.com
+www.expedia.com
+www.hotwirepartnercentral.com
+www.orbitz.com
+www.ebookers.com
+www.ebookers.fi
+www.mrjet.se
+www.expediapartnersolutions.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1259,16 +1269,6 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 www.expediataap.com
-www.expediaagents.com
-www.hotels.com
-www.vrbo.com
-www.expedia.com
-www.hotwirepartnercentral.com
-www.orbitz.com
-www.ebookers.com
-www.ebookers.fi
-www.mrjet.se
-www.expediapartnersolutions.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1368,4 +1368,10 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
+portfolio.metamask.io
+metamask.io
+metamask.io
+snaps.metamask.io
+portfolio.metamask.io
 ```
