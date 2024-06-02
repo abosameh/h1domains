@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  2 04:11:36 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jun  2 05:09:55 UTC 2024)
 ```
 api.circle.com
 app.circle.com
@@ -85,6 +85,10 @@ app.koho.ca
 webgateway.koho.ca
 www.koho.ca
 usercontent.koho.ca
+www.dyson.com.ua
+shop.dyson.tw
+www.dyson.tw
+www.gr.dyson.com
 *.dyson.com
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -108,13 +112,6 @@ api.dyson.dk
 api.dyson.it
 api.dyson.es
 api.dyson.co.uk
-api.dyson.at
-api.dyson.nl
-api.dyson.be
-api.dyson.pt
-api.dyson.no
-api.dyson.de
-api.dyson.ch
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -393,7 +390,6 @@ verification-eu.truecaller.com
 video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
-cards.remitly.io
 app.rewire.to
 rates.rewire.com
 app3.rewire.to
@@ -403,8 +399,9 @@ media.remitly.io
 cardpayments.remitly.io
 partner-webhook.remitly.io
 ablink.info.remitly.com
-remitly.com
+cards.remitly.io
 api.remitly.io
+remitly.com
 rewire.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -521,6 +518,7 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.co
 www.mercadolibre.com.uy
@@ -529,14 +527,13 @@ www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.pe
+api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.br
-api.mercadolibre.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolibre.cl
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -588,7 +585,7 @@ teleport.fareharbor.engineering
 fhdn.fareharbor.com
 tableau.fareharbor.engineering
 fareharborsites.com
-spark.fareharbor.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -735,8 +732,8 @@ docs.redoxengine.com
 fhir.redoxengine.com
 explore.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 www.redoxengine.com
+10x.redoxengine.com
 testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -892,8 +889,8 @@ app.krisha.kz
 api.avtoelon.uz
 app.avtoelon.uz
 id.avtoelon.uz
-kolesa.kz
 m.kolesa.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -984,8 +981,8 @@ hiltonlocalbiz.com
 *.hiltonhotels.jp
 hiltonhotels.jp
 hilton.com
-*.hilton.com
 *.hilton.io
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1052,9 +1049,9 @@ auth2.indrive.tech
 aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
-web.grindr.com
 *.grindr.io
 *.grindr.mobi
+web.grindr.com
 *.grindr.com
 *.grindr.io
 *.grindr.com
@@ -1181,8 +1178,8 @@ cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
 *.spinaway.com
-*.luckydays.com
 *.napoleondice.be
+*.luckydays.com
 *.luckydays.ca
 *.magicjackpot.ro
 *.napoleoncasino.be
@@ -1190,8 +1187,8 @@ admin.8x8.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
-*.napoleongames.be
 *.superbet.pl
+*.napoleongames.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1371,9 +1368,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+metamask.io
 snaps.metamask.io
 portfolio.metamask.io
-metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1524,8 +1521,8 @@ api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1566,28 +1563,4 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-krisp.ai
-account.krisp.ai
-api.krisp.ai
-teams.krisp.ai
-download.krisp.ai
-analytics.krisp.ai
-upld.krisp.ai
-*.krisp.ai
-*.krisp.ai
-krisp.ai
-account.krisp.ai
-api.krisp.ai
-teams.krisp.ai
-download.krisp.ai
-analytics.krisp.ai
-upld.krisp.ai
-admin.wickr.com
-admin.wickr.com
-*.clubhouse.com
-*.joinclubhouse.com
-*.clubhouseapi.com
-*.clubhouse.com
-*.joinclubhouse.com
-*.clubhouseapi.com
 ```
