@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 18 00:45:47 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jul 18 01:58:45 UTC 2024)
 ```
 api.recarga.com
 api.recarga.com
