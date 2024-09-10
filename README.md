@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 10 21:10:27 UTC 2024)
+## Domains with Bounties (Last Updated Tue Sep 10 22:10:51 UTC 2024)
 ```
 ask.khealth.com
 middle-force.khealth.io
@@ -41,8 +41,9 @@ api.khealth.com
 *.boardkingsgame.com
 gnocchi-www.buffalo-ggn.net
 *.caesarsgames.com
-*.bingoblitz.com
-*.redecor.com
+*.justfall.lol
+*.justplay.lol
+*.1v1.lol
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -62,8 +63,8 @@ bestfiends.com
 vfo03.vodafone.om
 apix.vodafone.om
 vfo01.vodafone.om
-vfo02.vodafone.om
 www.vodafone.om
+vfo02.vodafone.om
 www.vodafone.om
 apix.vodafone.om
 vfo01.vodafone.om
@@ -485,8 +486,8 @@ app3.rewire.to
 ir.remitly.com
 app.rewire.to
 rates.rewire.com
-access.remitly.com
 access-sandbox.remitly.com
+access.remitly.com
 rewire.com
 news.remitly.com
 *.int.remitly.com
@@ -616,8 +617,8 @@ www.mercadopago.com.mx
 www.mercadopago.com.pe
 www.mercadolibre.com.mx
 www.mercadopago.cl
-api.mercadopago.com
 www.mercadolibre.com.co
+api.mercadopago.com
 www.mercadopago.com.co
 www.mercadopago.com.br
 www.mercadopago.com.uy
@@ -675,9 +676,9 @@ portal.taxi.booking.com
 demo.fareharbor.com
 sites.fareharbor.com
 www.fareharbor.com
+readonly.fareharbor.com
 *.rentalcars.com
 account.booking.com
-readonly.fareharbor.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -1103,9 +1104,9 @@ truck-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 volans.tech
 profile-api.eu-east-1.indriverapp.com
-auth.indrive.tech
 ab-platform-api.eu-east-1.indriverapp.com
 *.indriverapp.com
+auth.indrive.tech
 new-order.eu-east-1.indriverapp.com
 *.indriver.com
 *.indrive.com
@@ -1180,10 +1181,10 @@ cloud.malwarebytes.com
 oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
+cfapi.voikukka.fi
+www.prisma.fi
 api.sokos.fi
 www.sokos.fi
-www.prisma.fi
-cfapi.voikukka.fi
 www.s-pankki.fi
 www.s-kaupat.fi
 digili.s-cloud.fi
@@ -1216,15 +1217,15 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 uc.8x8pilot.com
 work-staging.8x8.com
-sms.8x8.com
 *.p8t.us
 platform.8x8.com
+sms.8x8.com
 work.8x8.com
 *.packet8.net
 *.chalet.8x8.com
 user-profile-staging.8x8.com
-*.8x8staging.com
 user-profile.8x8.com
+*.8x8staging.com
 sso.8x8.com
 *.8x8.vc
 *.jit.si
@@ -1322,23 +1323,22 @@ www.travelocity.ca
 www.hotwirepartnercentral.com
 www.lastminute.co.nz
 *.expediacruises.com
-*.lastminute.com.au
 www.cheaptickets.com
 www.ebookers.fi
 www.stayz.com.au
-*.cheaptickets.com
 *.wotif.com
 *.carrentals.com
 www.carrentals.com
 www.travelocity.com
 www.orbitz.com
-*.travelocity.com
 www.flights.com
 www.vrbo.com
 www.hotels.com
 www.expedia.com
 bookus.expediacruises.com
 www.bookabach.co.nz
+*.vrbo.com
+www.expediaagents.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1445,33 +1445,4 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-portfolio.metamask.io
-snaps.metamask.io
-metamask.io
-metamask.io
-snaps.metamask.io
-https://user-storage.api.cx.metamask.io
-portfolio.metamask.io
-checkout.razorpay.com
-invoices.razorpay.com
-x.razorpay.com
-payroll.razorpay.com
-api.razorpay.com
-dashboard.razorpay.com
-dashboard.razorpay.com
-api.razorpay.com
-checkout.razorpay.com
-invoices.razorpay.com
-payroll.razorpay.com
-x.razorpay.com
-api.linkedin.com
-business.linkedin.com
-www.linkedin.com
-www.linkedin.com
-api.linkedin.com
-business.linkedin.com
-*.simpletax.ca
-*.wealthsimple.com
-*.wealthsimple.com
-*.simpletax.ca
 ```
