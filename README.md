@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 30 00:52:55 UTC 2024)
+## Domains with Bounties (Last Updated Wed Oct 30 02:18:23 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -81,14 +81,14 @@ vfo02.vodafone.om
 vfo03.vodafone.om
 stats-trafficcop-prod.nba.com
 content-api-prod.nba.com
-content-api-nextgen-prod.nba.com
 cms.nba.com
+content-api-nextgen-prod.nba.com
+identity.nba.com
+gleague.nba.com
 cdn.nba.com
 core-api.nba.com
 stats.nba.com
 2kleague.nba.com
-gleague.nba.com
-identity.nba.com
 bal.nba.com
 www.nba.com
 id.nba.com
@@ -109,8 +109,8 @@ mobileapi.insightly.com
 marketing.na1.insightly.com
 mobileapi.na1.insightly.com
 outlook.insightly.com
-accounts.insightly.com
 login.insightly.com
+accounts.insightly.com
 crm.na1.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
@@ -211,13 +211,13 @@ api.dyson.ch
 api.dyson.ie
 api.fi.dyson.com
 *.cp.dyson.com
+api.dyson.be
 api.dyson.de
 www.dyson.ie
 www.dyson.se
 www.dyson.ch
 www.dyson.co.il
 www.dyson.nl
-api.dyson.be
 www.dyson.be
 www.dyson.dk
 www.gr.dyson.com
@@ -520,10 +520,10 @@ auth.remitly.com
 news.remitly.com
 access.remitly.com
 rewire.com
-careers.remitly.com
-site.rewire.com
 *.dev.remitly.com
 app.rewire.to
+careers.remitly.com
+site.rewire.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -567,8 +567,8 @@ bioid-management.app
 worldcoin.org
 customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
-portal.arkoselabs.com
 verify.arkoselabs.com
+portal.arkoselabs.com
 demo.arkoselabs.com
 client-api.arkoselabs.com
 iframe.arkoselabs.com
@@ -656,8 +656,8 @@ api.mercadolibre.com
 www.mercadolibre.com.pe
 www.mercadolivre.com.br
 api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadopago.cl
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -768,9 +768,9 @@ api2.frontapp.com
 *.booztlet.com
 *.boozt.com
 *.booztlet.com
+*.travix.com
 *.trip.com
 *.travix.io
-*.travix.com
 *.trip.com
 *.travix.com
 *.travix.io
@@ -897,7 +897,9 @@ visa.co.ni
 www.visa.co.nz
 www.visa.co.th
 www.fraedom.com
-bd.visa.com
+www.visa.com.cn
+cw.visa.com
+www.visa.com.sg
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
@@ -906,9 +908,7 @@ developer.authorize.net
 bm.visa.com
 www.authorize.net
 www.visa.com.tr
-www.visa.com.sg
-www.visa.com.cn
-cw.visa.com
+bd.visa.com
 www.yellowpepper.com
 www.visa.com.mx
 bq.visa.com
@@ -1127,8 +1127,8 @@ auth2.indrive.tech
 truck-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-wga.volans.tech
 ci.indrive.dev
+wga.volans.tech
 profile-api.eu-east-1.indriverapp.com
 volans.tech
 *.indriver.com
@@ -1195,8 +1195,8 @@ oneview.malwarebytes.com
 cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
-www.malwarebytes.com
 *.malwarebytes.com
+www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1215,8 +1215,8 @@ cfapi.voikukka.fi
 digili.s-cloud.fi
 tunnistus.s-ryhma.fi
 online.s-pankki.fi
-www.s-kaupat.fi
 www.prisma.fi
+www.s-kaupat.fi
 api.sokos.fi
 www.s-pankki.fi
 www.sokos.fi
@@ -1302,11 +1302,11 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.superbet.pl
-buy.moonpay.com
 web3.moonpay.com
-sell.moonpay.com
+buy.moonpay.com
 *.hypermint.com
 hypermint.com
+sell.moonpay.com
 auth.moonpay.com
 *.moonpaycloud.com
 api.moonpay.com
@@ -1351,14 +1351,14 @@ www.expediaagents.com
 www.abritel.fr
 www.mrjet.se
 www.flights.com
-www.ebookers.fi
 www.fewo-direkt.de
 www.stayz.com.au
-www.expediataap.com
+www.ebookers.fi
 www.bookabach.co.nz
+www.expediataap.com
 www.cheaptickets.com
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 *.cheaptickets.com
 www.lastminute.com.au
 www.travelocity.ca
@@ -1373,7 +1373,6 @@ www.travelocity.com
 *.lastminute.co.nz
 www.ebookers.com
 *.carrentals.com
-www.hotels.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1431,8 +1430,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-creator.amazon.com
 read.amazon.com
+creator.amazon.com
 alexa.amazon.com
 a4k.amazon.com
 blueprints.amazon.com
@@ -1588,8 +1587,8 @@ partners.etoro.com
 billing.etoro.com
 kyc.etoro.com
 api.etoro.com
-delta.app
 push-demo-lightstreamer.cloud.etoro.com
+delta.app
 etoropartners.com
 aggregator.etoro.com
 wallet.etoro.com
@@ -1644,9 +1643,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
-support.databricks.com
 advocates.databricks.com
 docs.databricks.com
+support.databricks.com
 kb.databricks.com
 academy.databricks.com
 labs.databricks.com
@@ -1825,8 +1824,8 @@ tock.18f.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-labs.data.gov
 login.fr.cloud.gov
+labs.data.gov
 inventory.data.gov
 ssh.fr.cloud.gov
 www.data.gov
@@ -1896,8 +1895,8 @@ tickets.metamask.io
 *.elstc.co
 www.elastic.co
 *.swiftype.com
-*.elastic.co
 cloud.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1912,9 +1911,9 @@ cloud.elastic.co
 api.taxjar.com
 *.link.co
 js.stripe.com
-app.taxjar.com
 api.stripe.com
 *.stripe.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 js.stripe.com
@@ -1987,8 +1986,8 @@ global-api.citymapper.com
 eu.remix.com
 platform.remix.com
 *.scopely.io
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -2076,8 +2075,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2243,8 +2242,8 @@ api.faraday.ai
 *.5nine.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2441,8 +2440,8 @@ staking-api.polygon.technology
 ecosystem-api.polygon.technology
 staking.polygon.technology
 ecosystem.polygon.technology
-faucet.polygon.technology
 portal.polygon.technology
+faucet.polygon.technology
 staking-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
@@ -2638,8 +2637,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-hotel-deals.marriott.com
 all-inclusive.marriott.com
+hotel-deals.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 traveler.marriott.com
@@ -2698,8 +2697,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-langflow.datastax.com
 docs.datastax.com
+langflow.datastax.com
 langflow.org
 astra.datastax.com
 www.datastax.com
@@ -2709,8 +2708,8 @@ docs.datastax.com
 astra.datastax.com
 langflow.org
 langflow.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
@@ -2749,8 +2748,8 @@ dic.pixiv.net
 novel.pixiv.net
 hub.vroid.com
 booth.pm
-comic.pixiv.net
 coban.pixiv.net
+comic.pixiv.net
 www.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
@@ -2912,7 +2911,8 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-www.beachbound.com
+book.beachbound.com
+www.triseptsolutions.com
 www.funjet.com
 res.universalorlandovacations.com
 res.vacations.united.com
@@ -2923,8 +2923,7 @@ jira.hyattdev.com
 res.southwestvacations.com
 new.www.vaxvacationaccess.com
 www.hyattinclusivecollection.com
-www.triseptsolutions.com
-book.beachbound.com
+www.beachbound.com
 login.en.travelbrandsagent.com
 vacations.united.com
 hyatt.com
@@ -3098,17 +3097,17 @@ api.loanbuilder.com
 paypalobjects.com
 swiftcapital.com
 sandbox.braintreegateway.com
+paypal.me
 swiftfinancial.com
 loanbuilder.com
-paypal.me
 my.swiftfinancial.com
 *.paypalcorp.com
 *.braintreegateway.com
 *.hyperwallet.com
 *.venmo.com
 *.xoom.com
-*.braintreepayments.com
 *.braintree-api.com
+*.braintreepayments.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3206,9 +3205,10 @@ goldmansachsindices.com
 apigw.foliofn.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
-*.gspublishing.com
 *.honestdollar.com
+*.gspublishing.com
 api.foliofn.com
+*.vennhypotheken.nl
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3271,8 +3271,8 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 *.mona.co
-js.crypto.com
 app.mona.co
+js.crypto.com
 tax.crypto.com
 merchant.crypto.com
 www.crypto.com
@@ -3342,11 +3342,11 @@ privatetarget-2-secure.zigzag
 api.lahitapiola.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
+secure.lahitapiola.fi
+*.tapiola.fi
 yrityspalvelu.tapiola.fi
 tunnistus.lahitapiola.fi
-secure.lahitapiola.fi
 *.lahitapiolarahoitus.fi
-*.tapiola.fi
 asiointi.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
@@ -3463,8 +3463,8 @@ backstage.io
 assets.spotify.com
 *.withspotify.com
 api.spotify.com
-*.atspotify.com
 *.byspotify.com
+*.atspotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3677,8 +3677,8 @@ about.gitlab.com
 customers.gitlab.com
 *.gitlab.org
 docs.gitlab.com
-*.gitlap.com
 registry.gitlab.com
+*.gitlap.com
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3710,8 +3710,8 @@ api2.grofers.com
 blinkit.com
 *.algolianet.com
 www.algolia.com
-*.algolia.net
 dashboard.algolia.com
+*.algolia.net
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3763,10 +3763,10 @@ shopify.plus
 arrive-server.shopifycloud.com
 partners.shopify.com
 your-store.myshopify.com
-*.shopify.com
 admin.shopify.com
-shop.app
+*.shopify.com
 accounts.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3808,11 +3808,11 @@ blog.playcanvas.com
 ads.snapchat.com
 www.bitmoji.com
 app.snapchat.com
-businesshelp.snapchat.com
 business.snapchat.com
 playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3903,8 +3903,8 @@ www.hoteltonight.com
 *.muscache.com
 *.withairbnb.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -4004,10 +4004,10 @@ secure.tumblr.com
 assets.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-safe.tumblr.com
+akismet.com
 t.umblr.com
 my.pressable.com
-akismet.com
+safe.tumblr.com
 mailpoet.com
 gravatar.com
 simperium.com
