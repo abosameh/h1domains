@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov  4 08:18:50 UTC 2024)
+## Domains with Bounties (Last Updated Mon Nov  4 09:17:03 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -16,12 +16,12 @@ middle-force.khealth.io
 salesforce.khealth.com
 ask.khealth.com
 eligibility.khealth.com
-anthem.khealth.com
 api.khealth.com
+anthem.khealth.com
 api.khealth.io
 treatments.khealth.com
-app.khealth.com
 www.kpharmacyllc.com
+app.khealth.com
 accounts.khealth.com
 api.khealth.io
 accounts.khealth.com
@@ -52,10 +52,10 @@ gnocchi-www.buffalo-ggn.net
 *.houseoffun.com
 *.boardkingsgame.com
 *.caesarsgames.com
+*.bingoblitz.com
 *.justfall.lol
 *.justplay.lol
 *.1v1.lol
-*.bingoblitz.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -146,11 +146,11 @@ nmtracking.netflix.com
 presentationtracking.netflix.com
 *.prod.cloud.netflix.com
 ichnaea.netflix.com
-secure.netflix.com
 *.nflxvideo.net
 help.netflix.com
-meechum.netflix.com
+secure.netflix.com
 www.netflix.com
+meechum.netflix.com
 *.nflxext.com
 *.nflxext.com
 *.prod.ftl.netflix.com
@@ -214,13 +214,13 @@ api.dyson.ch
 api.dyson.ie
 api.fi.dyson.com
 *.cp.dyson.com
-api.dyson.be
 api.dyson.de
 www.dyson.ie
 www.dyson.se
 www.dyson.ch
 www.dyson.co.il
 www.dyson.nl
+api.dyson.be
 www.dyson.be
 www.dyson.dk
 www.gr.dyson.com
@@ -570,8 +570,8 @@ bioid-management.app
 worldcoin.org
 customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
-portal.arkoselabs.com
 verify.arkoselabs.com
+portal.arkoselabs.com
 demo.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
@@ -584,8 +584,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -616,9 +616,9 @@ app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
 cpanel.hostinger.com
-www.hostinger.com
-builder.hostinger.com
 payments.hostinger.com
+builder.hostinger.com
+www.hostinger.com
 hpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -657,9 +657,9 @@ www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolibre.com.pe
 www.mercadopago.com.br
+www.mercadolivre.com.br
 www.mercadolibre.cl
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -698,11 +698,11 @@ autocomplete.booking.com
 widget.rentalcars.com
 cars.booking.com
 teleport.fareharbor.engineering
-chat.booking.com
 readonly.fareharbor.com
 demo.fareharbor.com
-spark.fareharbor.com
 sites.fareharbor.com
+spark.fareharbor.com
+chat.booking.com
 taxi.booking.com
 fareharborsites.com
 careers.booking.com
@@ -808,8 +808,8 @@ oauth-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-lab.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -852,8 +852,8 @@ fhir.redoxengine.com
 blob.gamma.redoxstage.com
 testapp.redoxengine.com
 testapi.redoxengine.com
-dashboard.gamma.redoxstage.com
 www.redoxengine.com
+dashboard.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -1132,8 +1132,8 @@ file-storage-front.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-wga.volans.tech
 ci.indrive.dev
+wga.volans.tech
 profile-api.eu-east-1.indriverapp.com
 volans.tech
 *.indriver.com
@@ -1219,8 +1219,8 @@ mobile.s-pankki.fi
 extranet.s-pankki.fi
 digili.s-cloud.fi
 tunnistus.s-ryhma.fi
-www.s-kaupat.fi
 www.prisma.fi
+www.s-kaupat.fi
 api.sokos.fi
 www.s-pankki.fi
 www.sokos.fi
@@ -1358,14 +1358,14 @@ www.hotwirepartnercentral.com
 www.abritel.fr
 www.mrjet.se
 www.flights.com
-www.fewo-direkt.de
-www.bookabach.co.nz
 www.ebookers.fi
+www.fewo-direkt.de
 www.stayz.com.au
+www.bookabach.co.nz
 www.cheaptickets.com
-*.cheaptickets.com
-www.carrentals.com
 *.lastminute.com.au
+www.carrentals.com
+*.cheaptickets.com
 www.lastminute.com.au
 www.travelocity.ca
 *.vrbo.com
@@ -1518,8 +1518,8 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
+www.swoodoo.com
 www.momondo.com
 www.kayak.com
 www.checkfelix.com
@@ -1690,8 +1690,8 @@ upld.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
-*.krisp.ai
 app.krisp.ai
+*.krisp.ai
 krisp.ai
 api.krisp.ai
 *.krisp.ai
@@ -1957,11 +1957,11 @@ gql.reddit.com
 developers.reddit.com
 gateway.reddit.com
 *.redditmedia.com
-*.memorable.io
 strapi.reddit.com
+*.memorable.io
+ads.reddit.com
 accounts.reddit.com
 *.snooguts.net
-ads.reddit.com
 m.reddit.com
 *.reddit.com
 *.snooguts.net
@@ -1997,8 +1997,8 @@ global-api.citymapper.com
 eu.remix.com
 platform.remix.com
 *.scopely.io
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -2181,11 +2181,11 @@ developers.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 seller-id.tokopedia.com
-*.tiktokv.com
-ads.tiktok.com
 live-backstage.tiktok.com
-*.tiktok.com
+ads.tiktok.com
+*.tiktokv.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2449,8 +2449,8 @@ staking-api.polygon.technology
 ecosystem-api.polygon.technology
 staking.polygon.technology
 ecosystem.polygon.technology
-portal.polygon.technology
 faucet.polygon.technology
+portal.polygon.technology
 staking-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
@@ -2646,8 +2646,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-hotel-deals.marriott.com
 all-inclusive.marriott.com
+hotel-deals.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 www.marriott.com
@@ -2756,8 +2756,8 @@ dic.pixiv.net
 novel.pixiv.net
 hub.vroid.com
 booth.pm
-accounts.pixiv.net
 coban.pixiv.net
+accounts.pixiv.net
 www.pixiv.net
 comic.pixiv.net
 payment.pixiv.net
@@ -2920,8 +2920,7 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-book.beachbound.com
-www.triseptsolutions.com
+www.beachbound.com
 www.funjet.com
 res.universalorlandovacations.com
 res.vacations.united.com
@@ -2932,7 +2931,8 @@ jira.hyattdev.com
 res.southwestvacations.com
 new.www.vaxvacationaccess.com
 www.hyattinclusivecollection.com
-www.beachbound.com
+www.triseptsolutions.com
+book.beachbound.com
 login.en.travelbrandsagent.com
 vacations.united.com
 hyatt.com
@@ -3104,9 +3104,9 @@ www.swiftcapital.com
 *.paydiant.com
 swiftcapital.com
 sandbox.braintreegateway.com
-paypal.me
 swiftfinancial.com
 loanbuilder.com
+paypal.me
 my.swiftfinancial.com
 *.braintreegateway.com
 *.hyperwallet.com
@@ -3217,7 +3217,6 @@ apigw.foliofn.com
 *.honestdollar.com
 *.gspublishing.com
 api.foliofn.com
-*.vennhypotheken.nl
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3762,13 +3761,13 @@ kit.snapchat.com
 geofilters.snapchat.com
 code.playcanvas.com
 store.playcanvas.com
+story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 developer.playcanvas.com
 launch.playcanvas.com
 store.snapchat.com
-story.snapchat.com
 login.playcanvas.com
 *.sc-corp.net
 spectacles.com
@@ -3776,9 +3775,9 @@ my.snapchat.com
 snappublisher.snapchat.com
 forum.playcanvas.com
 blog.playcanvas.com
-playcanvas.com
 www.bitmoji.com
 app.snapchat.com
+playcanvas.com
 businesshelp.snapchat.com
 playcanv.as
 *.sc-core.net
@@ -3903,7 +3902,6 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
-donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
 *.cloud.vimeo.com
@@ -3976,10 +3974,10 @@ secure.tumblr.com
 assets.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-safe.tumblr.com
+akismet.com
 t.umblr.com
 my.pressable.com
-akismet.com
+safe.tumblr.com
 mailpoet.com
 gravatar.com
 simperium.com
