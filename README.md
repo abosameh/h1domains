@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov  8 05:11:41 UTC 2024)
+## Domains with Bounties (Last Updated Fri Nov  8 06:15:35 UTC 2024)
 ```
-*.wellsfargo.com
 connect.secure.wellsfargo.com
+*.wellsfargo.com
 *.wellsfargo.com
 connect.secure.wellsfargo.com
 http://wellsfargo.com
@@ -89,9 +89,9 @@ stats.nba.com
 core-api.nba.com
 id.nba.com
 content-api-prod.nba.com
-cms.nba.com
-cdn.nba.com
 gleague.nba.com
+cdn.nba.com
+cms.nba.com
 bal.nba.com
 www.nba.com
 identity.nba.com
@@ -144,9 +144,9 @@ nmtracking.netflix.com
 presentationtracking.netflix.com
 *.prod.cloud.netflix.com
 ichnaea.netflix.com
-secure.netflix.com
 *.nflxvideo.net
 help.netflix.com
+secure.netflix.com
 *.nflxext.com
 beacon.netflix.com
 *.prod.ftl.netflix.com
@@ -196,10 +196,10 @@ zelleservice.my.site.com
 ews-fusion.my.site.com
 platform.cat.earlywarning.io
 usercontent.koho.ca
-webgateway.koho.ca
 app.koho.ca
-www.koho.ca
+webgateway.koho.ca
 web.koho.ca
+www.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -574,8 +574,8 @@ developer.worldcoin.org
 id.worldcoin.org
 customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
-portal.arkoselabs.com
 verify.arkoselabs.com
+portal.arkoselabs.com
 demo.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
@@ -619,11 +619,11 @@ app.dynamic.xyz
 app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
-payments.hostinger.com
 www.hostinger.com
+payments.hostinger.com
 builder.hostinger.com
-cpanel.hostinger.com
 hpanel.hostinger.com
+cpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -701,11 +701,11 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-chat.booking.com
 readonly.fareharbor.com
 demo.fareharbor.com
-spark.fareharbor.com
 sites.fareharbor.com
+spark.fareharbor.com
+chat.booking.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
@@ -853,8 +853,8 @@ blob.gamma.redoxstage.com
 testapi.redoxengine.com
 dashboard.gamma.redoxstage.com
 www.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -994,8 +994,8 @@ direct-demo.currencycloud.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1041,10 +1041,10 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 sync.services.mozilla.com
 vpn.mozilla.org
 push.services.mozilla.com
-addons.allizom.org
 phabricator.allizom.org
-crash-stats.allizom.org
+addons.allizom.org
 lando.services.mozilla.com
+crash-stats.allizom.org
 community-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 relay.firefox.com
@@ -1059,8 +1059,8 @@ monitor.mozilla.org
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 www.mozilla.org
-bugzilla.mozilla.org
 accounts.firefox.com
+bugzilla.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1125,16 +1125,16 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-external.indrive.dev
+file-storage-front.eu-east-1.indriverapp.com
 debug.clairvoyance.indrive.tech
+external.indrive.dev
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-file-storage-front.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-wga.volans.tech
 ci.indrive.dev
+wga.volans.tech
 profile-api.eu-east-1.indriverapp.com
 volans.tech
 new-order.eu-east-1.indriverapp.com
@@ -1144,8 +1144,8 @@ ab-platform-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 argocd.indrive.dev
 *.indriver.com
-*.indrive.com
 auth2.indrive.tech
+*.indrive.com
 *.indriverapp.com
 *.indriverapp.com
 *.indrive.com
@@ -1179,8 +1179,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1262,7 +1262,6 @@ platform.8x8pilot.com
 sso.8x8pilot.com
 platform.8x8.com
 admin.8x8.com
-sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1535,32 +1534,9 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-social-trading.exness.com
-pay.ibex.exchange
-pwapi.ex2b.com
-exnessaffiliates.com
-my.exness.com
-api.excalls.mobi
-exness.com
-my.exness.com
-pay.ibex.exchange
-https://my.exness.com/webtrading/
-exnessaffiliates.com
-pwapi.ex2b.com
-api.excalls.mobi
-https://my.exness.com/pa/pim/manager
-social-trading.exness.com
-https://my.exness.com/pa/socialtrading
-exness.com
-api.smtp2go.com
-app.smtp2go.com
-smtp2go.com
-smtp2go.com
-app.smtp2go.com
-api.smtp2go.com
 ```
