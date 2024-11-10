@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 10 16:14:37 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 10 17:11:42 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -130,8 +130,8 @@ api.circle.com
 app.circle.com
 console.circle.com
 *.varonis.net
-*.varonis.io
 *.varonis.com
+*.varonis.io
 *.varonis.com
 *.varonis.io
 *.varonis.net
@@ -143,9 +143,9 @@ nmtracking.netflix.com
 presentationtracking.netflix.com
 *.prod.cloud.netflix.com
 ichnaea.netflix.com
+secure.netflix.com
 *.nflxvideo.net
 help.netflix.com
-secure.netflix.com
 *.nflxext.com
 beacon.netflix.com
 *.prod.ftl.netflix.com
@@ -573,8 +573,8 @@ developer.worldcoin.org
 id.worldcoin.org
 customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
-verify.arkoselabs.com
 portal.arkoselabs.com
+verify.arkoselabs.com
 demo.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
@@ -1040,8 +1040,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 sync.services.mozilla.com
 vpn.mozilla.org
 push.services.mozilla.com
-phabricator.allizom.org
 addons.allizom.org
+phabricator.allizom.org
 crash-stats.allizom.org
 lando.services.mozilla.com
 firefox.settings.services.mozilla.com
@@ -1058,8 +1058,8 @@ mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 aus5.mozilla.org
 www.mozilla.org
-monitor.mozilla.org
 support.mozilla.org
+monitor.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1261,6 +1261,7 @@ platform.8x8pilot.com
 sso.8x8pilot.com
 platform.8x8.com
 admin.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1356,19 +1357,19 @@ share.doppler.com
 www.hotwirepartnercentral.com
 www.abritel.fr
 www.flights.com
-www.fewo-direkt.de
-www.bookabach.co.nz
 www.ebookers.fi
+www.fewo-direkt.de
 www.stayz.com.au
+www.bookabach.co.nz
 www.cheaptickets.com
-www.carrentals.com
 *.lastminute.com.au
+www.carrentals.com
 www.lastminute.com.au
 www.travelocity.ca
 www.orbitz.com
+www.expediagroup.com
 www.lastminute.co.nz
 bookus.expediacruises.com
-www.expediagroup.com
 *.wotif.com
 *.lastminute.co.nz
 www.ebookers.com
@@ -1510,8 +1511,8 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
+www.swoodoo.com
 www.momondo.com
 www.kayak.com
 www.checkfelix.com
@@ -1589,8 +1590,8 @@ partners.etoro.com
 billing.etoro.com
 kyc.etoro.com
 api.etoro.com
-delta.app
 push-demo-lightstreamer.cloud.etoro.com
+delta.app
 etoropartners.com
 aggregator.etoro.com
 wallet.etoro.com
@@ -1677,8 +1678,8 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-upld.krisp.ai
 download.krisp.ai
+upld.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 app.krisp.ai
@@ -1932,10 +1933,10 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-matrix.redditspace.com
-meta-api.reddit.com
-*.redditblog.com
 amp.reddit.com
+*.redditblog.com
+meta-api.reddit.com
+matrix.redditspace.com
 *.redditinc.com
 *.spiketrap.io
 api.reddit.com
@@ -1950,9 +1951,9 @@ strapi.reddit.com
 accounts.reddit.com
 m.reddit.com
 sh.reddit.com
-*.memorable.io
 *.snooguts.net
 developers.reddit.com
+*.memorable.io
 business.reddithelp.com
 ads.reddit.com
 *.reddit.com
@@ -2010,14 +2011,14 @@ wp-qa.chime.com
 www.chime.com
 *.chimebank.com
 app.chime.com
-*.1debit.com
 *.chimecard.com
+*.1debit.com
 saltlabs.com
 *.chime.com
-app.saltlabs.com
-*.chmfin.com
 *.saltlabs.com
+app.saltlabs.com
 app.staging.saltlabs.com
+*.chmfin.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -2088,8 +2089,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2182,11 +2183,11 @@ www.pangleglobal.com
 live-backstage.tiktok.com
 affiliate-id.tokopedia.com
 shop-id.tokopedia.com
-ads.tiktok.com
 *.tiktok.com
-business.tiktok.com
 partner.tiktokshop.com
 *.tiktokv.com
+business.tiktok.com
+ads.tiktok.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2208,7 +2209,6 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
-gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2454,8 +2454,8 @@ staking-api.polygon.technology
 staking.polygon.technology
 ecosystem.polygon.technology
 faucet.polygon.technology
-portal.polygon.technology
 ecosystem-api.polygon.technology
+portal.polygon.technology
 staking-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
@@ -2538,8 +2538,8 @@ itv7.itv.com
 *.amazon.cl
 amazonpayinsurance.in
 *.amazon.pl
-*.amazon.com.mx
 *.amazon.nl
+*.amazon.com.mx
 *.amazon.it
 *.amazon.de
 *.amazon.es
@@ -2555,8 +2555,8 @@ amazonpayinsurance.in
 *.amazon.eg
 *.amazon.fr
 *.amazon.com
-*.amazon.in
 *.amazon.com.tr
+*.amazon.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2621,8 +2621,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-all-inclusive.marriott.com
 hotel-deals.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 traveler.marriott.com
@@ -2681,8 +2681,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-docs.datastax.com
 langflow.datastax.com
+docs.datastax.com
 langflow.org
 astra.datastax.com
 www.datastax.com
@@ -2698,9 +2698,9 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.linecorp.com
 *.line.me
 *.line.biz
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2729,8 +2729,8 @@ sensei.pixiv.net
 vroid.com
 novel.pixiv.net
 booth.pm
-accounts.pixiv.net
 coban.pixiv.net
+accounts.pixiv.net
 dic.pixiv.net
 comic.pixiv.net
 hub.vroid.com
@@ -3077,9 +3077,9 @@ www.swiftcapital.com
 *.paylution.com
 *.braintree.tools
 swiftcapital.com
+paypal.me
 swiftfinancial.com
 loanbuilder.com
-paypal.me
 my.swiftfinancial.com
 *.xoom.com
 *.braintreepayments.com
@@ -3088,10 +3088,10 @@ paypalobjects.com
 *.paypalcorp.com
 *.paydiant.com
 api.loanbuilder.com
+sandbox.braintreegateway.com
 *.braintree-api.com
 *.hyperwallet.com
 *.braintreegateway.com
-sandbox.braintreegateway.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3233,10 +3233,10 @@ developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
+www.valvesoftware.com
 www.dota2.com
 help.steampowered.com
 partner.steampowered.com
-www.valvesoftware.com
 partner.steamgames.com
 steamcommunity.com
 store.steampowered.com
@@ -3338,20 +3338,20 @@ gamma.grab.co
 xtramile.grabpay.com
 wiki.grab.com
 *.taralite.com
-*.grab-sure.com
+*.ovo.id
 *.myteksi.com
 manage.grab.co
 *.grab.co
 kartaview.org
-*.ovo.id
+*.grab-sure.com
 *.grabpay.com
 gifts.grab.com
 api.grabpay.com
 jira.grab.com
 *.myteksi.net
 grab.careers
-*.grab.com
 *.grabtaxi.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3485,8 +3485,8 @@ gutenberg.run
  github.com/WordPress
 rockstarnorth.com
 support.rockstargames.com
-circolocorecords.com/
 store.rockstargames.com
+circolocorecords.com/
 prod.ros.rockstargames.com
 *.rockstargames.com
 socialclub.rockstargames.com
@@ -3536,8 +3536,8 @@ www.starbucks.com
 app.starbucks.com
 openapi.starbucks.com
 secureui.starbucks.com
-ws.blockchain.info
 www.blockchain.info
+ws.blockchain.info
 api.blockchain.info
 *.blockchain.com
 *.blockchain.com
@@ -3558,8 +3558,8 @@ talk.brave.com
 account.brave.com
 rubygems.org
 rubygems.org
-*.yelp-support.com
 yelptop100.com
+*.yelp-support.com
 *.yelpwifi.com
 *.yelp.com
 *.yelp.com
@@ -3736,8 +3736,8 @@ businesshelp.snapchat.com
 playcanv.as
 business.snapchat.com
 kit.snapchat.com
-ads.snapchat.com
 *.sc-core.net
+ads.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
 playcanvas.com
