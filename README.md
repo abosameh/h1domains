@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 10 23:14:14 UTC 2024)
+## Domains with Bounties (Last Updated Mon Nov 11 00:52:36 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -111,9 +111,9 @@ mobileapi.insightly.com
 outlook.insightly.com
 marketing.na1.insightly.com
 mobileapi.na1.insightly.com
-login.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
+login.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
 outlook.insightly.com
@@ -130,8 +130,8 @@ api.circle.com
 app.circle.com
 console.circle.com
 *.varonis.net
-*.varonis.com
 *.varonis.io
+*.varonis.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
@@ -619,8 +619,8 @@ app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
 www.hostinger.com
-cpanel.hostinger.com
 payments.hostinger.com
+cpanel.hostinger.com
 builder.hostinger.com
 hpanel.hostinger.com
 www.hostinger.com
@@ -842,16 +842,16 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
+clientcert.gamma.redoxstage.com
 app.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
 testapi.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 dashboard.gamma.redoxstage.com
 www.redoxengine.com
 10x.redoxengine.com
@@ -904,9 +904,9 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
 www.authorize.net
+developer.authorize.net
 www.visa.com.tr
 www.visa.com.sg
 www.visa.com.cn
@@ -1047,17 +1047,17 @@ firefox.settings.services.mozilla.com
 relay.firefox.com
 crash-reports.allizom.org
 merino.services.mozilla.com
-profiler.firefox.com
 firefox-ci-tc.services.mozilla.com
+profiler.firefox.com
 hg.mozilla.org
 community-tc.services.mozilla.com
 developer.mozilla.org
 bugzilla.mozilla.org
-accounts.firefox.com
 mozilla-pontoon-staging.herokuapp.com
+accounts.firefox.com
 www.mozilla.org
-support.mozilla.org
 monitor.mozilla.org
+support.mozilla.org
 aus5.mozilla.org
 crash-stats.allizom.org
 addons.allizom.org
@@ -1124,16 +1124,16 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-file-storage-front.eu-east-1.indriverapp.com
-debug.clairvoyance.indrive.tech
 external.indrive.dev
+debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
+file-storage-front.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-ci.indrive.dev
 wga.volans.tech
+ci.indrive.dev
 profile-api.eu-east-1.indriverapp.com
 volans.tech
 new-order.eu-east-1.indriverapp.com
@@ -1141,8 +1141,8 @@ auth.indrive.tech
 aws.indrive.tech
 cargo.indrive.com
 argocd.indrive.dev
-auth2.indrive.tech
 *.indriver.com
+auth2.indrive.tech
 ab-platform-api.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
@@ -1178,8 +1178,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1345,8 +1345,8 @@ share.doppler.com
 *.yugalabs.io
 *.boredapeyachtclub.com
 *.otherside.xyz
-*.cryptopunks.app
 *.yuga.com
+*.cryptopunks.app
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1357,13 +1357,13 @@ share.doppler.com
 www.hotwirepartnercentral.com
 www.abritel.fr
 www.flights.com
-www.ebookers.fi
 www.fewo-direkt.de
-www.stayz.com.au
 www.bookabach.co.nz
+www.ebookers.fi
+www.stayz.com.au
 www.cheaptickets.com
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 www.lastminute.com.au
 www.orbitz.com
 www.lastminute.co.nz
@@ -1720,7 +1720,6 @@ accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1897,8 +1896,8 @@ tickets.metamask.io
 *.eops.nl
 *.found.io
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1933,10 +1932,10 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-matrix.redditspace.com
-meta-api.reddit.com
-*.redditblog.com
 amp.reddit.com
+*.redditblog.com
+meta-api.reddit.com
+matrix.redditspace.com
 *.redditinc.com
 *.spiketrap.io
 api.reddit.com
@@ -2013,11 +2012,11 @@ www.chime.com
 app.chime.com
 *.chimecard.com
 *.1debit.com
-saltlabs.com
-app.saltlabs.com
-*.chmfin.com
 *.saltlabs.com
+saltlabs.com
 app.staging.saltlabs.com
+*.chmfin.com
+app.saltlabs.com
 *.chime.com
 *.1debit.com
 *.chimebank.com
@@ -2089,8 +2088,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2209,6 +2208,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2454,8 +2454,8 @@ staking-api.polygon.technology
 staking.polygon.technology
 ecosystem.polygon.technology
 faucet.polygon.technology
-portal.polygon.technology
 ecosystem-api.polygon.technology
+portal.polygon.technology
 staking-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
@@ -2537,8 +2537,8 @@ itv7.itv.com
 *.amazon.cl
 amazonpayinsurance.in
 *.amazon.pl
-*.amazon.com.mx
 *.amazon.nl
+*.amazon.com.mx
 *.amazon.it
 *.amazon.de
 *.amazon.es
@@ -2681,8 +2681,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-langflow.datastax.com
 docs.datastax.com
+langflow.datastax.com
 langflow.org
 astra.datastax.com
 www.datastax.com
@@ -2699,8 +2699,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
 *.linecorp.com
-*.line.me
 *.line.biz
+*.line.me
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2729,8 +2729,8 @@ sensei.pixiv.net
 vroid.com
 novel.pixiv.net
 booth.pm
-coban.pixiv.net
 accounts.pixiv.net
+coban.pixiv.net
 dic.pixiv.net
 comic.pixiv.net
 hub.vroid.com
@@ -3233,8 +3233,8 @@ developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
-www.dota2.com
 help.steampowered.com
+www.dota2.com
 partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
@@ -3485,8 +3485,8 @@ gutenberg.run
  github.com/WordPress
 rockstarnorth.com
 support.rockstargames.com
-circolocorecords.com/
 store.rockstargames.com
+circolocorecords.com/
 prod.ros.rockstargames.com
 *.rockstargames.com
 socialclub.rockstargames.com
@@ -3573,8 +3573,8 @@ moneybirdstorage.com
 *.github.net
 npmjs.org
 education.github.com
-classroom.github.com
 *.githubusercontent.com
+classroom.github.com
 npmjs.com
 api.github.com
 gist.github.com
