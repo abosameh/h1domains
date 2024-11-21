@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 21 20:16:47 UTC 2024)
+## Domains with Bounties (Last Updated Thu Nov 21 21:14:17 UTC 2024)
 ```
 api.pab.porsche.com
 api.ppa.porsche.com
@@ -237,7 +237,6 @@ content-api-nextgen-prod.nba.com
 core-api.nba.com
 stats.nba.com
 content-api-prod.nba.com
-2kleague.nba.com
 gleague.nba.com
 id.nba.com
 cdn.nba.com
@@ -262,6 +261,7 @@ corp-dev.nba.com
 manage.nba.com
 mcd.nba.com
 mcdalerts.nba.com
+2kleague.nba.com
 www.nba.com
 gleague.nba.com
 2kleague.nba.com
@@ -381,8 +381,8 @@ ews-fusion.my.site.com
 platform.cat.earlywarning.io
 usercontent.koho.ca
 app.koho.ca
-www.koho.ca
 web.koho.ca
+www.koho.ca
 webgateway.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
@@ -741,8 +741,8 @@ id.worldcoin.org
 worldcoin.org
 *.worldcoin.dev
 bioid-management.app
-*.consumer.worldcoin.org
 toolsforhumanity.com
+*.consumer.worldcoin.org
 developer.worldcoin.org
 *.worldcoin.org
 *.toolsforhumanity.com
@@ -758,8 +758,8 @@ worldcoin.org
 developer.worldcoin.org
 id.worldcoin.org
 customer-sessions.arkoselabs.com
-verify.arkoselabs.com
 portal.arkoselabs.com
+verify.arkoselabs.com
 iframe.arkoselabs.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
@@ -848,12 +848,12 @@ api.mercadopago.com
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolivre.com.br
-www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadopago.com.co
+www.mercadopago.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -995,8 +995,8 @@ pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-staging.io
-oauth-sandbox.gocardless.com
 connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-cicd.io
@@ -1295,8 +1295,8 @@ hiltonbusinessonline.com
 hiltonhotels.jp
 hiltonlocalbiz.com
 hilton.io
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
+*.hiltonhotels.jp
 *.hilton.io
 hilton.com
 *.hilton.com
@@ -1370,8 +1370,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1411,12 +1411,12 @@ mobile.s-pankki.fi
 extranet.s-pankki.fi
 digili.s-cloud.fi
 tunnistus.s-ryhma.fi
-www.prisma.fi
 www.s-kaupat.fi
+www.prisma.fi
 api.sokos.fi
 cfapi.voikukka.fi
-www.s-pankki.fi
 www.sokos.fi
+www.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1485,8 +1485,8 @@ admin.8x8.com
 *.napoleongames.be
 *.magicjackpot.ro
 *.superbet.com
-*.spinaway.com
 *.napoleoncasino.be
+*.spinaway.com
 *.napoleondice.be
 *.superbet.ro
 *.superbet.ro
@@ -1534,8 +1534,8 @@ share.doppler.com
 *.mdvmm.xyz
 *.yugalabs.io
 *.boredapeyachtclub.com
-*.otherside.xyz
 *.cryptopunks.app
+*.otherside.xyz
 *.meebits.app
 *.yuga.com
 *.boredapeyachtclub.com
@@ -1633,8 +1633,8 @@ metrics.deribit.com
 read.amazon.com
 a4k.amazon.com
 skills-store.amazon.com
-alexaanswers.amazon.com
 creator.amazon.com
+alexaanswers.amazon.com
 alexa.amazon.com
 blueprints.amazon.com
 read.amazon.com
@@ -1705,8 +1705,8 @@ www.momondo.com
 www.checkfelix.com
 www.cheapflights.com
 business.kayak.com
-www.hotelscombined.com
 www.swoodoo.com
+www.hotelscombined.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1835,9 +1835,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
+support.databricks.com
 advocates.databricks.com
 docs.databricks.com
-support.databricks.com
 kb.databricks.com
 labs.databricks.com
 community.databricks.com
@@ -1888,8 +1888,8 @@ app.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.clubhouse.com
-*.joinclubhouse.com
 *.clubhouseapi.com
+*.joinclubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1910,7 +1910,7 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-aquiris.com.br
+hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -2113,6 +2113,8 @@ api.taxjar.com
 js.stripe.com
 app.taxjar.com
 api.stripe.com
+*.lemonsqueezy.com
+*.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
 js.stripe.com
@@ -2128,10 +2130,10 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-matrix.redditspace.com
-meta-api.reddit.com
-*.redditblog.com
 amp.reddit.com
+*.redditblog.com
+meta-api.reddit.com
+matrix.redditspace.com
 *.redditinc.com
 mod.reddit.com
 redditforbusiness.com
@@ -2145,9 +2147,9 @@ m.reddit.com
 *.snooguts.net
 api.reddit.com
 sh.reddit.com
-*.reddit.com
 *.memorable.io
 *.redditmedia.com
+*.reddit.com
 *.spiketrap.io
 business.reddithelp.com
 developers.reddit.com
@@ -2202,8 +2204,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-wp-dev5.chime.com
 www.chime.com
+wp-dev5.chime.com
 app.chime.com
 *.chimebank.com
 *.chmfin.com
@@ -2258,8 +2260,8 @@ internal-api-drive-stream.larksuite.com
 app.larksuite.com
 api.larksuite.com
 open.larksuite.com
-larksuite.com
 hackers_chosendomain.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2364,15 +2366,15 @@ careers.tiktok.com
 affiliate-id.tokopedia.com
 www.pangleglobal.com
 pay.tokopediax.com
-creatormarketplace.tiktok.com
 fp-sg.tiktokv.com
-*.tiktok.com
 tiktok.com
-*.tiktokv.com
 partner.tiktokshop.com
 ads.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
+*.tiktokv.com
+creatormarketplace.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2440,8 +2442,8 @@ api.faraday.ai
 *.5nine.com
 *.acronis.work
 account.acronis.com
-beta-cloud.acronis.com
 *.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2619,8 +2621,8 @@ direct.playstation.com
 transact.playstation.com
 my.account.sony.com
 store.playstation.com
-ca.account.sony.com
 api.direct.playstation.com
+ca.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.playstation.net
@@ -2806,8 +2808,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-all-inclusive.marriott.com
 hotel-deals.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 www.marriott.com
@@ -2866,8 +2868,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-langflow.datastax.com
 docs.datastax.com
+langflow.datastax.com
 langflow.org
 astra.datastax.com
 www.datastax.com
@@ -3031,8 +3033,8 @@ https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
 offsite.omise.co
-www.omise.co
 www.opn.ooo
+www.omise.co
 dashboard.omise.co
 api.omise.co
 vault.omise.co
@@ -3072,24 +3074,24 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-res.hyattinclusivecollection.com
-jira.hyattdev.com
-res.funjet.com
-new.www.vaxvacationaccess.com
-res.universalorlandovacations.com
-www.funjet.com
-res.vacations.united.com
-www.hyattinclusivecollection.com
-www.beachbound.com
 book.beachbound.com
 www.triseptsolutions.com
+www.funjet.com
+res.universalorlandovacations.com
+res.vacations.united.com
+res.hyattinclusivecollection.com
+res.funjet.com
+jira.hyattdev.com
+new.www.vaxvacationaccess.com
+www.hyattinclusivecollection.com
+www.beachbound.com
 login.en.travelbrandsagent.com
 vacations.united.com
 www.cheapcaribbean.com
 res.en.travelbrandsagent.com
 res.skyteam.com
-login.www.vaxvacationaccess.com
-res.blueskytours.globalbookingsolutions.com
+vacations.universalstudioshollywood.com
+login.fr.travelbrandsagent.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3270,9 +3272,9 @@ paypal.me
 *.braintreepayments.com
 *.braintreegateway.com
 *.hyperwallet.com
-*.braintree-api.com
 *.paypal.com
 *.paypalcorp.com
+*.braintree-api.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3565,9 +3567,9 @@ hotornot.com
 eu1.badoo.com
 badoocdn.com
 getofficial.co
-www.bumble.com
 chatdate.app
 badoo.com
+www.bumble.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3869,13 +3871,13 @@ shopify.plus
 partners.shopify.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
-shop.app
 *.shopifycloud.com
-accounts.shopify.com
 *.shopify.io
 your-store.myshopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
+accounts.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3919,9 +3921,9 @@ developer.playcanvas.com
 web.snapchat.com
 www.bitmoji.com
 *.sc-core.net
-business.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4011,8 +4013,8 @@ next.airbnb.com
 *.airbnb-aws.com
 *.byairbnb.com
 api.airbnb.com
-*.hoteltonight-test.com
 *.hoteltonight.com
+*.hoteltonight-test.com
 *.muscache.com
 www.airbnb.com
 www.hoteltonight.com
@@ -4043,9 +4045,10 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
-donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
+api.vhx.tv
+donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -4091,8 +4094,8 @@ www.greenhouse.io
 *.twimg.com
 *.vine.co
 gnip.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4149,9 +4152,9 @@ irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
 *.irccloud-cdn.com
-*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
+*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -4225,9 +4228,9 @@ apis.mail.yahoo.com
 yimg.com
 profile-photos-us-east-2.hackerone-user-content.com
 mta-sts.wearehackerone.com
-cover-photos.hackerone-user-content.com
-hackathon-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+hackathon-photos.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
