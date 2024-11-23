@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 23 13:17:53 UTC 2024)
+## Domains with Bounties (Last Updated Sat Nov 23 14:13:02 UTC 2024)
 ```
 api.pab.porsche.com
 api.ppa.porsche.com
@@ -50,9 +50,9 @@ xn--porsche-wrzburg-7vb.de
 connect-store.porsche.com
 api-frontend.pab.porsche.com
 capitalmarketsday.porsche.com
-porshedesign.com
 porschezentrumbremen.de
 porsche-duesseldorf.de
+porshedesign.com
 api-frontend.pab.porsche.com
 api.emea.gravity.porsche.com
 api.pab.porsche.com
@@ -239,24 +239,24 @@ cdn.nba.com
 cms.nba.com
 bal.nba.com
 teamportal.nba.com
-syndication.nba.com
-cweb-ott.nba.com
-stats.wnba.com
-stats.gleague.nba.com
-stats.2kleague.nba.com
 corp-dev.nba.com
 manage.nba.com
-manage-teams.nba.com
 nbafedsvc.nba.com
-vote.nba.com
+manage-teams.nba.com
 mcd.nba.com
 mcdalerts.nba.com
 elm.nba.com
+syndication.nba.com
+cweb-ott.nba.com
+stats.gleague.nba.com
+stats.2kleague.nba.com
+stats.wnba.com
+vote.nba.com
 www.wnba.com
+identity.nba.com
+2kleague.nba.com
 id.nba.com
 gleague.nba.com
-2kleague.nba.com
-identity.nba.com
 cdn-bal.nba.com
 lockervision.nba.com
 www.nba.com
@@ -837,7 +837,6 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadopago.com.uy
-www.mercadolibre.com.mx
 www.mercadopago.com.mx
 www.mercadolibre.com.uy
 www.mercadolibre.com.pe
@@ -852,6 +851,7 @@ www.mercadolivre.com.br
 api.mercadolibre.com
 www.mercadopago.cl
 www.mercadolibre.cl
+www.mercadolibre.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1087,9 +1087,9 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
 www.authorize.net
+developer.authorize.net
 www.visa.com.cn
 cw.visa.com
 www.visa.com.mx
@@ -1180,8 +1180,8 @@ developer.currencycloud.com
 direct-demo.currencycloud.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.freshcaller.com
+yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1243,11 +1243,11 @@ developer.mozilla.org
 crash-stats.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
-www.mozilla.org
 accounts.firefox.com
 support.mozilla.org
 merino.services.mozilla.com
 addons.allizom.org
+www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1498,8 +1498,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 web3.moonpay.com
-*.hypermint.com
 sell.moonpay.com
+*.hypermint.com
 auth.moonpay.com
 api.moonpay.com
 buy.moonpay.com
@@ -1543,11 +1543,11 @@ share.doppler.com
 *.mdvmm.xyz
 www.abritel.fr
 www.flights.com
-www.ebookers.fi
 www.fewo-direkt.de
+www.ebookers.fi
 www.cheaptickets.com
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 www.lastminute.com.au
 www.lastminute.co.nz
 bookus.expediacruises.com
@@ -1559,8 +1559,8 @@ www.expediataap.com
 www.wotif.com
 www.expediaagents.com
 www.orbitz.com
-www.mrjet.se
 *.cheaptickets.com
+www.mrjet.se
 *.travelocity.com
 *.expediapartnercentral.com
 *.wotif.com
@@ -1701,8 +1701,8 @@ www.momondo.com
 www.checkfelix.com
 www.cheapflights.com
 business.kayak.com
-www.hotelscombined.com
 www.swoodoo.com
+www.hotelscombined.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1775,8 +1775,8 @@ partners.etoro.com
 billing.etoro.com
 kyc.etoro.com
 api.etoro.com
-push-demo-lightstreamer.cloud.etoro.com
 delta.app
+push-demo-lightstreamer.cloud.etoro.com
 aggregator.etoro.com
 wallet.etoro.com
 bullsheet.me
@@ -1831,9 +1831,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
-support.databricks.com
 advocates.databricks.com
 docs.databricks.com
+support.databricks.com
 kb.databricks.com
 labs.databricks.com
 community.databricks.com
@@ -1841,8 +1841,8 @@ help.databricks.com
 customer-academy.databricks.com
 partners.databricks.com
 accounts.cloud.databricks.com
-databricks.com
 academy.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1863,8 +1863,8 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-download.krisp.ai
 upld.krisp.ai
+download.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 krisp.ai
@@ -1906,7 +1906,6 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -2107,8 +2106,8 @@ api.taxjar.com
 *.stripe.com
 js.stripe.com
 api.stripe.com
-*.link.co
 app.taxjar.com
+*.link.co
 api.stripe.com
 *.stripe.com
 js.stripe.com
@@ -2136,7 +2135,6 @@ gql.reddit.com
 *.reddithelp.com
 gateway.reddit.com
 strapi.reddit.com
-accounts.reddit.com
 m.reddit.com
 *.snooguts.net
 api.reddit.com
@@ -2148,6 +2146,7 @@ business.reddithelp.com
 *.reddit.com
 developers.reddit.com
 ads.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2198,8 +2197,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-www.chime.com
 wp-dev5.chime.com
+www.chime.com
 app.chime.com
 *.chimebank.com
 *.chmfin.com
@@ -2279,8 +2278,8 @@ ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 code.yoti.com
-core.yoti.com
 hub.yoti.com
+core.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2362,13 +2361,13 @@ creatormarketplace.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 seller-id.tokopedia.com
 ads.tiktok.com
-www.pangleglobal.com
 *.tiktokv.com
 business.tiktok.com
 academy-outbound-ads.tiktok.com
+tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2732,10 +2731,10 @@ amazonpayinsurance.in
 *.amazon.ca
 *.amazon.com.au
 *.amazon.ae
-*.amazon.com
 *.amazon.de
-*.amazon.in
 *.amazon.cn
+*.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2860,8 +2859,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-docs.datastax.com
 langflow.datastax.com
+docs.datastax.com
 langflow.org
 astra.datastax.com
 www.datastax.com
@@ -3406,8 +3405,8 @@ support.steampowered.com
 developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
-partner.steampowered.com
 www.dota2.com
+partner.steampowered.com
 steamcommunity.com
 help.steampowered.com
 www.valvesoftware.com
@@ -3516,10 +3515,10 @@ manage.grab.co
 *.grabpay.com
 *.grab.co
 gifts.grab.com
-p.grabtaxi.com
 *.taralite.com
 *.grabtaxi.com
 grab.careers
+p.grabtaxi.com
 jira.grab.com
 *.myteksi.net
 *.grab-sure.com
@@ -3689,8 +3688,8 @@ cdna.lystit.com
 mobileapi.lystit.com
 try.discourse.org
 try.discourse.org
-*.quora.com
 poe.com
+*.quora.com
 *.quora.com
 http://poe.com
 forum.portswigger.net
@@ -3720,8 +3719,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-search.brave.com
 account.brave.com
+search.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3824,9 +3823,9 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 *.derivws.com
 oauth.deriv.com
+derivws.com
 api.deriv.com
 smarttrader.deriv.com
-derivws.com
 app.deriv.com
 *.binary.com
 *.deriv.com
@@ -3866,10 +3865,10 @@ arrive-server.shopifycloud.com
 *.shopify.io
 *.shopifycloud.com
 shop.app
-your-store.myshopify.com
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4036,10 +4035,10 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
-donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
 api.vhx.tv
+donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -4071,8 +4070,8 @@ interseller.io
 support.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
-app.greenhouse.io
 www.greenhouse.io
+app.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -4085,8 +4084,8 @@ www.greenhouse.io
 *.twimg.com
 *.vine.co
 gnip.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4109,8 +4108,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-t.umblr.com
 akismet.com
+t.umblr.com
 gravatar.com
 simperium.com
 api.tumblr.com
@@ -4166,8 +4165,8 @@ pro.coinbase.com
 *.cbhq.net
 prime.coinbase.com
 *.base.org
-*.coinbase.com
 api.coinbase.com
+*.coinbase.com
 coinbase.com
 commerce.coinbase.com
 *.coinbase.com
@@ -4193,10 +4192,10 @@ slackatwork.com
 slack-imgs.com
 *.quip.com
 slack-status.com
-slack.com
 app.slack.com
 edgeapi.slack.com
 api.slack.com
+slack.com
 slack.com
 api.slack.com
 slackb.com
