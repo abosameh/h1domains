@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  7 13:21:59 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec  7 14:13:46 UTC 2024)
 ```
 bcny.com
-arc.net
 thebrowser.company
+arc.net
 arc.net
 thebrowser.company
 bcny.com
@@ -24,8 +24,8 @@ eligibility.khealth.com
 treatments.khealth.com
 anthem.khealth.com
 api.khealth.io
-api.khealth.com
 start.khealth.com
+api.khealth.com
 app.khealth.com
 www.kpharmacyllc.com
 accounts.khealth.com
@@ -63,7 +63,6 @@ api.khealth.com
 gnocchi-www.buffalo-ggn.net
 *.serious.li
 *.caesarsgames.com
-bestfiends.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -93,22 +92,21 @@ vfo03.vodafone.om
 stats-trafficcop-prod.nba.com
 content-api-nextgen-prod.nba.com
 core-api.nba.com
-content-api-prod.nba.com
 stats.nba.com
+content-api-prod.nba.com
 manage-teams.nba.com
-mcd.nba.com
-mcdalerts.nba.com
 elm.nba.com
 cweb-ott.nba.com
 stats.gleague.nba.com
 stats.2kleague.nba.com
+mcd.nba.com
+mcdalerts.nba.com
 nbafedsvc.nba.com
 id.nba.com
 vote.nba.com
+identity.nba.com
 cdn-bal.nba.com
 cdn.nba.com
-identity.nba.com
-www.wnba.com
 cms.nba.com
 manage.nba.com
 syndication.nba.com
@@ -120,6 +118,7 @@ stats.wnba.com
 www.nba.com
 bal.nba.com
 lockervision.nba.com
+www.wnba.com
 www.nba.com
 gleague.nba.com
 2kleague.nba.com
@@ -192,8 +191,8 @@ secure.netflix.com
 meechum.netflix.com
 help.netflix.com
 *.prod.cloud.netflix.com
-*.nflxext.com
 www.netflix.com
+*.nflxext.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -362,8 +361,8 @@ app3.rewire.to
 blog.remitly.com
 api.remitly.io
 *.dev.remitly.com
-*.int.remitly.com
 careers.remitly.com
+*.int.remitly.com
 rewire.com
 remitly.com
 app.rewire.to
@@ -544,17 +543,17 @@ taxis.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-sites.fareharbor.com
 readonly.fareharbor.com
+sites.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 *.fareharbor.engineering
 fhdn.fareharbor.com
 fareharborsites.com
 taxi.booking.com
+spark.fareharbor.com
 chat.booking.com
 admin.booking.com
-spark.fareharbor.com
 demo.fareharbor.com
 *.fareharbor.com
 *.booking.com
@@ -644,8 +643,8 @@ https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
 pay-sandbox.gocardless.com
-connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
+connect-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-cicd.io
@@ -744,8 +743,8 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
+developer.authorize.net
 www.visa.com.cn
 cw.visa.com
 www.visa.com.mx
@@ -765,8 +764,8 @@ developer.visa.com
 www.visa.co.in
 www.yellowpepper.com
 www.visa.com.br
-bb.visa.com
 www.visa.com.cy
+bb.visa.com
 test.payworks.io
 aw.visa.com
 bb.visa.com
@@ -970,8 +969,8 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-debug.clairvoyance.indrive.tech
 external.indrive.dev
+debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
@@ -989,9 +988,9 @@ volans.tech
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth2.indrive.tech
+*.indrive.com
 *.indriverapp.com
 *.indriver.com
-*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1064,8 +1063,8 @@ oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.prisma.fi
 www.s-kaupat.fi
+www.prisma.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.sokos.fi
@@ -1214,16 +1213,16 @@ www.orbitz.com
 www.mrjet.se
 *.travelocity.com
 *.expediapartnercentral.com
-www.travelocity.ca
 www.stayz.com.au
+www.travelocity.ca
 www.ebookers.com
 www.bookabach.co.nz
 *.wotif.com
 *.cheaptickets.com
-www.travelocity.com
 *.expediacruises.com
-*.carrentals.com
+www.travelocity.com
 www.lastminute.co.nz
+*.carrentals.com
 *.hotwire.com
 www.hotels.com
 *.vrbo.com
@@ -1264,8 +1263,8 @@ www.flights.com
 bookus.expediacruises.com
 www.expediataap.com
 *.magiceden.workers.dev
-magiceden.io
 *.magiceden.dev
+magiceden.io
 *.magiceden.io
 magiceden.io
 *.magiceden.io
@@ -1522,9 +1521,9 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-upld.krisp.ai
 download.krisp.ai
 teams.krisp.ai
+upld.krisp.ai
 analytics.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1565,7 +1564,6 @@ accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1860,8 +1858,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-www.chime.com
 wp-dev5.chime.com
+www.chime.com
 *.chmfin.com
 app.staging.saltlabs.com
 *.chime.com
@@ -1941,8 +1939,8 @@ ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 code.yoti.com
-hub.yoti.com
 core.yoti.com
+hub.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2026,8 +2024,8 @@ seller-id.tokopedia.com
 www.pangleglobal.com
 tiktok.com
 academy-outbound-ads.tiktok.com
-*.tiktok.com
 live-backstage.tiktok.com
+*.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 ads.tiktok.com
@@ -2381,14 +2379,14 @@ itv7.itv.com
 *.amazon.com.tr
 *.amazon.sa
 *.amazon.es
-amazonpayinsurance.in
 *.amazon.com.au
 *.amazon.pl
+amazonpayinsurance.in
 *.amazon.co.jp
+*.amazon.fr
+*.amazon.ca
 *.amazon.it
 *.amazon.co.uk
-*.amazon.ca
-*.amazon.fr
 *.amazon.ae
 *.amazon.de
 *.amazon.nl
@@ -2503,8 +2501,8 @@ www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
 blox.link
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2730,11 +2728,11 @@ res.en.travelbrandsagent.com
 res.skyteam.com
 res.blueskytours.globalbookingsolutions.com
 vacations.travelimpressions.com
-vacations.universalstudioshollywood.com
-res.vacations.discoverycove.com
-holidays-us.fijiairways.com
-newsroom.images.hyatt.com
 login.fr.travelbrandsagent.com
+vacations.universalstudioshollywood.com
+holidays-nz.fijiairways.com
+newsroom.images.hyatt.com
+res.vacations.discoverycove.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3060,8 +3058,8 @@ www.fitvermogen.nl
 playartifact.com
 support.steampowered.com
 www.teamfortress.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3256,8 +3254,8 @@ assets.spotify.com
 assets.spotify.com
 backstage.io
 logs.dashlane.com
-ws1.dashlane.com
 app.dashlane.com
+ws1.dashlane.com
 www.dashlane.com
 console.dashlane.com
 api.dashlane.com
@@ -3372,8 +3370,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-account.brave.com
 search.brave.com
+account.brave.com
 brave.com
 talk.brave.com
 brave.com
@@ -3476,8 +3474,8 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 *.derivws.com
 oauth.deriv.com
-api.deriv.com
 smarttrader.deriv.com
+api.deriv.com
 *.binary.com
 derivws.com
 *.deriv.com
@@ -3513,7 +3511,6 @@ shopifyinbox.com
 *.shopifykloud.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
-*.shopifycloud.com
 shopify.plus
 *.shopify.io
 accounts.shopify.com
@@ -3522,6 +3519,7 @@ partners.shopify.com
 shop.app
 admin.shopify.com
 *.shopify.com
+*.shopifycloud.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3541,11 +3539,11 @@ map.snapchat.com
 www.bitstrips.com
 scan.snapchat.com
 store.playcanvas.com
-story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 launch.playcanvas.com
+story.snapchat.com
 login.playcanvas.com
 spectacles.com
 snappublisher.snapchat.com
@@ -3557,8 +3555,8 @@ geofilters.snapchat.com
 developer.playcanvas.com
 *.sc-core.net
 ads.snapchat.com
-app.snapchat.com
 *.sc-corp.net
+app.snapchat.com
 code.playcanvas.com
 store.snapchat.com
 my.snapchat.com
@@ -3688,9 +3686,9 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
+donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
-donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3767,10 +3765,10 @@ api.tumblr.com
 assets.tumblr.com
 safe.tumblr.com
 wordpress.com
-mailpoet.com
-simperium.com
 intensedebate.com
 *.tumblr.com
+simperium.com
+mailpoet.com
 my.pressable.com
 www.tumblr.com
 simplenote.com
@@ -3794,9 +3792,9 @@ intensedebate.com
 irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
-*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
+*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud-cdn.com
@@ -3871,8 +3869,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 profile-photos-us-east-2.hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3883,8 +3881,8 @@ reviewer.pullrequest.com
 hackerone.live
 ctf.hacker101.com
 www.wearehackerone.com
-a5s.hackerone-ext-content.com
 errors.hackerone.net
+a5s.hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
