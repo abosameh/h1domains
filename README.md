@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 15 11:12:07 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec 15 12:22:43 UTC 2024)
 ```
 http://--your-own-1password-account--.1password.com
 https://bugbounty-ctf.1password.com/
@@ -37,8 +37,8 @@ eligibility.khealth.com
 treatments.khealth.com
 anthem.khealth.com
 api.khealth.io
-start.khealth.com
 api.khealth.com
+start.khealth.com
 app.khealth.com
 www.kpharmacyllc.com
 salesforce.khealth.com
@@ -77,7 +77,6 @@ gnocchi-www.buffalo-ggn.net
 *.bingoblitz.com
 bestfiends.com
 *.houseoffun.com
-*.wooga.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -378,8 +377,8 @@ api.remitly.io
 site.rewire.com
 app.rewire.to
 rewire.com
-careers.remitly.com
 blog.remitly.com
+careers.remitly.com
 *.int.remitly.com
 remitly.com
 *.int.remitly.com
@@ -412,8 +411,8 @@ bioid-management.app
 toolsforhumanity.com
 worldcoin.org
 id.worldcoin.org
-*.toolsforhumanity.com
 *.worldcoin.dev
+*.toolsforhumanity.com
 *.consumer.worldcoin.org
 developer.worldcoin.org
 *.worldcoin.org
@@ -521,8 +520,8 @@ www.mercadolivre.com.br
 www.mercadolibre.cl
 www.mercadopago.cl
 api.mercadopago.com
-api.mercadolibre.com
 www.mercadopago.com.ar
+api.mercadolibre.com
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolibre.com.ar
@@ -560,17 +559,17 @@ taxis.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-readonly.fareharbor.com
 sites.fareharbor.com
+readonly.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 *.fareharbor.engineering
 fareharborsites.com
 taxi.booking.com
-spark.fareharbor.com
 chat.booking.com
-kyc-onboarding.booking.com
+spark.fareharbor.com
 cars.booking.com
+kyc-onboarding.booking.com
 accommodations.booking.com
 www.fareharbor.com
 flights.booking.com
@@ -668,8 +667,8 @@ https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
 pay-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
 connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-staging.io
 *.gocardless.io
@@ -763,14 +762,14 @@ www.visa.co.jp
 www.visa.co.ke
 visa.co.ni
 www.visa.co.th
-www.visa.com.cn
-cw.visa.com
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
+developer.authorize.net
+www.visa.com.cn
+cw.visa.com
 www.visa.com.mx
 bq.visa.com
 www.visa.co.uk
@@ -990,8 +989,8 @@ hiltonlocalbiz.com
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-external.indrive.dev
 debug.clairvoyance.indrive.tech
+external.indrive.dev
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
@@ -1009,8 +1008,8 @@ new-order.eu-east-1.indriverapp.com
 auth2.indrive.tech
 *.indriver.com
 cargo.indrive.com
-ab-platform-api.eu-east-1.indriverapp.com
 *.indriverapp.com
+ab-platform-api.eu-east-1.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1230,13 +1229,13 @@ www.expediaagents.com
 www.orbitz.com
 www.mrjet.se
 *.expediapartnercentral.com
-www.travelocity.ca
 www.stayz.com.au
+www.travelocity.ca
 www.bookabach.co.nz
 *.wotif.com
 *.cheaptickets.com
-www.travelocity.com
 *.expediacruises.com
+www.travelocity.com
 www.hotels.com
 www.flights.com
 www.hotwirepartnercentral.com
@@ -2070,6 +2069,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2112,8 +2112,8 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.5nine.com
 *.devicelock.com
+*.5nine.com
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.work
@@ -2400,15 +2400,15 @@ itv7.itv.com
 *.amazon.com.be
 *.amazon.com.tr
 *.amazon.es
-amazonpayinsurance.in
 *.amazon.pl
+amazonpayinsurance.in
 *.amazon.it
 *.amazon.nl
 *.amazon.sg
 *.amazon.se
 *.amazon.com.co
-*.amazon.com.au
 *.amazon.eg
+*.amazon.com.au
 *.amazon.sa
 *.amazon.com.br
 *.amazon.co.jp
@@ -2419,8 +2419,8 @@ amazonpayinsurance.in
 *.amazon.com.mx
 *.amazon.ca
 *.amazon.de
-*.amazon.com
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2525,16 +2525,16 @@ www.goodrx.com
 *.rbx.com
 blox.link
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
 *.ra.roblox.com
 blox.link
 cdn.localizestaging.com
-api.localizestaging.com
 localizestaging.com
+api.localizestaging.com
 app.localizestaging.com
 localizestaging.com
 api.localizestaging.com
@@ -2562,9 +2562,9 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.line.biz
 *.linecorp.com
 *.line.me
+*.line.biz
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2994,8 +2994,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
 testnet.bitmex.com
-*.bitmex.com
 www.bitmex.com
+*.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 www.bitmex.com
@@ -3088,12 +3088,12 @@ www.dota2.com
 partner.steampowered.com
 www.valvesoftware.com
 developer.valvesoftware.com
-www.counter-strike.net
 help.steampowered.com
 steamcommunity.com
 partner.steamgames.com
 store.steampowered.com
 api.steampowered.com
+www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3347,9 +3347,9 @@ support.rockstargames.com
 store.rockstargames.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 your-assigned-subdomain.files.com
 www.files.com
+app.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3781,8 +3781,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-t.umblr.com
 akismet.com
+t.umblr.com
 api.tumblr.com
 assets.tumblr.com
 safe.tumblr.com
@@ -3817,8 +3817,8 @@ team-irc.irccloud.com
 api.irccloud.com
 blog.irccloud.com
 *.irccloud-cdn.com
-*.irccloud.com
 irccloud.com
+*.irccloud.com
 www.irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -3866,9 +3866,9 @@ slack-status.com
 slack.com
 slack-imgs.com
 www.quip.com
+edgeapi.slack.com
 app.slack.com
 api.slack.com
-edgeapi.slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3901,8 +3901,8 @@ api.hackerone.com
 hackerone.live
 reviewer.pullrequest.com
 mta-sts.wearehackerone.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
