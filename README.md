@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 21 22:12:51 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec 21 23:12:56 UTC 2024)
 ```
 http://--your-own-1password-account--.1password.com
 https://bugbounty-ctf.1password.com/
@@ -26,10 +26,7 @@ bcny.com
 www.starbucks.com.cn/
 www.starbucks.com.cn/
 www.starbucks.at
-www.starbucks.be
-www.starbucks.bg
-www.starbucks.cz/
-www.starbucks.eg
+www.starbucks.co.uk/
 www.starbucks.fr/
 www.starbucks.hu
 www.starbucks.it/
@@ -39,10 +36,12 @@ www.starbucks.no
 www.starbucks.pt/
 www.starbucks.ie/
 www.starbucks.ro
+www.starbucks.be
+www.starbucks.bg
+www.starbucks.cz/
+www.starbucks.eg
 www.starbucksslovakia.sk/
 www.starbucks.es
-www.starbucks.ch
-www.starbucks.co.uk/
 www.starbucks.de
 www.starbucks.com.tr
 www.starbucks.pl
@@ -50,6 +49,7 @@ www.starbucks.co.za/
 www.roastery.starbucks.it
 card.starbucks.com.gr/
 card.starbucks.com.cy/
+www.starbucks.ch
 https://www.starbucks.at
 www.starbucks.be
 www.starbucks.bg
@@ -87,8 +87,8 @@ eligibility.khealth.com
 treatments.khealth.com
 anthem.khealth.com
 api.khealth.io
-api.khealth.com
 start.khealth.com
+api.khealth.com
 app.khealth.com
 www.kpharmacyllc.com
 salesforce.khealth.com
@@ -158,12 +158,12 @@ vfo03.vodafone.om
 content-api-nextgen-prod.nba.com
 content-api-prod.nba.com
 stats.nba.com
-cweb-ott.nba.com
-stats.gleague.nba.com
 manage-teams.nba.com
 mcd.nba.com
 mcdalerts.nba.com
 elm.nba.com
+cweb-ott.nba.com
+stats.gleague.nba.com
 nbafedsvc.nba.com
 cdn-bal.nba.com
 cdn.nba.com
@@ -174,8 +174,8 @@ corp-dev.nba.com
 manage.nba.com
 vote.nba.com
 gleague.nba.com
-syndication.nba.com
 www.wnba.com
+syndication.nba.com
 2kleague.nba.com
 bal.nba.com
 stats.2kleague.nba.com
@@ -183,8 +183,8 @@ cms.nba.com
 lockervision.nba.com
 id.nba.com
 identity.nba.com
-www.nba.com
 core-api.nba.com
+www.nba.com
 www.nba.com
 gleague.nba.com
 2kleague.nba.com
@@ -304,8 +304,8 @@ ews-fusion.my.site.com
 platform.cat.earlywarning.io
 usercontent.koho.ca
 app.koho.ca
-web.koho.ca
 webgateway.koho.ca
+web.koho.ca
 www.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
@@ -397,8 +397,8 @@ www.gr.dyson.com
 www.dyson.com.ee
 *.dyson.com
 *-asia-south1.truecaller.com
-*-eu.truecaller.com
 *-noneu.truecaller.com
+*-eu.truecaller.com
 business-resources.truecaller.com
 web.truecaller.com
 business.truecaller.com
@@ -530,8 +530,8 @@ app.dynamic.xyz
 app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
-payments.hostinger.com
 www.hostinger.com
+payments.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
 builder.hostinger.com
@@ -545,11 +545,11 @@ education.23andme.com
 api.23andme.com
 therapeutics.23andme.com
 store.23andme.com
-you.23andme.com
 blog.23andme.com
-auth.23andme.com
-medical.23andme.com
+you.23andme.com
 research.23andme.com
+medical.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -688,8 +688,8 @@ kronor.io
 *.travix.com
 *.trainpal.com
 *.mytrainpal.com
-*.trip.com
 *.cheaptickets.nl
+*.trip.com
 *.trip.com
 *.travix.com
 *.travix.io
@@ -726,8 +726,8 @@ oauth-sandbox.gocardless.com
 *.gocardless-banking.io
 auth0.gocardless.com
 *.gocardless-lab.io
-www.gocardless.com
 *.gocardless-cicd.io
+www.gocardless.com
 api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless.io
@@ -818,8 +818,8 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
+developer.authorize.net
 www.visa.com.cn
 cw.visa.com
 www.visa.com.mx
@@ -837,8 +837,8 @@ www.visa.com.kz
 www.visa.co.in
 www.yellowpepper.com
 www.visa.com.br
-bb.visa.com
 www.visa.com.cy
+bb.visa.com
 test.payworks.io
 www.visa.com.tr
 bd.visa.com
@@ -955,17 +955,17 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-relay.firefox.com
 sync.services.mozilla.com
 vpn.mozilla.org
 api.profiler.firefox.com
+relay.firefox.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 phabricator.allizom.org
 lando.services.mozilla.com
-crash-stats.allizom.org
 crash-reports.allizom.org
+crash-stats.allizom.org
 community-tc.services.mozilla.com
 aus5.mozilla.org
 firefox.settings.services.mozilla.com
@@ -1135,8 +1135,8 @@ oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-kaupat.fi
 www.prisma.fi
+www.s-kaupat.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.sokos.fi
@@ -1158,8 +1158,8 @@ cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
 tequila.kiwi.com
-www.kiwi.com
 *.kiwi.com
+www.kiwi.com
 *.skypicker.com
 *.kiwi.com
 *.skypicker.com
@@ -1279,12 +1279,12 @@ www.expediataap.com
 www.expediaagents.com
 www.orbitz.com
 www.mrjet.se
-www.stayz.com.au
 www.travelocity.ca
+www.stayz.com.au
 www.bookabach.co.nz
 *.wotif.com
-*.expediacruises.com
 www.travelocity.com
+*.expediacruises.com
 www.flights.com
 www.hotwirepartnercentral.com
 *.travelocity.com
@@ -1360,8 +1360,8 @@ skills-store.amazon.com
 creator.amazon.com
 a4k.amazon.com
 blueprints.amazon.com
-alexa.amazon.com
 alexaanswers.amazon.com
+alexa.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1592,8 +1592,8 @@ https://dbc-9a3f8ed1-7608.cloud.databricks.com
 payoneer.com.cn
 *.payoneer.com
 payoneer.com.cn
-download.krisp.ai
 upld.krisp.ai
+download.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
@@ -1871,11 +1871,11 @@ business.reddithelp.com
 *.snooguts.net
 amp.reddit.com
 new.reddit.com
+*.reddit.com
+ads.reddit.com
 gql.reddit.com
 *.memorable.io
-*.reddit.com
 developers.reddit.com
-ads.reddit.com
 accounts.reddit.com
 sh.reddit.com
 mod.reddit.com
@@ -2095,11 +2095,11 @@ developers.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
 *.tiktok.com
-*.tiktokv.com
 tiktok.com
 ads.tiktok.com
 affiliate-id.tokopedia.com
 live-backstage.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2448,8 +2448,8 @@ itv7.itv.com
 *.amazon.co.za
 *.amazon.cl
 *.amazon.com.tr
-amazonpayinsurance.in
 *.amazon.pl
+amazonpayinsurance.in
 *.amazon.it
 *.amazon.nl
 *.amazon.sg
@@ -2469,8 +2469,8 @@ amazonpayinsurance.in
 *.amazon.co.jp
 *.amazon.es
 *.amazon.ae
-*.amazon.com
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2535,8 +2535,8 @@ homes-and-villas.marriott.com
 all-inclusive.marriott.com
 hotel-deals.marriott.com
 www.ritzcarlton.com
-careers.marriott.com
 gatewaydsaptst2.marriott.com
+careers.marriott.com
 mgs.marriott.com
 traveler.marriott.com
 activities.marriott.com
@@ -2575,8 +2575,8 @@ www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
 blox.link
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2598,8 +2598,8 @@ downloads.datastax.com
 langflow.datastax.com
 docs.datastax.com
 langflow.org
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2921,8 +2921,8 @@ login.tvg.com
 *racing.fanduel.com
 www.tvg.com
 ia.tvg.com
-*.numberfire.com
 sportsbook.fanduel.com
+*.numberfire.com
 fanduel.com
 fdbox.net
 tvg.com
@@ -3241,10 +3241,10 @@ wiki.grab.com
 *.myteksi.com
 manage.grab.co
 p.grabtaxi.com
-gifts.grab.com
-grab.careers
 jira.grab.com
+grab.careers
 *.taralite.com
+gifts.grab.com
 kartaview.org
 *.ovo.id
 api.grabpay.com
@@ -3389,8 +3389,8 @@ store.rockstargames.com
 socialclub.rockstargames.com
 circolocorecords.com/
 prod.ros.rockstargames.com
-rockstarnorth.com
 support.rockstargames.com
+rockstarnorth.com
 *.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
@@ -3399,8 +3399,8 @@ support.rockstargames.com
 store.rockstargames.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
+www.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3430,8 +3430,8 @@ secureui.starbucks.com
 openapi.starbucks.com
 www.starbucks.ca
 www.starbucksreserve.com
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucksreserve.com
 www.starbucks.ca
 www.starbucks.com
@@ -3593,9 +3593,9 @@ arrive-server.shopifycloud.com
 partners.shopify.com
 *.shopify.io
 shopify.plus
-*.shopify.com
-shop.app
 accounts.shopify.com
+shop.app
+*.shopify.com
 your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
@@ -3617,11 +3617,11 @@ map.snapchat.com
 www.bitstrips.com
 scan.snapchat.com
 store.playcanvas.com
-story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 launch.playcanvas.com
+story.snapchat.com
 login.playcanvas.com
 snappublisher.snapchat.com
 blog.playcanvas.com
@@ -3637,10 +3637,10 @@ store.snapchat.com
 ads.snapchat.com
 www.bitmoji.com
 spectacles.com
-accounts.snapchat.com
-business.snapchat.com
 code.playcanvas.com
 businesshelp.snapchat.com
+business.snapchat.com
+accounts.snapchat.com
 *.sc-corp.net
 app.snapchat.com
 web.snapchat.com
@@ -3763,9 +3763,9 @@ www.hoteltonight.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
+donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
-donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3797,8 +3797,8 @@ api.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.interseller.io
-onboarding.greenhouse.io
 www.greenhouse.io
+onboarding.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -3839,8 +3839,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
 t.umblr.com
+akismet.com
 api.tumblr.com
 assets.tumblr.com
 safe.tumblr.com
@@ -3875,8 +3875,8 @@ team-irc.irccloud.com
 api.irccloud.com
 blog.irccloud.com
 *.irccloud-cdn.com
-www.irccloud.com
 irccloud.com
+www.irccloud.com
 *.irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
