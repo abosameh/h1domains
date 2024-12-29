@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 29 16:11:40 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec 29 17:09:55 UTC 2024)
 ```
 http://--your-own-1password-account--.1password.com
 https://bugbounty-ctf.1password.com/
@@ -17,18 +17,14 @@ https://maps.bykea.net
 https://leaflet-map.bykea.net
 https://nominatim.bykea.net
 https://geocode-beta.bykea.net
-bcny.com
 thebrowser.company
 arc.net
+bcny.com
 arc.net
 thebrowser.company
 bcny.com
 www.starbucks.com.cn/
 www.starbucks.com.cn/
-www.starbucks.be
-www.starbucks.bg
-www.starbucks.cz/
-www.starbucks.eg
 www.starbucks.fr/
 www.starbucks.hu
 www.starbucks.it/
@@ -38,6 +34,10 @@ www.starbucks.no
 www.starbucks.pt/
 www.starbucks.ie/
 www.starbucks.ro
+www.starbucks.be
+www.starbucks.bg
+www.starbucks.cz/
+www.starbucks.eg
 www.starbucksslovakia.sk/
 www.starbucks.es
 www.starbucks.de
@@ -47,9 +47,9 @@ card.starbucks.com.gr/
 www.roastery.starbucks.it
 www.starbucks.at
 card.starbucks.com.cy/
-www.starbucks.ch
-www.starbucks.com.bh
-www.starbucks.com.kw
+www.starbucks.com.lb
+www.starbucks.com.om
+www.starbucks.qa
 https://www.starbucks.at
 www.starbucks.be
 www.starbucks.bg
@@ -152,8 +152,8 @@ bestfiends.com
 *.seriously.com
 gnocchi-www.buffalo-ggn.net
 bestfiends.com
-vfo03.vodafone.om
 apix.vodafone.om
+vfo03.vodafone.om
 vfo01.vodafone.om
 vfo02.vodafone.om
 www.vodafone.om
@@ -468,10 +468,10 @@ api.vault.chiatest.net
 id.worldcoin.org
 getworldcoin.com
 *.worldcoin.dev
-*.worldcoin.org
 *.toolsforhumanity.com
 worldcoin.org
 toolsforhumanity.com
+*.worldcoin.org
 *.consumer.worldcoin.org
 developer.worldcoin.org
 bioid-management.app
@@ -502,8 +502,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -538,9 +538,9 @@ app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
 payments.hostinger.com
-cpanel.hostinger.com
 builder.hostinger.com
 www.hostinger.com
+cpanel.hostinger.com
 hpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -569,17 +569,17 @@ you.23andme.com
 research.23andme.com
 api.mercadolibre.com
 www.mercadolibre.com.mx
-www.mercadopago.com.mx
+www.mercadopago.cl
 www.mercadopago.com.uy
 api.mercadopago.com
 www.mercadopago.com.pe
+www.mercadopago.com.mx
 www.mercadolibre.com.pe
 www.mercadopago.com.co
-www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadopago.com.ar
 www.mercadolibre.com.uy
 www.mercadolibre.cl
+www.mercadopago.com.ar
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadolivre.com.br
@@ -625,8 +625,8 @@ fareharborsites.com
 taxi.booking.com
 spark.fareharbor.com
 chat.booking.com
-kyc-onboarding.booking.com
 cars.booking.com
+kyc-onboarding.booking.com
 accommodations.booking.com
 www.fareharbor.com
 paymentcomponent.booking.com
@@ -695,9 +695,9 @@ kronor.io
 *.travix.io
 *.travix.com
 *.trip.com
+*.cheaptickets.nl
 *.trainpal.com
 *.mytrainpal.com
-*.cheaptickets.nl
 *.trip.com
 *.travix.com
 *.travix.io
@@ -920,8 +920,8 @@ console.tink.com
 developer.currencycloud.com
 direct-demo.currencycloud.com
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
+yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
@@ -1022,8 +1022,8 @@ www.bolsasymercados.es
 https://www.sdx.com/
 https://web3.sdx.com
 api-eu.floqast.app
-*.floqast.app
 *.eu.floqast.app
+*.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -1048,8 +1048,8 @@ hiltonlocalbiz.com
 *.okx.com
 *.oklink.com
 priority.eu-east-1.indriverapp.com
-external.indrive.dev
 debug.clairvoyance.indrive.tech
+external.indrive.dev
 ingest.clairvoyance.indrive.tech
 wga.volans.tech
 ci.indrive.dev
@@ -1057,12 +1057,12 @@ profile-api.eu-east-1.indriverapp.com
 aws.indrive.tech
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+injob.indriver.com
 volans.tech
 watchdocs.indriverapp.com
 argocd.indrive.dev
 super-services.indriverapp.com
 ab-platform-api.eu-east-1.indriverapp.com
-injob.indriver.com
 auth2.indrive.tech
 messenger.eu-east-1.indriverapp.com
 *.indriverapp.com
@@ -1218,9 +1218,9 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.superbet.com
-*.superbet.ro
 *.superbet.rs
 *.napoleoncasino.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1353,8 +1353,8 @@ tools.deribit.com
 metrics.deribit.com
 pb.deribit.com
 *.deribit.com
-insights.deribit.com
 test.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1366,8 +1366,8 @@ skills-store.amazon.com
 creator.amazon.com
 a4k.amazon.com
 blueprints.amazon.com
-alexa.amazon.com
 alexaanswers.amazon.com
+alexa.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1402,4 +1402,29 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+portfolio.metamask.io
+snaps.metamask.io
+metamask.io
+metamask.io
+snaps.metamask.io
+https://user-storage.api.cx.metamask.io
+portfolio.metamask.io
+invoices.razorpay.com
+x.razorpay.com
+payroll.razorpay.com
+checkout.razorpay.com
+dashboard.razorpay.com
+api.razorpay.com
+dashboard.razorpay.com
+api.razorpay.com
+checkout.razorpay.com
+invoices.razorpay.com
+payroll.razorpay.com
+x.razorpay.com
+api.linkedin.com
+business.linkedin.com
+www.linkedin.com
+www.linkedin.com
+api.linkedin.com
+business.linkedin.com
 ```
