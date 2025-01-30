@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 30 12:23:05 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jan 30 13:18:28 UTC 2025)
 ```
 rise-api.stg.inspectorio.com
 api.stg.inspectorio.com
