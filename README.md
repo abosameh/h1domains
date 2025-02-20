@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 20 19:09:01 UTC 2025)
+## Domains with Bounties (Last Updated Thu Feb 20 20:12:46 UTC 2025)
 ```
 *.coloros.com
 *.oppo.com
