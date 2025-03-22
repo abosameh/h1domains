@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 22 04:13:46 UTC 2025)
+## Domains with Bounties (Last Updated Sat Mar 22 05:11:39 UTC 2025)
 ```
 mark8.syfe.com
 alfred.syfe.com
 api.syfe.com
-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
+uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -83,9 +83,9 @@ workspace.toloka.ai
 tb.toloka.dev
 https://api-ui.toloka.ai
 report-html-sight.stg.inspectorio.com
+id.stg.inspectorio.com
 rise.stg.inspectorio.com
 app.stg.inspectorio.com
-id.stg.inspectorio.com
 rise-api.stg.inspectorio.com
 docuflow.stg.inspectorio.com
 api.stg.inspectorio.com
@@ -182,6 +182,7 @@ gnocchi-www.buffalo-ggn.net
 *.playticorp.com
 *.bingoblitz.com
 *.caesarsgames.com
+*.houseoffun.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -217,8 +218,8 @@ cdn-bal.nba.com
 manage-teams.nba.com
 vote.nba.com
 syndication.nba.com
-elm.nba.com
 stats.2kleague.nba.com
+elm.nba.com
 teamportal.nba.com
 cms.nba.com
 manage.nba.com
@@ -234,8 +235,8 @@ corp-dev.nba.com
 2kleague.nba.com
 lockervision.nba.com
 www.wnba.com
-id.nba.com
 identity.nba.com
+id.nba.com
 www.nba.com
 gleague.nba.com
 www.nba.com
@@ -273,8 +274,8 @@ api.circle.com
 app.circle.com
 console.circle.com
 *.varonis.io
-*.varonis.com
 *.varonis.net
+*.varonis.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
@@ -373,15 +374,15 @@ app3.rewire.to
 rates.rewire.com
 cards.remitly.io
 app.rewire.to
-remitly.com
 auth.remitly.com
+remitly.com
 site.rewire.com
 blog.remitly.com
 rewire.com
-careers.remitly.com
 api.remitly.io
-news.remitly.com
+careers.remitly.com
 *.int.remitly.com
+news.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -482,11 +483,11 @@ app.dynamic.xyz
 app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
-builder.hostinger.com
 horizons.hostinger.com
 www.hostinger.com
 payments.hostinger.com
 cpanel.hostinger.com
+builder.hostinger.com
 hpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -499,8 +500,8 @@ education.23andme.com
 research.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
-store.23andme.com
 medical.23andme.com
+store.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
@@ -686,8 +687,8 @@ kronor.io
 *.booztlet.com
 kronor.io
 *.travix.io
-*.trip.com
 *.cheaptickets.nl
+*.trip.com
 *.trainpal.com
 *.mytrainpal.com
 *.travix.com
@@ -761,8 +762,8 @@ testapi.redoxengine.com
 gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
 docs.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 app.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 www.redoxengine.com
@@ -1037,17 +1038,17 @@ festival.alternativa.film
 indrive.alternativa.film
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-profile-api.eu-east-1.indriverapp.com
 wga.volans.tech
 messenger.eu-east-1.indriverapp.com
 aws.indrive.tech
 argocd.indrive.dev
+profile-api.eu-east-1.indriverapp.com
 external.indrive.dev
 ingest.clairvoyance.indrive.tech
 watchdocs.indriverapp.com
-new-order.eu-east-1.indriverapp.com
 alternativa.film
 super-services.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 auroratechaward.com
 injob.indriver.com
@@ -1055,10 +1056,10 @@ volans.tech
 truck-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriver.com
-*.indriverapp.com
-*.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 auth.indrive.tech
+*.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1206,8 +1207,8 @@ admin.8x8.com
 *.superbet.rs
 *.superbet.ro
 *.luckydays.ca
-*.magicjackpot.ro
 *.luckydays.com
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1269,7 +1270,6 @@ www.travelocity.ca
 www.lastminute.co.nz
 www.expediataap.com
 www.lastminute.com.au
-*.lastminute.com.au
 www.hotwirepartnercentral.com
 www.wotif.com
 www.mrjet.se
@@ -1292,6 +1292,7 @@ bookus.expediacruises.com
 www.expediagroup.com
 *.wotif.com
 *.travelocity.ca
+*.expediacruises.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1337,4 +1338,33 @@ magiceden.io
 *.magiceden.workers.dev
 zerobounce.net
 zerobounce.net
+pb.deribit.com
+insights.deribit.com
+*.deribit.com
+test.deribit.com
+*.deribit.com
+test.deribit.com
+insights.deribit.com
+pb.deribit.com
+a4k.amazon.com
+alexa.amazon.com
+creator.amazon.com
+read.amazon.com
+skills-store.amazon.com
+alexaanswers.amazon.com
+blueprints.amazon.com
+read.amazon.com
+alexaanswers.amazon.com
+blueprints.amazon.com
+creator.amazon.com
+amazon.com/hz/mycd/*
+a4k.amazon.com
+developer.amazon.com/apps-and-games/*
+developer.amazon.com/alexa/*
+alexa.amazon.com
+skills-store.amazon.com
+www.amazon.com/photos/*
+api.amazonalexa.com/*
+https://www.amazon.com/luna/*
+https://luna.amazon.com/*
 ```
