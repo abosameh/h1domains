@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 26 22:13:55 UTC 2025)
+## Domains with Bounties (Last Updated Sat Apr 26 23:10:51 UTC 2025)
 ```
 https://api.myntra.com
 https://payments.myntra.com
