@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 21:15:13 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 22:15:41 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -32,9 +32,9 @@ zooplus.net
 mark8.syfe.com
 alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 www.syfe.com
+uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 api.prod.whoop.com
-shop.whoop.com
 app.whoop.com
+shop.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -484,8 +484,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-*.worldcoin.dev
 developer.worldcoin.org
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -1534,8 +1534,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1927,11 +1927,11 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-api.stripe.com
 app.taxjar.com
 js.stripe.com
 *.stripe.com
 *.lemonsqueezy.com
+api.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -2036,8 +2036,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-larksuite.com
 api.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2148,9 +2148,9 @@ business.tiktok.com
 shop.tiktok.com
 live-backstage.tiktok.com
 seller-id.tokopedia.com
-*.tiktok.com
 ads.tiktok.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2211,13 +2211,13 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 *.5nine.com
 account.acronis.com
-beta-cloud.acronis.com
 *.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2367,8 +2367,8 @@ store.playstation.com
 wallets.api.playstation.com
 my.account.sony.com
 ca.account.sony.com
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2524,8 +2524,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2560,8 +2560,8 @@ www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
 blox.link
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2987,9 +2987,9 @@ loanbuilder.com
 *.venmo.com
 *.braintreegateway.com
 *.xoom.com
-*.braintree-api.com
 *.hyperwallet.com
 *.paypal.com
+*.braintree-api.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3485,8 +3485,8 @@ npmjs.org
 education.github.com
 gist.github.com
 api.github.com
-github.com
 *.githubapp.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3563,8 +3563,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3600,8 +3600,8 @@ arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 *.shopify.io
 partners.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 shop.app
 *.shopify.com
 shopifyinbox.com
@@ -3651,8 +3651,8 @@ business.snapchat.com
 forum.playcanvas.com
 app.snapchat.com
 web.snapchat.com
-playcanvas.com
 accounts.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3715,7 +3715,6 @@ account.magento.com
 photoshop.adobe.com
 learningmanagerstage4.adobe.com
 magento.com
-account.adobe.com
 photos.adobe.io
 marketplace.magento.com
 contributor.stock.adobe.com
@@ -3757,10 +3756,10 @@ www.hoteltonight.com
 *.hoteltonight-test.com
 *.muscache.com
 *.hoteltonight.com
-www.airbnb.com
 *.airbnb.com
 next.airbnb.com
 api.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3831,13 +3830,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-x.com
 *.twitter.com
 grok.com
 *.grok.com
 gnip.com
 *.x.ai
 *.x.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
