@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 15:17:20 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 16:19:35 UTC 2025)
 ```
-walletbot.me
 wallet.tg
 pay.wallet.tg
 walletbot.me
+walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -435,7 +435,6 @@ cards.remitly.io
 ablink.info.remitly.com
 partner-webhook.remitly.io
 metrics.int.remitly.com
-site.rewire.com
 careers.remitly.com
 news.remitly.com
 ir.remitly.com
@@ -448,6 +447,7 @@ app3.rewire.to
 rewire.com
 remitly.com
 auth.remitly.com
+site.rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -483,8 +483,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-*.worldcoin.dev
 developer.worldcoin.org
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -548,12 +548,12 @@ app.dynamic.xyz
 app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
-cpanel.hostinger.com
 payments.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
+cpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -772,8 +772,8 @@ app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 kronor.io
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 kronor.io
@@ -1004,8 +1004,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1198,15 +1198,15 @@ web.grindr.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
 *.cyrus-security.com
-my.malwarebytes.com
 oneview.malwarebytes.com
 cloud.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 www.malwarebytes.com
 *.mwbsys.com
-*.cloud.malwarebytes.com
 *.malwarebytes.com
+*.cloud.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1246,8 +1246,8 @@ auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-*.skypicker.com
 www.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1298,8 +1298,8 @@ superbet.bet.br
 *.superbet.ro
 *.spinaway.com
 *.napoleoncasino.be
-*.superbet.com
 *.superbet.rs
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1488,10 +1488,10 @@ https://user-storage.api.cx.metamask.io
 signature-insights.api.cx.metamask.io
 invoices.razorpay.com
 x.razorpay.com
-api.razorpay.com
 dashboard.razorpay.com
 payroll.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -2035,8 +2035,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-api.larksuite.com
 larksuite.com
+api.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2145,11 +2145,11 @@ shop-id.tokopedia.com
 business.tiktok.com
 tiktok.com
 *.tiktokv.com
-seller-id.tokopedia.com
 *.tiktok.com
 shop.tiktok.com
 live-backstage.tiktok.com
 ads.tiktok.com
+seller-id.tokopedia.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2210,13 +2210,13 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
-*.acronis.com
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2588,8 +2588,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -3323,9 +3323,9 @@ backstage.io
 *.spotify.net
 *.byspotify.com
 assets.spotify.com
-*.spotify.com
 api.spotify.com
 *.withspotify.com
+*.spotify.com
 *.spotify.com
 *.spotify.net
 *.withspotify.com
@@ -3484,8 +3484,8 @@ npmjs.org
 education.github.com
 gist.github.com
 *.githubapp.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3562,8 +3562,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3577,8 +3577,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3600,11 +3600,11 @@ arrive-server.shopifycloud.com
 *.shopify.io
 shop.app
 *.shopify.com
-accounts.shopify.com
 *.pci.shopifyinc.com
 partners.shopify.com
 admin.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3718,6 +3718,7 @@ account.adobe.com
 photos.adobe.io
 fonts.adobe.com
 marketplace.magento.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3758,8 +3759,8 @@ next.airbnb.com
 *.muscache.com
 *.hoteltonight.com
 api.airbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3830,13 +3831,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
+*.x.ai
 x.com
 *.twitter.com
 grok.com
 *.x.com
 *.grok.com
 gnip.com
-*.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
