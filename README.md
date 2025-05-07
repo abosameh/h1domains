@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 16:19:35 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 17:15:16 UTC 2025)
 ```
-wallet.tg
 pay.wallet.tg
+wallet.tg
 walletbot.me
 walletbot.me
 pay.wallet.tg
@@ -32,8 +32,8 @@ mark8.syfe.com
 alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
-www.syfe.com
 api.syfe.com
+www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -444,10 +444,10 @@ access.remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
+site.rewire.com
+auth.remitly.com
 rewire.com
 remitly.com
-auth.remitly.com
-site.rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -483,8 +483,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-developer.worldcoin.org
 *.worldcoin.dev
+developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -573,8 +573,8 @@ auth.23andme.com
 pd-api.polkadoc.com
 api.23andme.com
 you.23andme.com
-clinic.lemonaidhealth.com
 blog.23andme.com
+clinic.lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -709,13 +709,13 @@ widget.rentalcars.com
 tableau.fareharbor.engineering
 demo.fareharbor.com
 fhdn.fareharbor.com
-spark.fareharbor.com
 taxis.booking.com
 chat.booking.com
 kyc-onboarding.booking.com
 careers.booking.com
 paymentcomponent.booking.com
 taxi.booking.com
+cars.booking.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -1246,8 +1246,8 @@ auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-www.kiwi.com
 *.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1488,10 +1488,10 @@ https://user-storage.api.cx.metamask.io
 signature-insights.api.cx.metamask.io
 invoices.razorpay.com
 x.razorpay.com
-dashboard.razorpay.com
 payroll.razorpay.com
 checkout.razorpay.com
 api.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1897,9 +1897,9 @@ https://docs.metamask.io/developer-tools/faucet
 support.metamask.io
 tickets.metamask.io
 www.xvideos.red
-www.xvideos.com
 www.xnxx.com
 www.xnxx.gold
+www.xvideos.com
 www.xvideos.com
 www.xvideos.red
 www.xnxx.com
@@ -2035,8 +2035,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-larksuite.com
 api.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2188,8 +2188,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2210,10 +2210,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -3512,9 +3512,9 @@ design.gitlab.com
 *.gitlap.com
 customers.gitlab.com
 about.gitlab.com
-*.gitlab.net
 docs.gitlab.com
 gitlab.com
+*.gitlab.net
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3562,8 +3562,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3577,8 +3577,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3648,9 +3648,9 @@ story.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
 forum.playcanvas.com
-web.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
+web.snapchat.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3718,7 +3718,6 @@ account.adobe.com
 photos.adobe.io
 fonts.adobe.com
 marketplace.magento.com
-firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,12 +3754,12 @@ assets.airbnb.com
 *.withairbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
-next.airbnb.com
 *.muscache.com
 *.hoteltonight.com
 api.airbnb.com
 www.airbnb.com
 *.airbnb.com
+next.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3950,8 +3949,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-app.slack.com
 slack.com
+app.slack.com
 api.slack.com
 slack.com
 api.slack.com
@@ -3982,11 +3981,11 @@ hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone.live
 api.hackerone.com
-a5s.hackerone-ext-content.com
 www.hackerone.com
 reviewer.pullrequest.com
 app.pullrequest.com
 hackerone.com
+a5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
