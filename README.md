@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 17:15:16 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 18:20:30 UTC 2025)
 ```
 pay.wallet.tg
 wallet.tg
@@ -439,15 +439,15 @@ careers.remitly.com
 news.remitly.com
 ir.remitly.com
 *.int.remitly.com
-app.rewire.to
 access.remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
 site.rewire.com
 auth.remitly.com
-rewire.com
 remitly.com
+rewire.com
+app.rewire.to
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -1966,9 +1966,9 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 *.reddit.com
 *.memorable.io
+*.redditinc.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2035,8 +2035,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-api.larksuite.com
 larksuite.com
+api.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2188,8 +2188,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -3135,12 +3135,12 @@ developer.valvesoftware.com
 developer-platform-api.crypto.com
 tax.crypto.com
 js.crypto.com
-web.crypto.com
 app.mona.co
 nadex.com
 *.mona.co
 merchant.crypto.com
 *.crypto.com
+web.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3427,8 +3427,8 @@ cdna.lystit.com
 mobileapi.lystit.com
 try.discourse.org
 try.discourse.org
-*.quora.com
 poe.com
+*.quora.com
 *.quora.com
 http://poe.com
 forum.portswigger.net
@@ -3513,8 +3513,8 @@ design.gitlab.com
 customers.gitlab.com
 about.gitlab.com
 docs.gitlab.com
-gitlab.com
 *.gitlab.net
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3562,8 +3562,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3577,8 +3577,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3597,13 +3597,13 @@ linkpop.com
 shopifyinbox.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
-*.shopify.io
 shop.app
 *.shopify.com
 *.pci.shopifyinc.com
-partners.shopify.com
-admin.shopify.com
+*.shopify.io
 your-store.myshopify.com
+admin.shopify.com
+partners.shopify.com
 accounts.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
@@ -3649,8 +3649,8 @@ snappublisher.snapchat.com
 business.snapchat.com
 forum.playcanvas.com
 app.snapchat.com
-accounts.snapchat.com
 web.snapchat.com
+accounts.snapchat.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3716,7 +3716,6 @@ learningmanagerstage4.adobe.com
 magento.com
 account.adobe.com
 photos.adobe.io
-fonts.adobe.com
 marketplace.magento.com
 *.acrobat.adobe.com
 account.adobe.com
@@ -3756,10 +3755,10 @@ www.hoteltonight.com
 *.hoteltonight-test.com
 *.muscache.com
 *.hoteltonight.com
-api.airbnb.com
 www.airbnb.com
 *.airbnb.com
 next.airbnb.com
+api.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3830,13 +3829,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-*.x.ai
 x.com
 *.twitter.com
 grok.com
-*.x.com
 *.grok.com
 gnip.com
+*.x.ai
+*.x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3950,8 +3949,8 @@ slackb.com
 slack-status.com
 slackatwork.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 slackb.com
