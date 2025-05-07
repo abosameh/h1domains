@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 14:16:51 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 15:17:20 UTC 2025)
 ```
 walletbot.me
 wallet.tg
@@ -10,8 +10,8 @@ pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -21,9 +21,9 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
-www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -552,8 +552,8 @@ cpanel.hostinger.com
 payments.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
-hpanel.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -573,8 +573,8 @@ auth.23andme.com
 pd-api.polkadoc.com
 api.23andme.com
 you.23andme.com
-blog.23andme.com
 clinic.lemonaidhealth.com
+blog.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -613,7 +613,6 @@ www.mercadolibre.com.ec
 *.adminml.com
 *.mercadoshops.com.ar
 *.mercadoshops.com.pe
-*.mercadolibre.com.mx
 api.mercadopago.com
 api.mercadolibre.com
 *.mercadopago.cl
@@ -621,6 +620,7 @@ api.mercadolibre.com
 *.mercadolibre.com.uy
 *.mercadopago.com.uy
 *.mercadopago.com.co
+*.mercadopago.com.pe
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -1966,9 +1966,9 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+*.redditinc.com
 *.reddit.com
 *.memorable.io
-*.redditinc.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2212,11 +2212,11 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.acronis.work
-account.acronis.com
-beta-cloud.acronis.com
 *.devicelock.com
-*.acronis.com
 *.5nine.com
+account.acronis.com
+*.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -3562,8 +3562,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3599,12 +3599,12 @@ shopifyinbox.com
 arrive-server.shopifycloud.com
 *.shopify.io
 shop.app
-partners.shopify.com
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-your-store.myshopify.com
 *.pci.shopifyinc.com
+partners.shopify.com
+admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3717,6 +3717,7 @@ magento.com
 account.adobe.com
 photos.adobe.io
 fonts.adobe.com
+marketplace.magento.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3948,9 +3949,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
+app.slack.com
 slack.com
 api.slack.com
-app.slack.com
 slack.com
 api.slack.com
 slackb.com
