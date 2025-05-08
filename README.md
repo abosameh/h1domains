@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 12:25:54 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 13:28:48 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -21,10 +21,10 @@ https://www.myntra.com
 https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
-www.zooplus.co.uk
 zooplus.net
-www.zooplus.de
+www.zooplus.co.uk
 www.zooplus.com
+www.zooplus.de
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -444,11 +444,11 @@ api.remitly.io
 app3.rewire.to
 site.rewire.com
 app.rewire.to
-careers.remitly.com
 rewire.com
-auth.remitly.com
-access.remitly.com
+careers.remitly.com
 remitly.com
+access.remitly.com
+auth.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -781,9 +781,9 @@ kronor.io
 *.travix.io
 *.travix.com
 *.cheaptickets.nl
+*.trip.com
 *.trainpal.com
 *.mytrainpal.com
-*.trip.com
 *.trip.com
 *.travix.com
 *.travix.io
@@ -817,8 +817,8 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
 api-sandbox.gocardless.com
-manage-sandbox.gocardless.com
 *.gocardless.com
+manage-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -1004,8 +1004,8 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1967,9 +1967,9 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+*.redditinc.com
 m.reddit.com
 *.reddit.com
-*.redditinc.com
 *.memorable.io
 *.snooguts.net
 *.reddit.com
@@ -2148,8 +2148,8 @@ business.tiktok.com
 shop.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
-seller-id.tokopedia.com
 tiktok.com
+seller-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -2190,8 +2190,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2213,12 +2213,12 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.acronis.work
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
-beta-cloud.acronis.com
 *.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2987,8 +2987,8 @@ loanbuilder.com
 *.hyperwallet.com
 *.braintree-api.com
 *.braintreegateway.com
-*.paylution.com
 *.xoom.com
+*.paylution.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3567,8 +3567,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3605,11 +3605,11 @@ arrive-server.shopifycloud.com
 partners.shopify.com
 accounts.shopify.com
 shopifyinbox.com
+your-store.myshopify.com
 shop.app
-*.shopify.com
 *.shopifycloud.com
 admin.shopify.com
-your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3760,10 +3760,10 @@ www.hoteltonight.com
 *.muscache.com
 *.hoteltonight.com
 api.airbnb.com
-www.airbnb.com
-*.withairbnb.com
 next.airbnb.com
 *.airbnb.com
+*.withairbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3834,13 +3834,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-grok.com
 *.grok.com
 gnip.com
 *.x.ai
 *.x.com
 *.twitter.com
 x.com
+grok.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3954,9 +3954,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-api.slack.com
-slack.com
 app.slack.com
+slack.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
