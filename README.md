@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 13:28:48 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 14:15:29 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -21,8 +21,8 @@ https://www.myntra.com
 https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
-zooplus.net
 www.zooplus.co.uk
+zooplus.net
 www.zooplus.com
 www.zooplus.de
 www.zooplus.de
@@ -444,11 +444,11 @@ api.remitly.io
 app3.rewire.to
 site.rewire.com
 app.rewire.to
-rewire.com
 careers.remitly.com
+rewire.com
 remitly.com
-access.remitly.com
 auth.remitly.com
+access.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,7 +478,6 @@ api.vault.chiatest.net
 worldcoin.org
 id.worldcoin.org
 world.org
-toolsforhumanity.com
 *.consumer.worldcoin.org
 getworldcoin.com
 *.toolsforhumanity.com
@@ -486,6 +485,7 @@ bioid-management.app
 *.worldcoin.org
 *.worldcoin.dev
 developer.worldcoin.org
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -574,8 +574,8 @@ pd-api.polkadoc.com
 api.23andme.com
 you.23andme.com
 research.23andme.com
-blog.23andme.com
 clinic.lemonaidhealth.com
+blog.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1004,8 +1004,8 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1419,9 +1419,9 @@ www.expediagroup.com
 www.flights.com
 www.expediataap.com
 *.magiceden.workers.dev
-*.magiceden.io
 *.magiceden.dev
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1488,10 +1488,10 @@ https://user-storage.api.cx.metamask.io
 signature-insights.api.cx.metamask.io
 invoices.razorpay.com
 x.razorpay.com
-payroll.razorpay.com
 api.razorpay.com
 dashboard.razorpay.com
 checkout.razorpay.com
+payroll.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1967,10 +1967,10 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 m.reddit.com
-*.reddit.com
+*.redditinc.com
 *.memorable.io
+*.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2148,10 +2148,10 @@ business.tiktok.com
 shop.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
-tiktok.com
 seller-id.tokopedia.com
-live-backstage.tiktok.com
 *.tiktok.com
+tiktok.com
+live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2212,10 +2212,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
 *.acronis.com
 beta-cloud.acronis.com
@@ -2560,8 +2560,8 @@ www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
 blox.link
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2589,8 +2589,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2987,9 +2987,9 @@ loanbuilder.com
 *.hyperwallet.com
 *.braintree-api.com
 *.braintreegateway.com
-*.xoom.com
 *.paylution.com
 *.paypal.com
+*.xoom.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3027,8 +3027,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3605,11 +3605,11 @@ arrive-server.shopifycloud.com
 partners.shopify.com
 accounts.shopify.com
 shopifyinbox.com
-your-store.myshopify.com
-shop.app
-*.shopifycloud.com
 admin.shopify.com
 *.shopify.com
+*.shopifycloud.com
+your-store.myshopify.com
+shop.app
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3722,6 +3722,7 @@ magento.com
 photos.adobe.io
 marketplace.magento.com
 contributor.stock.adobe.com
+fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3760,9 +3761,9 @@ www.hoteltonight.com
 *.muscache.com
 *.hoteltonight.com
 api.airbnb.com
-next.airbnb.com
-*.airbnb.com
 *.withairbnb.com
+*.airbnb.com
+next.airbnb.com
 www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
@@ -3834,9 +3835,9 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
+*.x.ai
 *.grok.com
 gnip.com
-*.x.ai
 *.x.com
 *.twitter.com
 x.com
@@ -3987,10 +3988,10 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
-www.hackerone.com
 api.hackerone.com
-hackerone.live
 hackerone.com
+www.hackerone.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
