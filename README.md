@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 22:14:56 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 23:15:53 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -30,11 +30,11 @@ www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 mark8.syfe.com
-alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
-api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
+alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -197,8 +197,8 @@ middle-force.khealth.io
 api.khealth.com
 *.capitalonegslbex.com
 *.capitalone.ca
-*.capitaloneshopping.com
 *.capitalone.com
+*.capitaloneshopping.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -478,11 +478,11 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
+*.worldcoin.dev
+*.consumer.worldcoin.org
+*.worldcoin.org
 toolsforhumanity.com
 developer.worldcoin.org
-*.worldcoin.dev
-*.worldcoin.org
-*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -548,8 +548,8 @@ app.dynamic.xyz
 demo.dynamic.xyz
 builder.hostinger.com
 horizons.hostinger.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 payments.hostinger.com
 www.hostinger.com
@@ -815,9 +815,9 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
 manage-sandbox.gocardless.com
+api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1002,8 +1002,8 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1067,8 +1067,8 @@ relay.firefox.com
 monitor.mozilla.org
 addons.allizom.org
 profiler.firefox.com
-bugzilla.mozilla.org
 accounts.firefox.com
+bugzilla.mozilla.org
 www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
@@ -1203,8 +1203,8 @@ cloud.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
-*.threatdown.com
 *.cloud.malwarebytes.com
+*.threatdown.com
 *.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1959,8 +1959,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
+m.reddit.com
 *.reddit.com
 *.memorable.io
 *.snooguts.net
@@ -2136,14 +2136,14 @@ www.pangleglobal.com
 shop-id.tokopedia.com
 business.tiktok.com
 shop.tiktok.com
-tiktok.com
 seller-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktok.com
-ads.tiktok.com
 developers.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
+tiktok.com
+ads.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2182,8 +2182,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2551,8 +2551,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 blox.link
-*.rbx.com
 *.guilded.gg
+*.rbx.com
 *.roblox.com
 *.roblox.com
 *.rbx.com
@@ -2978,10 +2978,10 @@ loanbuilder.com
 *.venmo.com
 *.braintree-api.com
 *.braintreegateway.com
-*.paylution.com
-*.xoom.com
-*.paypal.com
 *.hyperwallet.com
+*.xoom.com
+*.paylution.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3473,16 +3473,16 @@ moneybirdstorage.com
 moneybird.com
 moneybird.com
 moneybirdstorage.com
-*.githubusercontent.com
 *.github.net
 classroom.github.com
 npmjs.com
 npmjs.org
 education.github.com
-api.github.com
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 github.com
+*.githubusercontent.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3646,8 +3646,8 @@ business.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
 playcanvas.com
-app.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3713,10 +3713,8 @@ magento.com
 photos.adobe.io
 marketplace.magento.com
 fonts.adobe.com
-contributor.stock.adobe.com
-auth.services.adobe.com
-firefly.adobe.com
 stock.adobe.com
+account.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,10 +3753,10 @@ www.hoteltonight.com
 *.muscache.com
 *.hoteltonight.com
 api.airbnb.com
-next.airbnb.com
 *.withairbnb.com
-www.airbnb.com
+next.airbnb.com
 *.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3834,8 +3832,8 @@ www.greenhouse.io
 gnip.com
 *.x.com
 x.com
-grok.com
 *.twitter.com
+grok.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3950,8 +3948,8 @@ slackb.com
 slack-status.com
 slackatwork.com
 app.slack.com
-slack.com
 api.slack.com
+slack.com
 slack.com
 api.slack.com
 slackb.com
