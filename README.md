@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 09:16:36 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 10:17:11 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
-walletbot.me
 pay.wallet.tg
+walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -21,9 +21,9 @@ https://www.myntra.com
 https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
-zooplus.net
 www.zooplus.co.uk
 www.zooplus.de
+zooplus.net
 www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
@@ -33,8 +33,8 @@ mark8.syfe.com
 alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-api.syfe.com
 www.syfe.com
+api.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -445,10 +445,10 @@ api.remitly.io
 app3.rewire.to
 site.rewire.com
 app.rewire.to
-careers.remitly.com
 rewire.com
-auth.remitly.com
+careers.remitly.com
 remitly.com
+auth.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -619,9 +619,9 @@ api.mercadolibre.com
 *.mercadolibre.com.pe
 *.mercadolibre.com.uy
 *.mercadopago.com.uy
-*.mercadopago.com.co
 *.mercadopago.com.pe
 *.mercadopago.com.mx
+*.mercadoshops.com.br
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -778,11 +778,11 @@ kronor.io
 *.boozt.com
 *.booztlet.com
 kronor.io
-*.trainpal.com
-*.mytrainpal.com
 *.travix.io
 *.travix.com
 *.cheaptickets.nl
+*.trainpal.com
+*.mytrainpal.com
 *.trip.com
 *.trip.com
 *.travix.com
@@ -818,8 +818,8 @@ ob.gocardless.com
 www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless.com
-pay-sandbox.gocardless.com
 manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1005,8 +1005,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1116,8 +1116,8 @@ hilton.io
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
 *.hilton.io
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1636,8 +1636,8 @@ api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -2101,8 +2101,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 launchpad.37signals.com
-3.basecamp.com
 *.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2147,10 +2147,10 @@ business.tiktok.com
 shop.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 seller-id.tokopedia.com
 tiktok.com
 live-backstage.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2189,8 +2189,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2211,8 +2211,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2984,11 +2984,11 @@ loanbuilder.com
 *.braintreepayments.com
 *.paydiant.com
 *.venmo.com
-*.xoom.com
 *.hyperwallet.com
 *.braintree-api.com
 *.braintreegateway.com
 *.paylution.com
+*.xoom.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3027,9 +3027,9 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3229,8 +3229,8 @@ grab.careers
 kartaview.org
 *.grabpay.com
 *.myteksi.net
-*.myteksi.com
 *.grab.com
+*.myteksi.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3501,8 +3501,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*.uberinternal.com
 *ubereats.com
+*.uberinternal.com
 *.uberinternal.com
 *ubereats.com
 www.mapbox.com
@@ -3567,8 +3567,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3582,8 +3582,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3598,7 +3598,6 @@ yourcompany.udemy.com
 shopify.plus
 linkpop.com
 *.shopifykloud.com
-*.shopifycloud.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
@@ -3610,6 +3609,7 @@ your-store.myshopify.com
 admin.shopify.com
 shop.app
 *.shopify.com
+*.shopifycloud.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3760,9 +3760,9 @@ www.hoteltonight.com
 *.muscache.com
 *.hoteltonight.com
 *.airbnb.com
+next.airbnb.com
 api.airbnb.com
 www.airbnb.com
-next.airbnb.com
 *.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
@@ -3902,10 +3902,10 @@ irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
 *.irccloud-cdn.com
-www.irccloud.com
 *.irccloud.com
 api.irccloud.com
 irccloud.com
+www.irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
 www.irccloud.com
