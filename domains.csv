@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 braze_inc,https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/,True
-wallet_on_telegram,pay.wallet.tg,True
 wallet_on_telegram,wallet.tg,True
 wallet_on_telegram,walletbot.me,True
+wallet_on_telegram,pay.wallet.tg,True
 wallet_on_telegram,walletbot.me,True
 wallet_on_telegram,pay.wallet.tg,True
 wallet_on_telegram,wallet.tg,True
@@ -78,9 +78,9 @@ ferrero,*.butterfinger.com,False
 ferrero,*.crunchbar.com,False
 ferrero,*.thorntons.com,False
 ferrero,*.fiestaferrero.it,False
-ferrero,*.ferrerorocher.com,False
 ferrero,*.keebler.com,False
 ferrero,*.kinder.com,False
+ferrero,*.ferrerorocher.com,False
 ferrero,*.nutella.com,False
 ferrero,*.kinder.com,False
 ferrero,*.nutella.com,False
@@ -4642,9 +4642,9 @@ remitly,api.remitly.io,True
 remitly,app3.rewire.to,True
 remitly,site.rewire.com,True
 remitly,app.rewire.to,True
-remitly,careers.remitly.com,True
-remitly,rewire.com,True
 remitly,auth.remitly.com,True
+remitly,rewire.com,True
+remitly,careers.remitly.com,True
 remitly,remitly.com,True
 remitly,*.int.remitly.com,True
 remitly,*.dev.remitly.com,True
@@ -8292,8 +8292,8 @@ kiwicom,auth.skypicker.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,*.kiwi.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
@@ -8483,8 +8483,8 @@ us-department-of-state,*.FAN.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.REWARDSFORJUSTICE.NET,False
-us-department-of-state,*.ustraveldocs.com,False
 us-department-of-state,*.AMERICA.GOV,False
+us-department-of-state,*.ustraveldocs.com,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
 us-department-of-state,*.FAN.GOV,False
@@ -9233,7 +9233,6 @@ shein,*.romwe.com,True
 shein,*.sheingsp.com,True
 disney,dvc-lightcycle-api.wdprapps.disney.com,False
 disney,disneytravelagents.com,False
-disney,www.magicalphotos.cn,False
 disney,www.shanghaidisneyresort.com,False
 disney,disneyvacationclub.disney.go.com,False
 disney,disneyplus.link,False
@@ -9241,6 +9240,7 @@ disney,abcspotdepot.com,False
 disney,disneyland.disney.go.com,False
 disney,www.shanghaidisneyresort.com.cn,False
 disney,disneyauditions.com,False
+disney,www.magicalphotos.cn,False
 disney,dvc-lightcycle-api.wdprapps.disney.com,False
 disney,abcspotdepot.com,False
 disney,www.magicalphotos.cn,False
@@ -9352,8 +9352,8 @@ instacart,api.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,*.instacart.tools,True
-instacart,www.instacart.com,True
 instacart,*.instacart.com,True
+instacart,www.instacart.com,True
 instacart,*.instacart.com,True
 instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
@@ -10084,9 +10084,9 @@ epicgames,forum.sketchfab.com,False
 tinder,*.tstaging.com,True
 tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
-tinder,*.tinder.com,True
 tinder,*.tinderops.net,True
 tinder,*.gotinder.com,True
+tinder,*.tinder.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -11134,9 +11134,9 @@ stripe,*.link.co,True
 stripe,api.taxjar.com,True
 stripe,app.taxjar.com,True
 stripe,js.stripe.com,True
-stripe,*.stripe.com,True
 stripe,*.lemonsqueezy.com,True
 stripe,api.stripe.com,True
+stripe,*.stripe.com,True
 stripe,*.lemonsqueezy.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
@@ -12001,8 +12001,8 @@ lark_technologies,open.larksuite.com,True
 lark_technologies,file.larksuite.com,True
 lark_technologies,app.larksuite.com,True
 lark_technologies,status.larksuite.com,True
-lark_technologies,api.larksuite.com,True
 lark_technologies,larksuite.com,True
+lark_technologies,api.larksuite.com,True
 lark_technologies,larksuite.com,True
 lark_technologies,lark-frontier.byteoversea.com,True
 lark_technologies,file.larksuite.com,True
@@ -12161,9 +12161,9 @@ tiktok,*.tiktokv.com,True
 tiktok,shop.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,seller-id.tokopedia.com,True
-tiktok,tiktok.com,True
 tiktok,ads.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -12273,8 +12273,8 @@ logitech,select.logitech.com,False
 logitech,https://www.logitech.com/blog,False
 logitech,alert.logitech.com,False
 enjin,*.enjinusercontent.com,False
-enjin,platform.enjin.io,True
 enjin,nft.io,True
+enjin,platform.enjin.io,True
 enjin,nft.io,True
 enjin,platform.enjin.io,True
 enjin,*.enjinusercontent.com,False
@@ -12642,11 +12642,11 @@ amazonvrp,*.amazon.sg,True
 amazonvrp,*.amazon.com,True
 amazonvrp,www.amazon.*,True
 amazonvrp,amazonpayinsurance.in,True
-magic-bbp,portal.magicnewton.com,True
 magic-bbp,auth.magic.link,True
 magic-bbp,api.fortmatic.com,True
 magic-bbp,api.magic.link,True
 magic-bbp,dashboard.magic.link,True
+magic-bbp,portal.magicnewton.com,True
 magic-bbp,api.fortmatic.com,True
 magic-bbp,auth.magic.link,True
 magic-bbp,dashboard.magic.link,True
@@ -13345,8 +13345,8 @@ datastax,downloads.datastax.com,True
 datastax,langflow.org,True
 datastax,langflow.datastax.com,True
 datastax,docs.datastax.com,True
-datastax,astra.datastax.com,True
 datastax,www.datastax.com,True
+datastax,astra.datastax.com,True
 datastax,www.datastax.com,True
 datastax,downloads.datastax.com,True
 datastax,docs.datastax.com,True
@@ -14174,8 +14174,8 @@ paypal,*.venmo.com,True
 paypal,*.braintreegateway.com,True
 paypal,*.xoom.com,True
 paypal,*.hyperwallet.com,True
-paypal,*.braintree-api.com,True
 paypal,*.paypal.com,True
+paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
 paypal,*.braintreegateway.com,True
@@ -14227,8 +14227,8 @@ chaturbate,billingsupport.chaturbate.com,True
 chaturbate,secure.chaturbate.com,True
 bitmex,www.bitmex.com,True
 bitmex,blog.bitmex.com,True
-bitmex,*.bitmex.com,True
 bitmex,testnet.bitmex.com,True
+bitmex,*.bitmex.com,True
 bitmex,*.bitmex.com,True
 bitmex,testnet.bitmex.com,True
 bitmex,www.bitmex.com,True
@@ -14338,8 +14338,8 @@ crypto,app.mona.co,True
 crypto,nadex.com,True
 crypto,*.mona.co,True
 crypto,merchant.crypto.com,True
-crypto,web.crypto.com,True
 crypto,*.crypto.com,True
+crypto,web.crypto.com,True
 crypto,*.crypto.com,True
 crypto,*.mona.co,True
 crypto,https://crypto.com/exchange,True
@@ -14804,8 +14804,8 @@ github,npmjs.com,True
 github,npmjs.org,True
 github,education.github.com,True
 github,api.github.com,True
-github,gist.github.com,True
 github,*.githubapp.com,True
+github,gist.github.com,True
 github,github.com,True
 github,github.com,True
 github,api.github.com,True
@@ -14931,12 +14931,12 @@ shopify,arrive-server.shopifycloud.com,True
 shopify,*.pci.shopifyinc.com,True
 shopify,*.shopify.io,True
 shopify,partners.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,shop.app,True
 shopify,*.shopify.com,True
 shopify,shopifyinbox.com,True
 shopify,your-store.myshopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.pci.shopifyinc.com,True
 shopify,*.shopify.io,True
@@ -15096,7 +15096,6 @@ airbnb,one.airbnb.com,True
 airbnb,m.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,*.airbnb-aws.com,True
-airbnb,*.withairbnb.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,*.muscache.com,True
@@ -15105,6 +15104,7 @@ airbnb,*.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
 airbnb,www.airbnb.com,True
+airbnb,*.withairbnb.com,True
 airbnb,*.hoteltonight.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
@@ -15182,11 +15182,11 @@ x,xadsacademy.com,False
 x,*.vine.co,True
 x,*.twimg.com,True
 x,*.x.ai,True
-x,*.twitter.com,True
 x,grok.com,True
 x,*.grok.com,True
 x,gnip.com,True
 x,*.x.com,True
+x,*.twitter.com,True
 x,x.com,True
 x,*.twitter.com,True
 x,*.vine.co,True

@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 23:15:29 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 01:00:44 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-pay.wallet.tg
 wallet.tg
 walletbot.me
+pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -445,9 +445,9 @@ api.remitly.io
 app3.rewire.to
 site.rewire.com
 app.rewire.to
-careers.remitly.com
-rewire.com
 auth.remitly.com
+rewire.com
+careers.remitly.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -1247,8 +1247,8 @@ auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-*.skypicker.com
 www.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1636,8 +1636,8 @@ api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1783,9 +1783,9 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.tinderops.net
 *.gotinder.com
+*.tinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1929,9 +1929,9 @@ cloud.elastic.co
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-*.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
+*.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -2036,8 +2036,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-api.larksuite.com
 larksuite.com
+api.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2148,9 +2148,9 @@ business.tiktok.com
 shop.tiktok.com
 live-backstage.tiktok.com
 seller-id.tokopedia.com
-tiktok.com
 ads.tiktok.com
 *.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2189,8 +2189,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2490,11 +2490,11 @@ itv7.itv.com
 *.amazon.com
 www.amazon.*
 amazonpayinsurance.in
-portal.magicnewton.com
 auth.magic.link
 api.fortmatic.com
 api.magic.link
 dashboard.magic.link
+portal.magicnewton.com
 api.fortmatic.com
 auth.magic.link
 dashboard.magic.link
@@ -2589,8 +2589,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-astra.datastax.com
 www.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2988,8 +2988,8 @@ loanbuilder.com
 *.braintreegateway.com
 *.xoom.com
 *.hyperwallet.com
-*.braintree-api.com
 *.paypal.com
+*.braintree-api.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3041,8 +3041,8 @@ billingsupport.chaturbate.com
 secure.chaturbate.com
 www.bitmex.com
 blog.bitmex.com
-*.bitmex.com
 testnet.bitmex.com
+*.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 www.bitmex.com
@@ -3140,8 +3140,8 @@ app.mona.co
 nadex.com
 *.mona.co
 merchant.crypto.com
-web.crypto.com
 *.crypto.com
+web.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3484,8 +3484,8 @@ npmjs.com
 npmjs.org
 education.github.com
 api.github.com
-gist.github.com
 *.githubapp.com
+gist.github.com
 github.com
 github.com
 api.github.com
@@ -3600,12 +3600,12 @@ arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 *.shopify.io
 partners.shopify.com
-admin.shopify.com
 accounts.shopify.com
 shop.app
 *.shopify.com
 shopifyinbox.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3751,7 +3751,6 @@ one.airbnb.com
 m.airbnb.com
 assets.airbnb.com
 *.airbnb-aws.com
-*.withairbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.muscache.com
@@ -3760,6 +3759,7 @@ www.hoteltonight.com
 next.airbnb.com
 api.airbnb.com
 www.airbnb.com
+*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3831,11 +3831,11 @@ www.greenhouse.io
 *.vine.co
 *.twimg.com
 *.x.ai
-*.twitter.com
 grok.com
 *.grok.com
 gnip.com
 *.x.com
+*.twitter.com
 x.com
 *.twitter.com
 *.vine.co
