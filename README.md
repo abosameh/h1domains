@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 18:20:18 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 19:13:47 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -22,9 +22,9 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 www.zooplus.co.uk
-www.zooplus.com
-www.zooplus.de
 zooplus.net
+www.zooplus.de
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 api.prod.whoop.com
-shop.whoop.com
 app.whoop.com
+shop.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -128,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-dashboard.privy.io
 auth.privy.io
+dashboard.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -197,8 +197,8 @@ middle-force.khealth.io
 api.khealth.com
 *.capitalonegslbex.com
 *.capitalone.ca
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -356,8 +356,8 @@ secure.netflix.com
 help.netflix.com
 *.prod.ftl.netflix.com
 *.nflximg.net
-meechum.netflix.com
 www.netflix.com
+meechum.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -549,8 +549,8 @@ demo.dynamic.xyz
 payments.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -814,10 +814,10 @@ connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
 *.gocardless.com
 api-sandbox.gocardless.com
-pay-sandbox.gocardless.com
-manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1204,8 +1204,8 @@ www.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 *.threatdown.com
-*.malwarebytes.com
 *.cloud.malwarebytes.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1383,7 +1383,7 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
-*.travelocity.com
+www.lastminute.co.nz
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1776,9 +1776,9 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinderops.net
 *.tinder.com
 *.gotinder.com
+*.tinderops.net
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1961,8 +1961,8 @@ accounts.reddit.com
 matrix.redditspace.com
 m.reddit.com
 *.redditinc.com
-*.reddit.com
 *.memorable.io
+*.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2139,11 +2139,11 @@ shop-id.tokopedia.com
 business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
-*.tiktok.com
-ads.tiktok.com
 seller-id.tokopedia.com
 tiktok.com
 live-backstage.tiktok.com
+*.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2204,10 +2204,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
 *.acronis.com
 beta-cloud.acronis.com
@@ -2581,8 +2581,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-astra.datastax.com
 www.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2632,8 +2632,8 @@ sketch.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
 comic.pixiv.net
-dic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3480,8 +3480,8 @@ npmjs.com
 npmjs.org
 education.github.com
 api.github.com
-gist.github.com
 *.githubapp.com
+gist.github.com
 github.com
 github.com
 api.github.com
@@ -3559,8 +3559,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3596,11 +3596,11 @@ arrive-server.shopifycloud.com
 *.shopify.io
 accounts.shopify.com
 shopifyinbox.com
-partners.shopify.com
 *.shopifycloud.com
 shop.app
-admin.shopify.com
 *.shopify.com
+partners.shopify.com
+admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
@@ -3713,7 +3713,7 @@ magento.com
 photos.adobe.io
 marketplace.magento.com
 fonts.adobe.com
-contributor.stock.adobe.com
+stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3754,8 +3754,8 @@ www.hoteltonight.com
 api.airbnb.com
 *.airbnb.com
 next.airbnb.com
-www.airbnb.com
 *.withairbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3848,7 +3848,6 @@ cloudflareworkers.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
 dash.cloudflare.com
-*.cloudflarepartners.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3946,9 +3945,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-app.slack.com
 slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3980,9 +3979,9 @@ reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
+hackerone.com
 hackerone.live
 www.hackerone.com
-hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
