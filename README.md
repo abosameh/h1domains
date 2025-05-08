@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 19:13:47 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 20:17:57 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -11,8 +11,8 @@ wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -23,8 +23,8 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 www.zooplus.co.uk
 zooplus.net
-www.zooplus.de
 www.zooplus.com
+www.zooplus.de
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -32,9 +32,9 @@ zooplus.net
 mark8.syfe.com
 alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 www.syfe.com
-api-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -433,7 +433,6 @@ cards.remitly.io
 ablink.info.remitly.com
 partner-webhook.remitly.io
 metrics.int.remitly.com
-news.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
@@ -446,6 +445,7 @@ blog.remitly.com
 api.remitly.io
 app3.rewire.to
 auth.remitly.com
+news.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,9 +478,9 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
@@ -570,9 +570,9 @@ auth.23andme.com
 pd-api.polkadoc.com
 api.23andme.com
 research.23andme.com
-clinic.lemonaidhealth.com
 blog.23andme.com
 you.23andme.com
+clinic.lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -814,10 +814,10 @@ connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
-manage-sandbox.gocardless.com
-pay-sandbox.gocardless.com
 *.gocardless.com
 api-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1003,8 +1003,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1383,7 +1383,7 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
-www.lastminute.co.nz
+*.travelocity.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1428,8 +1428,8 @@ zerobounce.net
 zerobounce.net
 insights.deribit.com
 pb.deribit.com
-*.deribit.com
 test.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -2130,7 +2130,6 @@ effecthouse.tiktok.com
 pay.tokopediax.com
 careers.tiktok.com
 partner.tiktokshop.com
-developers.tiktok.com
 academy-outbound-ads.tiktok.com
 affiliate-id.tokopedia.com
 creatormarketplace.tiktok.com
@@ -2144,6 +2143,7 @@ tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 ads.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2205,9 +2205,9 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
 *.acronis.com
 beta-cloud.acronis.com
@@ -2360,9 +2360,9 @@ wallets.api.playstation.com
 my.account.sony.com
 ca.account.sony.com
 *.api.playstation.com
-*.playstation.net
 *.sonyentertainmentnetwork.com
 store.playstation.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2551,9 +2551,9 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 blox.link
+*.guilded.gg
 *.rbx.com
 *.roblox.com
-*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3480,8 +3480,8 @@ npmjs.com
 npmjs.org
 education.github.com
 api.github.com
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 github.com
 github.com
 api.github.com
@@ -3593,13 +3593,13 @@ linkpop.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
+shopifyinbox.com
+*.shopify.com
+*.shopifycloud.com
+partners.shopify.com
 *.shopify.io
 accounts.shopify.com
-shopifyinbox.com
-*.shopifycloud.com
 shop.app
-*.shopify.com
-partners.shopify.com
 admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -3713,7 +3713,7 @@ magento.com
 photos.adobe.io
 marketplace.magento.com
 fonts.adobe.com
-stock.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3945,9 +3945,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
+app.slack.com
 slack.com
 api.slack.com
-app.slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3979,9 +3979,9 @@ reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone.com
 hackerone.live
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
