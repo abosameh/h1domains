@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 01:00:44 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 02:42:18 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -33,8 +33,8 @@ mark8.syfe.com
 alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
-www.syfe.com
 uat-bugbounty.nonprod.syfe.com
+www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -353,7 +353,6 @@ presentationtracking.netflix.com
 *.nflxvideo.net
 beacon.netflix.com
 *.nflxext.com
-meechum.netflix.com
 *.prod.dradis.netflix.com
 secure.netflix.com
 *.prod.cloud.netflix.com
@@ -361,6 +360,7 @@ help.netflix.com
 *.prod.ftl.netflix.com
 *.nflximg.net
 www.netflix.com
+meechum.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -445,9 +445,9 @@ api.remitly.io
 app3.rewire.to
 site.rewire.com
 app.rewire.to
-auth.remitly.com
-rewire.com
 careers.remitly.com
+rewire.com
+auth.remitly.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -484,8 +484,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-*.worldcoin.dev
 developer.worldcoin.org
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -573,9 +573,9 @@ auth.23andme.com
 pd-api.polkadoc.com
 api.23andme.com
 you.23andme.com
+research.23andme.com
 blog.23andme.com
 clinic.lemonaidhealth.com
-research.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -773,8 +773,8 @@ app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 kronor.io
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 kronor.io
@@ -1247,8 +1247,8 @@ auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-www.kiwi.com
 *.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1929,9 +1929,9 @@ cloud.elastic.co
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-*.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
+*.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -2189,8 +2189,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2988,8 +2988,8 @@ loanbuilder.com
 *.braintreegateway.com
 *.xoom.com
 *.hyperwallet.com
-*.paypal.com
 *.braintree-api.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3021,7 +3021,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-m.chaturbate.com
 *.mmwebc.dev
 secure.chaturbate.com
 *.highwebmedia.com
@@ -3030,6 +3029,7 @@ secure.chaturbate.com
 billingsupport.chaturbate.com
 chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3115,11 +3115,11 @@ www.dota2.com
 www.valvesoftware.com
 developer.valvesoftware.com
 help.steampowered.com
-www.counter-strike.net
 steamcommunity.com
 partner.steamgames.com
 api.steampowered.com
 store.steampowered.com
+www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3140,8 +3140,8 @@ app.mona.co
 nadex.com
 *.mona.co
 merchant.crypto.com
-*.crypto.com
 web.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3225,9 +3225,9 @@ grab.careers
 kartaview.org
 *.grabpay.com
 *.ovo.id
-*.grab.com
 *.myteksi.com
 *.myteksi.net
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3514,8 +3514,8 @@ design.gitlab.com
 customers.gitlab.com
 about.gitlab.com
 docs.gitlab.com
-gitlab.com
 *.gitlab.net
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3563,8 +3563,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3830,13 +3830,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-*.x.ai
 grok.com
 *.grok.com
 gnip.com
+*.x.ai
 *.x.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com

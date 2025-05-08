@@ -9,8 +9,8 @@ wallet_on_telegram,wallet.tg,True
 recreation_gov_vdp,cdn.recreation.gov,False
 recreation_gov_vdp,manage.recreation.gov,False
 recreation_gov_vdp,manage-cdn.recreation.gov,False
-recreation_gov_vdp,recreation.gov,False
 recreation_gov_vdp,www.recreation.gov,False
+recreation_gov_vdp,recreation.gov,False
 recreation_gov_vdp,manage.recreation.gov,False
 recreation_gov_vdp,recreation.gov,False
 recreation_gov_vdp,www.recreation.gov,False
@@ -226,8 +226,8 @@ syfe_bbp,mark8.syfe.com,True
 syfe_bbp,alfred.syfe.com,True
 syfe_bbp,api-uat-bugbounty.nonprod.syfe.com,True
 syfe_bbp,api.syfe.com,True
-syfe_bbp,www.syfe.com,True
 syfe_bbp,uat-bugbounty.nonprod.syfe.com,True
+syfe_bbp,www.syfe.com,True
 syfe_bbp,uat-bugbounty.nonprod.syfe.com,True
 syfe_bbp,api-uat-bugbounty.nonprod.syfe.com,True
 syfe_bbp,www.syfe.com,True
@@ -3264,7 +3264,6 @@ netflix,presentationtracking.netflix.com,True
 netflix,*.nflxvideo.net,True
 netflix,beacon.netflix.com,True
 netflix,*.nflxext.com,True
-netflix,meechum.netflix.com,True
 netflix,*.prod.dradis.netflix.com,True
 netflix,secure.netflix.com,True
 netflix,*.prod.cloud.netflix.com,True
@@ -3272,6 +3271,7 @@ netflix,help.netflix.com,True
 netflix,*.prod.ftl.netflix.com,True
 netflix,*.nflximg.net,True
 netflix,www.netflix.com,True
+netflix,meechum.netflix.com,True
 netflix,*.nflxext.com,True
 netflix,*.prod.ftl.netflix.com,True
 netflix,*.prod.cloud.netflix.com,True
@@ -4642,9 +4642,9 @@ remitly,api.remitly.io,True
 remitly,app3.rewire.to,True
 remitly,site.rewire.com,True
 remitly,app.rewire.to,True
-remitly,auth.remitly.com,True
-remitly,rewire.com,True
 remitly,careers.remitly.com,True
+remitly,rewire.com,True
+remitly,auth.remitly.com,True
 remitly,remitly.com,True
 remitly,*.int.remitly.com,True
 remitly,*.dev.remitly.com,True
@@ -4721,8 +4721,8 @@ toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.worldcoin.org,True
-toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,developer.worldcoin.org,True
+toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -4899,9 +4899,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,research.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
-23andme_bbp,research.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -6036,8 +6036,8 @@ fronthq,app.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 boozt,kronor.io,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 boozt,kronor.io,True
@@ -8292,8 +8292,8 @@ kiwicom,auth.skypicker.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,*.kiwi.com,True
-kiwicom,www.kiwi.com,True
 kiwicom,*.skypicker.com,True
+kiwicom,www.kiwi.com,True
 kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
@@ -11134,9 +11134,9 @@ stripe,*.link.co,True
 stripe,api.taxjar.com,True
 stripe,app.taxjar.com,True
 stripe,js.stripe.com,True
-stripe,*.lemonsqueezy.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
+stripe,*.lemonsqueezy.com,True
 stripe,*.lemonsqueezy.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
@@ -12273,8 +12273,8 @@ logitech,select.logitech.com,False
 logitech,https://www.logitech.com/blog,False
 logitech,alert.logitech.com,False
 enjin,*.enjinusercontent.com,False
-enjin,nft.io,True
 enjin,platform.enjin.io,True
+enjin,nft.io,True
 enjin,nft.io,True
 enjin,platform.enjin.io,True
 enjin,*.enjinusercontent.com,False
@@ -14174,8 +14174,8 @@ paypal,*.venmo.com,True
 paypal,*.braintreegateway.com,True
 paypal,*.xoom.com,True
 paypal,*.hyperwallet.com,True
-paypal,*.paypal.com,True
 paypal,*.braintree-api.com,True
+paypal,*.paypal.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
 paypal,*.braintreegateway.com,True
@@ -14207,7 +14207,6 @@ paypal,my.loanbuilder.com,True
 paypal,loanbuilder.com,True
 paypal,swiftfinancial.com,True
 paypal,swiftcapital.com,True
-chaturbate,m.chaturbate.com,True
 chaturbate,*.mmwebc.dev,True
 chaturbate,secure.chaturbate.com,True
 chaturbate,*.highwebmedia.com,True
@@ -14216,6 +14215,7 @@ chaturbate,*.cb.dev,True
 chaturbate,billingsupport.chaturbate.com,True
 chaturbate,chaturbate.com,True
 chaturbate,*.mmcdn.com,True
+chaturbate,m.chaturbate.com,True
 chaturbate,*.highwebmedia.com,True
 chaturbate,*.securegatewayaccess.com,True
 chaturbate,*.mmcdn.com,True
@@ -14311,11 +14311,11 @@ valve,www.dota2.com,True
 valve,www.valvesoftware.com,True
 valve,developer.valvesoftware.com,True
 valve,help.steampowered.com,True
-valve,www.counter-strike.net,True
 valve,steamcommunity.com,True
 valve,partner.steamgames.com,True
 valve,api.steampowered.com,True
 valve,store.steampowered.com,True
+valve,www.counter-strike.net,True
 valve,www.dota2.com,True
 valve,support.steampowered.com,True
 valve,partner.steampowered.com,True
@@ -14338,8 +14338,8 @@ crypto,app.mona.co,True
 crypto,nadex.com,True
 crypto,*.mona.co,True
 crypto,merchant.crypto.com,True
-crypto,*.crypto.com,True
 crypto,web.crypto.com,True
+crypto,*.crypto.com,True
 crypto,*.crypto.com,True
 crypto,*.mona.co,True
 crypto,https://crypto.com/exchange,True
@@ -14491,9 +14491,9 @@ grab,*.grab-sure.com,True
 grab,kartaview.org,True
 grab,*.grabpay.com,True
 grab,*.ovo.id,True
-grab,*.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
+grab,*.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -14834,8 +14834,8 @@ gitlab,*.gitlap.com,True
 gitlab,customers.gitlab.com,True
 gitlab,about.gitlab.com,True
 gitlab,docs.gitlab.com,True
-gitlab,gitlab.com,True
 gitlab,*.gitlab.net,True
+gitlab,gitlab.com,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
@@ -14887,8 +14887,8 @@ deriv,oauth.deriv.com,True
 deriv,*.binary.com,True
 deriv,cashier.deriv.com,True
 deriv,derivws.com,True
-deriv,*.deriv.com,True
 deriv,app.deriv.com,True
+deriv,*.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True
@@ -15181,13 +15181,13 @@ x,t.co,False
 x,xadsacademy.com,False
 x,*.vine.co,True
 x,*.twimg.com,True
-x,*.x.ai,True
 x,grok.com,True
 x,*.grok.com,True
 x,gnip.com,True
+x,*.x.ai,True
 x,*.x.com,True
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,*.twitter.com,True
 x,*.vine.co,True
 x,*.twimg.com,True
