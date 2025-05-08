@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 02:42:18 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 03:41:17 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -31,9 +31,9 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 alfred.syfe.com
-api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 uat-bugbounty.nonprod.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 api.prod.whoop.com
-shop.whoop.com
 app.whoop.com
+shop.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -111,8 +111,8 @@ id.stg.inspectorio.com
 docuflow.stg.inspectorio.com
 rise.stg.inspectorio.com
 app.stg.inspectorio.com
-rise-api.stg.inspectorio.com
 api.stg.inspectorio.com
+rise-api.stg.inspectorio.com
 app.stg.inspectorio.com
 rise.stg.inspectorio.com
 report-html-sight.stg.inspectorio.com
@@ -128,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-auth.privy.io
 dashboard.privy.io
+auth.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -446,8 +446,8 @@ app3.rewire.to
 site.rewire.com
 app.rewire.to
 careers.remitly.com
-rewire.com
 auth.remitly.com
+rewire.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -484,8 +484,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-developer.worldcoin.org
 *.worldcoin.dev
+developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -535,8 +535,8 @@ university-staging.dynatracelabs.com
 account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-*.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+*.sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -574,8 +574,8 @@ pd-api.polkadoc.com
 api.23andme.com
 you.23andme.com
 research.23andme.com
-blog.23andme.com
 clinic.lemonaidhealth.com
+blog.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -611,7 +611,6 @@ www.mercadolibre.com.gt
 www.mercadolibre.co.cr
 www.mercadolibre.com.hn
 www.mercadolibre.com.ec
-*.adminml.com
 *.mercadoshops.com.ar
 *.mercadoshops.com.pe
 api.mercadopago.com
@@ -622,6 +621,7 @@ api.mercadolibre.com
 *.mercadopago.com.uy
 *.mercadopago.com.co
 *.mercadopago.com.pe
+*.mercadopago.com.mx
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -1116,8 +1116,8 @@ hilton.io
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
 *.hilton.io
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1636,8 +1636,8 @@ api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 *.instacart.tools
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1967,8 +1967,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.memorable.io
 *.redditinc.com
+*.memorable.io
 *.reddit.com
 *.snooguts.net
 *.reddit.com
@@ -2189,8 +2189,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2211,8 +2211,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2621,8 +2621,8 @@ http://grpc.oasis.dev
 http://rosetta.oasis.dev/api/mainnet
 http://sapphire.oasis.io
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
-codacontent.io
 codahosted.io
+codacontent.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
@@ -2734,7 +2734,7 @@ secure.rezserver.com
 www.bookingholdings.com
 press.priceline.com
 cruises.priceline.com
-ir.bookingholdings.com
+flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3225,9 +3225,9 @@ grab.careers
 kartaview.org
 *.grabpay.com
 *.ovo.id
-*.myteksi.com
 *.myteksi.net
 *.grab.com
+*.myteksi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3484,8 +3484,8 @@ npmjs.com
 npmjs.org
 education.github.com
 api.github.com
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 github.com
 github.com
 api.github.com
@@ -3578,8 +3578,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3601,11 +3601,11 @@ arrive-server.shopifycloud.com
 *.shopify.io
 partners.shopify.com
 accounts.shopify.com
-shop.app
 *.shopify.com
 shopifyinbox.com
 your-store.myshopify.com
 admin.shopify.com
+shop.app
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3644,15 +3644,15 @@ login.playcanvas.com
 my.snapchat.com
 businesshelp.snapchat.com
 *.sc-core.net
-ads.snapchat.com
 story.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
 forum.playcanvas.com
-app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 playcanvas.com
+app.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3830,13 +3830,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
+*.x.ai
 grok.com
 *.grok.com
 gnip.com
-*.x.ai
 *.x.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3980,11 +3980,11 @@ profile-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone.live
-api.hackerone.com
 reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 www.hackerone.com
+api.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
