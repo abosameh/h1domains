@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 17:14:37 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 18:20:18 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-walletbot.me
 pay.wallet.tg
+walletbot.me
 wallet.tg
 walletbot.me
 pay.wallet.tg
@@ -22,9 +22,9 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 www.zooplus.co.uk
-zooplus.net
-www.zooplus.de
 www.zooplus.com
+www.zooplus.de
+zooplus.net
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -32,9 +32,9 @@ zooplus.net
 mark8.syfe.com
 alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
-api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 www.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -92,8 +92,8 @@ workspace.toloka.ai
 sso.auth.toloka.ai
 ladybug.a9s.toloka.ai
 experts-portal.toloka.ai
-mindrift.toloka.ai
 auth.toloka.ai
+mindrift.toloka.ai
 auth.toloka.ai
 sso.auth.toloka.ai
 ladybug.a9s.toloka.ai
@@ -356,8 +356,8 @@ secure.netflix.com
 help.netflix.com
 *.prod.ftl.netflix.com
 *.nflximg.net
-www.netflix.com
 meechum.netflix.com
+www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -435,17 +435,17 @@ partner-webhook.remitly.io
 metrics.int.remitly.com
 news.remitly.com
 ir.remitly.com
-site.rewire.com
 app.rewire.to
-careers.remitly.com
 rewire.com
 access.remitly.com
-remitly.com
 *.int.remitly.com
-auth.remitly.com
+site.rewire.com
+careers.remitly.com
+remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
+auth.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -814,10 +814,10 @@ connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
-manage-sandbox.gocardless.com
 *.gocardless.com
 api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1244,9 +1244,9 @@ api.s-kaupat.fi
 auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
-*.kiwi.com
 *.skypicker.com
 www.kiwi.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1382,8 +1382,8 @@ www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
 *.carrentals.com
-www.expedia.com
 *.expediapartnercentral.com
+*.travelocity.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1635,8 +1635,8 @@ api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 *.instacart.tools
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1959,8 +1959,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 m.reddit.com
+*.redditinc.com
 *.reddit.com
 *.memorable.io
 *.snooguts.net
@@ -2139,11 +2139,11 @@ shop-id.tokopedia.com
 business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
+*.tiktok.com
+ads.tiktok.com
 seller-id.tokopedia.com
 tiktok.com
 live-backstage.tiktok.com
-*.tiktok.com
-ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2551,9 +2551,9 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 blox.link
+*.rbx.com
 *.roblox.com
 *.guilded.gg
-*.rbx.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2581,8 +2581,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2632,8 +2632,8 @@ sketch.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
 comic.pixiv.net
-www.pixiv.net
 dic.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2882,9 +2882,9 @@ booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
 capi.grammarly.com
-*.grammarly.io
 *.grammarly.com
 app.grammarly.com
+*.grammarly.io
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2976,12 +2976,12 @@ loanbuilder.com
 *.braintreepayments.com
 *.paydiant.com
 *.venmo.com
-*.hyperwallet.com
 *.braintree-api.com
 *.braintreegateway.com
 *.paylution.com
 *.paypal.com
 *.xoom.com
+*.hyperwallet.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3153,11 +3153,11 @@ developer-api.crypto.com
 https://github.com/rsksmart/rsk-powhsm/
 production.plaid.com
 secure.plaid.com
-cdn.plaid.com
 plaid.com
 demo.plaid.com
 dashboard.plaid.com
 my.plaid.com
+cdn.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3222,8 +3222,8 @@ kartaview.org
 *.grabpay.com
 *.myteksi.net
 *.myteksi.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3531,11 +3531,11 @@ winecellar.zomato.com
 *.ticketnew.com
 blinkit.com
 *.zomans.com
-*.zomato.com
 *.hyperpure.com
 *.insider.in
 *.district.in
 *.tktnew.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3596,12 +3596,12 @@ arrive-server.shopifycloud.com
 *.shopify.io
 accounts.shopify.com
 shopifyinbox.com
-*.shopifycloud.com
-*.shopify.com
-shop.app
-your-store.myshopify.com
 partners.shopify.com
+*.shopifycloud.com
+shop.app
 admin.shopify.com
+*.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3704,7 +3704,6 @@ repo.magento.com
 adobeid-na1.services.adobe.com
 *.lightroom.adobe.com
 net.s2stagehance.com
-auth.services.adobe.com
 portfolio.ccpsx.com
 *.acrobat.adobe.com
 account.magento.com
@@ -3713,8 +3712,8 @@ learningmanagerstage4.adobe.com
 magento.com
 photos.adobe.io
 marketplace.magento.com
-contributor.stock.adobe.com
 fonts.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,8 +3754,8 @@ www.hoteltonight.com
 api.airbnb.com
 *.airbnb.com
 next.airbnb.com
-*.withairbnb.com
 www.airbnb.com
+*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3918,11 +3917,11 @@ pro.coinbase.com
 api.custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-commerce.coinbase.com
 api.coinbase.com
 *.base.org
 coinbase.com
 *.coinbase.com
+commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3948,8 +3947,8 @@ slackb.com
 slack-status.com
 slackatwork.com
 app.slack.com
-api.slack.com
 slack.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
