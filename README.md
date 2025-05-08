@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 03:41:17 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 04:20:24 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -33,8 +33,8 @@ mark8.syfe.com
 alfred.syfe.com
 api.syfe.com
 uat-bugbounty.nonprod.syfe.com
-api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -446,8 +446,8 @@ app3.rewire.to
 site.rewire.com
 app.rewire.to
 careers.remitly.com
-auth.remitly.com
 rewire.com
+auth.remitly.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -574,8 +574,8 @@ pd-api.polkadoc.com
 api.23andme.com
 you.23andme.com
 research.23andme.com
-clinic.lemonaidhealth.com
 blog.23andme.com
+clinic.lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1958,7 +1958,6 @@ redditforbusiness.com
 gateway.reddit.com
 sh.reddit.com
 *.snooguts.net
-m.reddit.com
 *.reddithelp.com
 gql.reddit.com
 *.redditmedia.com
@@ -1967,9 +1966,10 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 *.memorable.io
+*.redditinc.com
 *.reddit.com
+m.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2036,8 +2036,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-larksuite.com
 api.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2985,11 +2985,11 @@ loanbuilder.com
 *.paydiant.com
 *.paylution.com
 *.venmo.com
-*.braintreegateway.com
 *.xoom.com
 *.hyperwallet.com
 *.braintree-api.com
 *.paypal.com
+*.braintreegateway.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3226,8 +3226,8 @@ kartaview.org
 *.grabpay.com
 *.ovo.id
 *.myteksi.net
-*.grab.com
 *.myteksi.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3563,8 +3563,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3578,8 +3578,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3651,8 +3651,8 @@ forum.playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
 playcanvas.com
-app.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3756,9 +3756,9 @@ www.hoteltonight.com
 *.muscache.com
 *.hoteltonight.com
 *.airbnb.com
-next.airbnb.com
 api.airbnb.com
 www.airbnb.com
+next.airbnb.com
 *.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
@@ -3830,13 +3830,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-*.x.ai
 grok.com
 *.grok.com
 gnip.com
+*.x.ai
 *.x.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3950,8 +3950,8 @@ slackb.com
 slack-status.com
 slackatwork.com
 api.slack.com
-app.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 slackb.com
