@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 18:19:32 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 19:13:30 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
-wallet.tg
 pay.wallet.tg
+wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -32,9 +32,9 @@ zooplus.net
 mark8.syfe.com
 alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 www.syfe.com
+uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -128,14 +128,14 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-dashboard.privy.io
 auth.privy.io
+dashboard.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
 https://bugbounty-ctf.1password.com/
-*.bykea.net
 bykea.com
+*.bykea.net
 *.bykea.net
 https://api.bykea.net
 bykea.com
@@ -161,8 +161,8 @@ gift.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn/
 www.starbucks.com.cn/
-*.wellsfargo.com
 connect.secure.wellsfargo.com
+*.wellsfargo.com
 *.wellsfargo.com
 connect.secure.wellsfargo.com
 http://wellsfargo.com
@@ -435,17 +435,17 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-site.rewire.com
 api.remitly.io
 app3.rewire.to
+site.rewire.com
 blog.remitly.com
+access.remitly.com
+news.remitly.com
+*.int.remitly.com
+remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
-remitly.com
-*.int.remitly.com
-access.remitly.com
-news.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -788,8 +788,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1553,9 +1553,9 @@ https://my.exness.com/pa/pim/manager
 social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
-smtp2go.com
 api.smtp2go.com
 app.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1651,12 +1651,12 @@ support.databricks.com
 marketplace.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 advocates.databricks.com
 community.databricks.com
 databricks.com
 partners.databricks.com
 help.databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1958,8 +1958,8 @@ business.reddithelp.com
 ads.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
+m.reddit.com
 *.memorable.io
 *.reddit.com
 developers.reddit.com
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.a.exodus.io
 *.exodus.com
+*.a.exodus.io
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2138,12 +2138,12 @@ shop.tiktok.com
 creatormarketplace.tiktok.com
 seller-id.tokopedia.com
 live-backstage.tiktok.com
-*.tiktok.com
 developers.tiktok.com
 business.tiktok.com
 ads.tiktok.com
 tiktok.com
 *.tiktokv.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2204,8 +2204,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2595,8 +2595,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.biz
-*.line.me
 *.linecorp.com
+*.line.me
 *.line-apps.com
 *.line.me
 *.line-apps.com
@@ -3133,10 +3133,10 @@ nadex.com
 *.mona.co
 web.crypto.com
 developer-api.crypto.com
-*.crypto.com
 merchant.crypto.com
-developer.crypto.com
 app.mona.co
+*.crypto.com
+developer.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3440,8 +3440,8 @@ secureui.starbucks.com
 openapi.starbucks.com
 www.starbucksreserve.com
 www.starbucks.ca
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 www.starbucks.ca
 www.starbucks.com
@@ -3597,11 +3597,11 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 partners.shopify.com
 *.shopify.io
-*.shopify.com
 shopifyinbox.com
 shop.app
-your-store.myshopify.com
 accounts.shopify.com
+your-store.myshopify.com
+*.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
@@ -3648,8 +3648,8 @@ web.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
-playcanvas.com
 business.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3755,9 +3755,9 @@ www.hoteltonight.com
 *.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
-*.airbnb.com
-*.withairbnb.com
 www.airbnb.com
+*.withairbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3948,9 +3948,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-api.slack.com
 slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3981,8 +3981,8 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
-hackerone.live
 www.hackerone.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 hackerone.com
