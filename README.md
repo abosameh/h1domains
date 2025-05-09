@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 20:17:04 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 21:14:16 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-walletbot.me
-wallet.tg
 pay.wallet.tg
+wallet.tg
+walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -30,11 +30,11 @@ www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 mark8.syfe.com
-alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 www.syfe.com
 uat-bugbounty.nonprod.syfe.com
+alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 app.whoop.com
-api.prod.whoop.com
 shop.whoop.com
+api.prod.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -478,10 +478,10 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.dev
-*.consumer.worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -567,12 +567,12 @@ therapeutics.23andme.com
 store.23andme.com
 research.23andme.com
 blog.23andme.com
-lemonaidhealth.com
 api.23andme.com
 you.23andme.com
 auth.23andme.com
 pd-api.polkadoc.com
 clinic.lemonaidhealth.com
+lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -789,8 +789,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1003,9 +1003,9 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
+yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
-yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1221,7 +1221,6 @@ cloud.malwarebytes.com
 oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
-online.s-pankki.fi
 www.prisma.fi
 digili.s-cloud.fi
 www.sokos.fi
@@ -1230,6 +1229,7 @@ api.sokos.fi
 api.s-kaupat.fi
 www.s-pankki.fi
 www.s-kaupat.fi
+online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1286,7 +1286,6 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.napoleondice.be
 *.napoleonsports.be
 *.napoleongames.be
 *.luckydays.ca
@@ -1299,6 +1298,7 @@ superbet.bet.br
 *.superbet.rs
 *.superbet.com
 *.superbet.ro
+*.napoleondice.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1382,9 +1382,9 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
+www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
-www.ebookers.fi
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1427,10 +1427,10 @@ magiceden.io
 *.magiceden.workers.dev
 zerobounce.net
 zerobounce.net
-insights.deribit.com
 pb.deribit.com
 *.deribit.com
 test.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1478,8 +1478,8 @@ www.trendyol-milla.com
 *.sidefx.com
 portfolio.metamask.io
 snaps.metamask.io
-metamask.io
 signature-insights.api.cx.metamask.io
+metamask.io
 metamask.io
 portfolio.metamask.io
 snaps.metamask.io
@@ -1497,9 +1497,9 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-api.linkedin.com
 business.linkedin.com
 www.linkedin.com
+api.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1892,9 +1892,9 @@ https://docs.metamask.io/developer-tools/faucet
 support.metamask.io
 tickets.metamask.io
 www.xvideos.red
-www.xnxx.com
 www.xnxx.gold
 www.xvideos.com
+www.xnxx.com
 www.xvideos.com
 www.xvideos.red
 www.xnxx.com
@@ -1959,8 +1959,8 @@ business.reddithelp.com
 ads.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 m.reddit.com
+*.redditinc.com
 *.memorable.io
 *.reddit.com
 developers.reddit.com
@@ -2140,11 +2140,11 @@ creatormarketplace.tiktok.com
 seller-id.tokopedia.com
 developers.tiktok.com
 business.tiktok.com
-*.tiktokv.com
-tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 ads.tiktok.com
+*.tiktokv.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2351,7 +2351,6 @@ https://www.kruidvat.nl/fotoservice
 https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
 https://www.drogas.lv/ru/blog
-social.playstation.com
 ps5.np.playstation.net
 direct.playstation.com
 api.direct.playstation.com
@@ -2363,6 +2362,7 @@ ca.account.sony.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
 store.playstation.com
+social.playstation.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2745,8 +2745,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2980,9 +2980,9 @@ loanbuilder.com
 *.venmo.com
 *.braintree-api.com
 *.hyperwallet.com
-*.xoom.com
 *.braintreegateway.com
 *.paylution.com
+*.xoom.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3043,8 +3043,8 @@ www.bitmex.com
 blog.bitmex.com
 *.staging-airtableblocks.com
 api-staging.airtable.com
-*.staging.airtable.com
 staging.airtable.com
+*.staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3132,11 +3132,11 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
-developer-api.crypto.com
-merchant.crypto.com
 web.crypto.com
+developer-api.crypto.com
 app.mona.co
 developer.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3176,10 +3176,10 @@ hybrid-analysis.com
 *.humio.com
 falcon-sandbox.com
 *.bionic.ai
-www.crowdstrike.com
 *.flowsecurity.app
 *.securecircle.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3478,13 +3478,13 @@ moneybirdstorage.com
 *.github.net
 npmjs.com
 npmjs.org
-education.github.com
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 *.githubusercontent.com
 api.github.com
 classroom.github.com
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3560,8 +3560,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3599,11 +3599,11 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 shopifyinbox.com
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
-shop.app
 partners.shopify.com
 your-store.myshopify.com
+admin.shopify.com
+shop.app
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3714,9 +3714,9 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
 auth.services.adobe.com
 firefly.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3923,8 +3923,8 @@ international.coinbase.com
 api.coinbase.com
 *.base.org
 coinbase.com
-*.coinbase.com
 commerce.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3949,9 +3949,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-api.slack.com
-app.slack.com
 slack.com
+app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3982,8 +3982,8 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
-hackerone.live
 www.hackerone.com
+hackerone.live
 api.hackerone.com
 hackerone.com
 hackerone.com
