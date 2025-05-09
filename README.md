@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 19:13:30 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 20:17:04 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
-pay.wallet.tg
 wallet.tg
+pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 app.whoop.com
-shop.whoop.com
 api.prod.whoop.com
+shop.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -92,8 +92,8 @@ workspace.toloka.ai
 sso.auth.toloka.ai
 ladybug.a9s.toloka.ai
 experts-portal.toloka.ai
-mindrift.toloka.ai
 auth.toloka.ai
+mindrift.toloka.ai
 auth.toloka.ai
 sso.auth.toloka.ai
 ladybug.a9s.toloka.ai
@@ -128,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-auth.privy.io
 dashboard.privy.io
+auth.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -197,8 +197,8 @@ middle-force.khealth.io
 api.khealth.com
 *.capitalonegslbex.com
 *.capitalone.ca
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -442,10 +442,10 @@ blog.remitly.com
 access.remitly.com
 news.remitly.com
 *.int.remitly.com
-remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,10 +478,10 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-toolsforhumanity.com
 *.worldcoin.dev
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
+toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -598,7 +598,6 @@ www.mercadolibre.com.ni
 *.mercadoshops.com.py
 *.mercadoshops.co.cr
 www.mercadolibre.com.pa
-logistica.redelcom.cl
 www.mercadolibre.com.do
 www.mercadolibre.com.gt
 *.mercadoshops.com
@@ -620,6 +619,8 @@ mercadoplay.co
 biolibre.ar
 biolibre.mx
 biolivre.com.br
+meliplay.com.ar
+meliplay.com.pe
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -788,8 +789,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1002,9 +1003,9 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1381,9 +1382,9 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
-www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
+www.ebookers.fi
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -2045,8 +2046,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.exodus.com
 *.a.exodus.io
+*.exodus.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2137,13 +2138,13 @@ shop-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
 seller-id.tokopedia.com
-live-backstage.tiktok.com
 developers.tiktok.com
 business.tiktok.com
-ads.tiktok.com
-tiktok.com
 *.tiktokv.com
+tiktok.com
+live-backstage.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2516,8 +2517,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3111,8 +3112,8 @@ help.steampowered.com
 steamcommunity.com
 partner.steamgames.com
 api.steampowered.com
-store.steampowered.com
 www.counter-strike.net
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3131,12 +3132,12 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
-web.crypto.com
 developer-api.crypto.com
 merchant.crypto.com
+web.crypto.com
 app.mona.co
-*.crypto.com
 developer.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3475,14 +3476,14 @@ moneybird.com
 moneybird.com
 moneybirdstorage.com
 *.github.net
-classroom.github.com
 npmjs.com
 npmjs.org
 education.github.com
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
 api.github.com
+classroom.github.com
 github.com
 github.com
 api.github.com
@@ -3559,8 +3560,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3594,15 +3595,15 @@ linkpop.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
-*.shopifycloud.com
-partners.shopify.com
 *.shopify.io
+*.shopifycloud.com
 shopifyinbox.com
-shop.app
-accounts.shopify.com
-your-store.myshopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
+shop.app
+partners.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3756,8 +3757,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 www.airbnb.com
-*.withairbnb.com
 *.airbnb.com
+*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3948,9 +3949,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-slack.com
-app.slack.com
 api.slack.com
+app.slack.com
+slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3981,10 +3982,10 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
-www.hackerone.com
 hackerone.live
-hackerone.com
+www.hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
