@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 12:25:24 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 13:27:10 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-walletbot.me
 pay.wallet.tg
 wallet.tg
 walletbot.me
+walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -436,16 +436,16 @@ ir.remitly.com
 app.rewire.to
 rewire.com
 access.remitly.com
-site.rewire.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
-news.remitly.com
+site.rewire.com
+careers.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
-careers.remitly.com
 auth.remitly.com
 remitly.com
+news.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,11 +478,11 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.consumer.worldcoin.org
-*.worldcoin.org
-*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
+*.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -1003,8 +1003,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1202,10 +1202,10 @@ oneview.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
-*.malwarebytes.com
 cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1293,11 +1293,11 @@ admin.8x8.com
 superbet.bet.br
 *.superbet.pl
 *.magicjackpot.ro
-*.superbet.ro
 *.spinaway.com
 *.napoleoncasino.be
 *.superbet.rs
 *.superbet.com
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.a.exodus.io
 *.exodus.com
+*.a.exodus.io
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2139,11 +2139,11 @@ shop.tiktok.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
 tiktok.com
-*.tiktok.com
 seller-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktokv.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2182,8 +2182,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2204,10 +2204,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -2516,8 +2516,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2581,8 +2581,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-astra.datastax.com
 www.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2595,9 +2595,9 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.biz
-*.line-apps.com
 *.line.me
 *.linecorp.com
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3129,14 +3129,14 @@ developer.valvesoftware.com
 developer-platform-api.crypto.com
 tax.crypto.com
 js.crypto.com
-app.mona.co
 nadex.com
 *.mona.co
-web.crypto.com
 developer-api.crypto.com
 *.crypto.com
-developer.crypto.com
 merchant.crypto.com
+developer.crypto.com
+web.crypto.com
+app.mona.co
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3397,8 +3397,8 @@ store.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
-*.rockstargames.com
 www.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3479,8 +3479,8 @@ classroom.github.com
 npmjs.com
 npmjs.org
 education.github.com
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 *.githubusercontent.com
 api.github.com
 github.com
@@ -3595,14 +3595,14 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 shopifyinbox.com
-*.shopify.com
 *.shopifycloud.com
 partners.shopify.com
 *.shopify.io
-admin.shopify.com
 shop.app
-accounts.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
+admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3713,9 +3713,9 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-auth.services.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
+firefly.adobe.com
+auth.services.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,9 +3755,9 @@ www.hoteltonight.com
 *.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
-*.withairbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
+*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3982,8 +3982,8 @@ reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone.live
 www.hackerone.com
+hackerone.live
 hackerone.com
 hackerone.com
 api.hackerone.com
