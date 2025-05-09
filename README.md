@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 11:13:40 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 12:25:24 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-pay.wallet.tg
-wallet.tg
-walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
+walletbot.me
+pay.wallet.tg
+wallet.tg
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -32,9 +32,9 @@ zooplus.net
 mark8.syfe.com
 alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api.syfe.com
+www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -278,7 +278,7 @@ cms.nba.com
 2kleague.nba.com
 identity.nba.com
 content-api-nextgen-prod.nba.com
-www.wnba.com
+lockervision.nba.com
 www.nba.com
 gleague.nba.com
 2kleague.nba.com
@@ -356,8 +356,8 @@ help.netflix.com
 *.prod.ftl.netflix.com
 *.nflximg.net
 ichnaea.netflix.com
-meechum.netflix.com
 www.netflix.com
+meechum.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -436,14 +436,14 @@ ir.remitly.com
 app.rewire.to
 rewire.com
 access.remitly.com
+site.rewire.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
-site.rewire.com
 news.remitly.com
-careers.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
+careers.remitly.com
 auth.remitly.com
 remitly.com
 *.int.remitly.com
@@ -478,9 +478,9 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
@@ -594,7 +594,6 @@ research.23andme.com
 *.mercadoshops.com.pa
 *.mercadoshops.com.mx
 *.mercadoshops.com.do
-www.mercadopago.com.ec
 www.mercadolibre.com.ni
 *.mercadoshops.com.py
 *.mercadoshops.co.cr
@@ -620,6 +619,7 @@ api.mercadopago.com
 mercadoplay.co
 biolibre.ar
 biolibre.mx
+biolivre.com.br
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -779,9 +779,9 @@ kronor.io
 *.travix.io
 *.travix.com
 *.cheaptickets.nl
-*.trip.com
 *.trainpal.com
 *.mytrainpal.com
+*.trip.com
 *.trip.com
 *.travix.com
 *.travix.io
@@ -1002,9 +1002,9 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1201,11 +1201,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 www.malwarebytes.com
 *.mwbsys.com
-*.threatdown.com
 *.cloud.malwarebytes.com
 *.malwarebytes.com
 cloud.malwarebytes.com
 my.malwarebytes.com
+*.threatdown.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1382,8 +1382,8 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
-www.lastminute.co.nz
 *.travelocity.com
+*.cheaptickets.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1541,8 +1541,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-exness.com
 my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1922,9 +1922,9 @@ cloud.elastic.co
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-api.stripe.com
 *.lemonsqueezy.com
 *.stripe.com
+api.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -1959,8 +1959,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 m.reddit.com
+*.redditinc.com
 *.reddit.com
 *.memorable.io
 *.snooguts.net
@@ -2204,10 +2204,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -2516,8 +2516,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2581,8 +2581,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2789,7 +2789,6 @@ www.blueskytours.com
 soaext.oft.hyatt.com
 meetings.hyatt.com
 jira.hyattdev.com
-res.vacations.universalstudioshollywood.com
 holidays-au.fijiairways.com
 book.beachbound.com
 www.triseptsolutions.com
@@ -2812,6 +2811,7 @@ book.applevacations.com
 www.hyattconnect.com
 www.wynnvacations.com
 booking.applevacations.com
+res.southwestvacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3132,10 +3132,10 @@ js.crypto.com
 app.mona.co
 nadex.com
 *.mona.co
-developer.crypto.com
 web.crypto.com
 developer-api.crypto.com
 *.crypto.com
+developer.crypto.com
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3397,8 +3397,8 @@ store.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
-www.rockstargames.com
 *.rockstargames.com
+www.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3595,14 +3595,14 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 shopifyinbox.com
-*.shopifycloud.com
 *.shopify.com
+*.shopifycloud.com
 partners.shopify.com
 *.shopify.io
 admin.shopify.com
 shop.app
-your-store.myshopify.com
 accounts.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3648,8 +3648,8 @@ web.snapchat.com
 ads.snapchat.com
 playcanvas.com
 app.snapchat.com
-accounts.snapchat.com
 business.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3713,9 +3713,9 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
-firefly.adobe.com
 auth.services.adobe.com
+firefly.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3948,9 +3948,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-app.slack.com
 api.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 slackb.com
