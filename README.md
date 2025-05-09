@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 17:14:42 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 18:19:32 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-pay.wallet.tg
 walletbot.me
 wallet.tg
+pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -23,8 +23,8 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
 www.zooplus.de
-www.zooplus.com
 www.zooplus.co.uk
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 app.whoop.com
-api.prod.whoop.com
 shop.whoop.com
+api.prod.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -121,8 +121,8 @@ rise-api.stg.inspectorio.com
 docuflow.stg.inspectorio.com
 id.stg.inspectorio.com
 http://bumba.global
-app.uma.money
 lrc20.lightspark.com
+app.uma.money
 http://api.lightspark.com
 http://app.lightspark.com
 https://link.uma.me
@@ -228,8 +228,8 @@ bestfiends.com
 vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
-apix.vodafone.om
 www.vodafone.om
+apix.vodafone.om
 www.vodafone.om
 apix.vodafone.om
 vfo01.vodafone.om
@@ -435,17 +435,17 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
+site.rewire.com
 api.remitly.io
 app3.rewire.to
-site.rewire.com
-*.int.remitly.com
+blog.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
-news.remitly.com
-blog.remitly.com
 auth.remitly.com
-access.remitly.com
 remitly.com
+*.int.remitly.com
+access.remitly.com
+news.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,10 +478,10 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.consumer.worldcoin.org
-*.worldcoin.org
-*.worldcoin.dev
 toolsforhumanity.com
+*.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -788,8 +788,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1361,7 +1361,6 @@ www.bookabach.co.nz
 *.lastminute.com.au
 *.lastminute.co.nz
 www.mrjet.se
-*.wotif.com
 www.hotwirepartnercentral.com
 *.travelocity.ca
 www.travelocity.com
@@ -1382,6 +1381,7 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
+www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
 *.vrbo.com
@@ -1922,9 +1922,9 @@ cloud.elastic.co
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-*.stripe.com
 api.stripe.com
 *.lemonsqueezy.com
+*.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -1956,13 +1956,13 @@ gql.reddit.com
 *.redditmedia.com
 business.reddithelp.com
 ads.reddit.com
-developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 m.reddit.com
+*.redditinc.com
 *.memorable.io
 *.reddit.com
+developers.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2138,12 +2138,12 @@ shop.tiktok.com
 creatormarketplace.tiktok.com
 seller-id.tokopedia.com
 live-backstage.tiktok.com
-*.tiktokv.com
 *.tiktok.com
-ads.tiktok.com
 developers.tiktok.com
-tiktok.com
 business.tiktok.com
+ads.tiktok.com
+tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2182,8 +2182,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2204,8 +2204,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2516,8 +2516,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2581,8 +2581,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-astra.datastax.com
 www.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2596,8 +2596,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.line-apps.com
 *.linecorp.com
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3134,8 +3134,8 @@ nadex.com
 web.crypto.com
 developer-api.crypto.com
 *.crypto.com
-developer.crypto.com
 merchant.crypto.com
+developer.crypto.com
 app.mona.co
 *.crypto.com
 *.mona.co
@@ -3511,8 +3511,8 @@ design.gitlab.com
 customers.gitlab.com
 about.gitlab.com
 docs.gitlab.com
-gitlab.com
 *.gitlab.net
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3535,8 +3535,8 @@ blinkit.com
 *.hyperpure.com
 *.district.in
 *.tktnew.com
-*.zomato.com
 *.insider.in
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3599,10 +3599,10 @@ partners.shopify.com
 *.shopify.io
 *.shopify.com
 shopifyinbox.com
-your-store.myshopify.com
-admin.shopify.com
-accounts.shopify.com
 shop.app
+your-store.myshopify.com
+accounts.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3756,8 +3756,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 *.airbnb.com
-www.airbnb.com
 *.withairbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3828,9 +3828,9 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-*.x.ai
 *.grok.com
 gnip.com
+*.x.ai
 *.twitter.com
 grok.com
 x.com
@@ -3949,8 +3949,8 @@ slackb.com
 slack-status.com
 slackatwork.com
 api.slack.com
-app.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 slackb.com
