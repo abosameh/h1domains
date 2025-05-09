@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 10:16:29 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 11:13:40 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-walletbot.me
 pay.wallet.tg
 wallet.tg
+walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -44,9 +44,9 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
-api.prod.whoop.com
-shop.whoop.com
 app.whoop.com
+shop.whoop.com
+api.prod.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -356,8 +356,8 @@ help.netflix.com
 *.prod.ftl.netflix.com
 *.nflximg.net
 ichnaea.netflix.com
-www.netflix.com
 meechum.netflix.com
+www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -401,8 +401,8 @@ platform.cat.earlywarning.io
 usercontent.koho.ca
 app.koho.ca
 web.koho.ca
-www.koho.ca
 webgateway.koho.ca
+www.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -441,9 +441,9 @@ api.remitly.io
 app3.rewire.to
 site.rewire.com
 news.remitly.com
+careers.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
-careers.remitly.com
 auth.remitly.com
 remitly.com
 *.int.remitly.com
@@ -569,8 +569,8 @@ pd-api.polkadoc.com
 research.23andme.com
 clinic.lemonaidhealth.com
 blog.23andme.com
-api.23andme.com
 lemonaidhealth.com
+api.23andme.com
 you.23andme.com
 auth.23andme.com
 api.23andme.com
@@ -1382,8 +1382,8 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
+www.lastminute.co.nz
 *.travelocity.com
-*.cheaptickets.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1794,8 +1794,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-securitytrails.com
 tria.ge
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1959,8 +1959,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
+m.reddit.com
 *.reddit.com
 *.memorable.io
 *.snooguts.net
@@ -2138,12 +2138,12 @@ business.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
-ads.tiktok.com
 tiktok.com
 *.tiktok.com
 seller-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2204,10 +2204,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -2516,8 +2516,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3132,11 +3132,11 @@ js.crypto.com
 app.mona.co
 nadex.com
 *.mona.co
-merchant.crypto.com
 developer.crypto.com
 web.crypto.com
 developer-api.crypto.com
 *.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3713,9 +3713,9 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-auth.services.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
+firefly.adobe.com
+auth.services.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3756,8 +3756,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 *.withairbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3948,8 +3948,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 slack.com
 api.slack.com
