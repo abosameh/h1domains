@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 03:40:19 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 04:19:19 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-wallet.tg
-pay.wallet.tg
-walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
+walletbot.me
+pay.wallet.tg
+wallet.tg
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -30,11 +30,11 @@ www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 mark8.syfe.com
-alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
+alfred.syfe.com
 api.syfe.com
-www.syfe.com
 uat-bugbounty.nonprod.syfe.com
+www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -436,14 +436,14 @@ ir.remitly.com
 app.rewire.to
 rewire.com
 access.remitly.com
-site.rewire.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
+site.rewire.com
 news.remitly.com
+careers.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
-careers.remitly.com
 auth.remitly.com
 remitly.com
 *.int.remitly.com
@@ -815,8 +815,8 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
 manage-sandbox.gocardless.com
-pay-sandbox.gocardless.com
 api-sandbox.gocardless.com
+pay-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -1204,8 +1204,8 @@ www.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 *.threatdown.com
-*.cloud.malwarebytes.com
 *.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1383,7 +1383,7 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
-*.travelocity.com
+www.lastminute.co.nz
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -2141,8 +2141,8 @@ developers.tiktok.com
 creatormarketplace.tiktok.com
 seller-id.tokopedia.com
 *.tiktok.com
-tiktok.com
 ads.tiktok.com
+tiktok.com
 *.tiktokv.com
 *.tiktok.com
 business.tiktok.com
@@ -2182,8 +2182,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2204,8 +2204,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2361,8 +2361,8 @@ my.account.sony.com
 ca.account.sony.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
-store.playstation.com
 *.playstation.net
+store.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2581,8 +2581,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2632,8 +2632,8 @@ sketch.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
 comic.pixiv.net
-dic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2977,11 +2977,11 @@ loanbuilder.com
 *.paydiant.com
 *.venmo.com
 *.braintree-api.com
-*.braintreegateway.com
 *.hyperwallet.com
 *.paylution.com
-*.paypal.com
 *.xoom.com
+*.braintreegateway.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3134,8 +3134,8 @@ nadex.com
 merchant.crypto.com
 developer.crypto.com
 developer-api.crypto.com
-*.crypto.com
 web.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3594,14 +3594,14 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 shopifyinbox.com
+*.shopify.com
+*.shopifycloud.com
 partners.shopify.com
 *.shopify.io
 accounts.shopify.com
 admin.shopify.com
 your-store.myshopify.com
 shop.app
-*.shopifycloud.com
-*.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3713,9 +3713,9 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
 auth.services.adobe.com
 firefly.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3828,9 +3828,9 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-*.x.ai
 *.grok.com
 gnip.com
+*.x.ai
 *.x.com
 x.com
 *.twitter.com
@@ -3850,7 +3850,6 @@ cloudflareworkers.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
 dash.cloudflare.com
-*.cloudflarepartners.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3948,8 +3947,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 slack.com
 api.slack.com
