@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 23:15:53 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 01:00:07 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-walletbot.me
 wallet.tg
 pay.wallet.tg
+walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -23,18 +23,18 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 www.zooplus.co.uk
 zooplus.net
-www.zooplus.de
 www.zooplus.com
+www.zooplus.de
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 mark8.syfe.com
-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
-api-uat-bugbounty.nonprod.syfe.com
-www.syfe.com
 alfred.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
+uat-bugbounty.nonprod.syfe.com
+www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 api.prod.whoop.com
-app.whoop.com
 shop.whoop.com
+app.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -128,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-dashboard.privy.io
 auth.privy.io
+dashboard.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -343,7 +343,6 @@ console.circle.com
 *.varonis.io
 *.varonis.net
 nmtracking.netflix.com
-ichnaea.netflix.com
 *.nflxso.net
 customerevents.netflix.com
 presentationtracking.netflix.com
@@ -358,6 +357,7 @@ help.netflix.com
 *.nflximg.net
 meechum.netflix.com
 www.netflix.com
+ichnaea.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -436,11 +436,11 @@ ir.remitly.com
 app.rewire.to
 rewire.com
 access.remitly.com
-site.rewire.com
-remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
+site.rewire.com
+remitly.com
 news.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
@@ -570,9 +570,9 @@ auth.23andme.com
 pd-api.polkadoc.com
 api.23andme.com
 research.23andme.com
-blog.23andme.com
-you.23andme.com
 clinic.lemonaidhealth.com
+you.23andme.com
+blog.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1003,8 +1003,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1067,9 +1067,9 @@ relay.firefox.com
 monitor.mozilla.org
 addons.allizom.org
 profiler.firefox.com
-accounts.firefox.com
 bugzilla.mozilla.org
 www.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1203,8 +1203,8 @@ cloud.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
+*.cloud.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1635,8 +1635,8 @@ api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -2136,14 +2136,14 @@ www.pangleglobal.com
 shop-id.tokopedia.com
 business.tiktok.com
 shop.tiktok.com
-seller-id.tokopedia.com
 live-backstage.tiktok.com
-*.tiktok.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
-tiktok.com
 ads.tiktok.com
 *.tiktokv.com
+seller-id.tokopedia.com
+*.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2361,8 +2361,8 @@ my.account.sony.com
 ca.account.sony.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
-store.playstation.com
 *.playstation.net
+store.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2551,8 +2551,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 blox.link
-*.guilded.gg
 *.rbx.com
+*.guilded.gg
 *.roblox.com
 *.roblox.com
 *.rbx.com
@@ -2589,15 +2589,15 @@ docs.datastax.com
 astra.datastax.com
 langflow.org
 langflow.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
 *.line.biz
-*.line.me
 *.line-apps.com
 *.linecorp.com
+*.line.me
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2632,8 +2632,8 @@ sketch.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
 comic.pixiv.net
-www.pixiv.net
 dic.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2978,9 +2978,9 @@ loanbuilder.com
 *.venmo.com
 *.braintree-api.com
 *.braintreegateway.com
-*.hyperwallet.com
-*.xoom.com
 *.paylution.com
+*.xoom.com
+*.hyperwallet.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3133,8 +3133,8 @@ nadex.com
 *.mona.co
 merchant.crypto.com
 web.crypto.com
-developer.crypto.com
 *.crypto.com
+developer.crypto.com
 developer-api.crypto.com
 *.crypto.com
 *.mona.co
@@ -3222,8 +3222,8 @@ kartaview.org
 *.grabpay.com
 *.myteksi.net
 *.myteksi.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3480,9 +3480,9 @@ npmjs.org
 education.github.com
 gist.github.com
 *.githubapp.com
-github.com
 *.githubusercontent.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3559,8 +3559,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3594,8 +3594,8 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 shopifyinbox.com
-*.shopifycloud.com
 *.shopify.com
+*.shopifycloud.com
 partners.shopify.com
 *.shopify.io
 accounts.shopify.com
@@ -3645,10 +3645,10 @@ snappublisher.snapchat.com
 business.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
-playcanvas.com
 ads.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3753,8 +3753,8 @@ www.hoteltonight.com
 *.muscache.com
 *.hoteltonight.com
 api.airbnb.com
-*.withairbnb.com
 next.airbnb.com
+*.withairbnb.com
 *.airbnb.com
 www.airbnb.com
 *.hoteltonight.com
@@ -3827,9 +3827,9 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-*.x.ai
 *.grok.com
 gnip.com
+*.x.ai
 *.x.com
 x.com
 *.twitter.com
@@ -3947,9 +3947,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-app.slack.com
-api.slack.com
 slack.com
+api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 slackb.com
