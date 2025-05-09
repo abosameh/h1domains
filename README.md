@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 16:18:09 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 17:14:42 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -11,8 +11,8 @@ wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -435,17 +435,17 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-*.int.remitly.com
 api.remitly.io
 app3.rewire.to
 site.rewire.com
-access.remitly.com
-careers.remitly.com
-auth.remitly.com
+*.int.remitly.com
 ablink.info.remitly.com
+careers.remitly.com
 news.remitly.com
-remitly.com
 blog.remitly.com
+auth.remitly.com
+access.remitly.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,9 +478,9 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
@@ -565,14 +565,14 @@ healthaid.lemonaidhealth.com
 medical.23andme.com
 therapeutics.23andme.com
 store.23andme.com
-pd-api.polkadoc.com
 research.23andme.com
-clinic.lemonaidhealth.com
 blog.23andme.com
 lemonaidhealth.com
 api.23andme.com
 you.23andme.com
 auth.23andme.com
+pd-api.polkadoc.com
+clinic.lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1922,9 +1922,9 @@ cloud.elastic.co
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-*.lemonsqueezy.com
 *.stripe.com
 api.stripe.com
+*.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -1959,10 +1959,10 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
-*.reddit.com
+m.reddit.com
 *.memorable.io
+*.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2142,8 +2142,8 @@ live-backstage.tiktok.com
 *.tiktok.com
 ads.tiktok.com
 developers.tiktok.com
-business.tiktok.com
 tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2182,8 +2182,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2631,8 +2631,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-dic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -3397,8 +3397,8 @@ store.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
-*.rockstargames.com
 www.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3482,8 +3482,8 @@ education.github.com
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3597,12 +3597,12 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 partners.shopify.com
 *.shopify.io
-shop.app
 *.shopify.com
-admin.shopify.com
-your-store.myshopify.com
-accounts.shopify.com
 shopifyinbox.com
+your-store.myshopify.com
+admin.shopify.com
+accounts.shopify.com
+shop.app
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3756,8 +3756,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 *.airbnb.com
-*.withairbnb.com
 www.airbnb.com
+*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3833,8 +3833,8 @@ www.greenhouse.io
 gnip.com
 *.twitter.com
 grok.com
-*.x.com
 x.com
+*.x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3875,8 +3875,8 @@ akismet.com
 my.pressable.com
 gravatar.com
 secure.tumblr.com
-wordpress.com
 www.tumblr.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3981,10 +3981,10 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
-api.hackerone.com
-www.hackerone.com
 hackerone.live
+www.hackerone.com
 hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
