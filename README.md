@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 01:00:07 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 02:32:56 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -21,19 +21,19 @@ https://www.myntra.com
 https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
-www.zooplus.co.uk
 zooplus.net
-www.zooplus.com
 www.zooplus.de
+www.zooplus.com
+www.zooplus.co.uk
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 mark8.syfe.com
 api.syfe.com
+uat-bugbounty.nonprod.syfe.com
 alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
@@ -356,8 +356,8 @@ help.netflix.com
 *.prod.ftl.netflix.com
 *.nflximg.net
 meechum.netflix.com
-www.netflix.com
 ichnaea.netflix.com
+www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -440,12 +440,12 @@ blog.remitly.com
 api.remitly.io
 app3.rewire.to
 site.rewire.com
-remitly.com
 news.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,11 +478,11 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.dev
-*.consumer.worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
 developer.worldcoin.org
+*.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -548,8 +548,8 @@ app.dynamic.xyz
 demo.dynamic.xyz
 builder.hostinger.com
 horizons.hostinger.com
-hpanel.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
 cpanel.hostinger.com
 payments.hostinger.com
 www.hostinger.com
@@ -571,8 +571,8 @@ pd-api.polkadoc.com
 api.23andme.com
 research.23andme.com
 clinic.lemonaidhealth.com
-you.23andme.com
 blog.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -771,8 +771,8 @@ app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 kronor.io
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 kronor.io
@@ -1003,8 +1003,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1068,8 +1068,8 @@ monitor.mozilla.org
 addons.allizom.org
 profiler.firefox.com
 bugzilla.mozilla.org
-www.mozilla.org
 accounts.firefox.com
+www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1593,8 +1593,8 @@ bullsheet.me
 api.etoro.com
 etoropartners.com
 billing-pci.etoro.com
-www.etoro.com
 helpers.bullsheet.me
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1959,8 +1959,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 m.reddit.com
+*.redditinc.com
 *.reddit.com
 *.memorable.io
 *.snooguts.net
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.a.exodus.io
 *.exodus.com
+*.a.exodus.io
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2140,10 +2140,10 @@ live-backstage.tiktok.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
-*.tiktokv.com
 seller-id.tokopedia.com
 *.tiktok.com
 tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2182,8 +2182,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2361,8 +2361,8 @@ my.account.sony.com
 ca.account.sony.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
-*.playstation.net
 store.playstation.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2551,8 +2551,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 blox.link
-*.rbx.com
 *.guilded.gg
+*.rbx.com
 *.roblox.com
 *.roblox.com
 *.rbx.com
@@ -2596,8 +2596,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line-apps.com
-*.linecorp.com
 *.line.me
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2632,8 +2632,8 @@ sketch.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
 comic.pixiv.net
-dic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2978,9 +2978,9 @@ loanbuilder.com
 *.venmo.com
 *.braintree-api.com
 *.braintreegateway.com
-*.paylution.com
-*.xoom.com
 *.hyperwallet.com
+*.xoom.com
+*.paylution.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3133,9 +3133,9 @@ nadex.com
 *.mona.co
 merchant.crypto.com
 web.crypto.com
-*.crypto.com
 developer.crypto.com
 developer-api.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3478,8 +3478,8 @@ classroom.github.com
 npmjs.com
 npmjs.org
 education.github.com
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
 api.github.com
 github.com
@@ -3493,8 +3493,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 www.mapbox.com
@@ -3594,14 +3594,14 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 shopifyinbox.com
-*.shopify.com
-*.shopifycloud.com
 partners.shopify.com
 *.shopify.io
 accounts.shopify.com
 admin.shopify.com
 your-store.myshopify.com
 shop.app
+*.shopifycloud.com
+*.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3715,6 +3715,8 @@ marketplace.magento.com
 fonts.adobe.com
 stock.adobe.com
 account.adobe.com
+auth.services.adobe.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,8 +3757,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 *.withairbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3827,9 +3829,9 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
+*.x.ai
 *.grok.com
 gnip.com
-*.x.ai
 *.x.com
 x.com
 *.twitter.com
@@ -3948,8 +3950,8 @@ slackb.com
 slack-status.com
 slackatwork.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
