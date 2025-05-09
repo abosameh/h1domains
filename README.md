@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 22:15:02 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 23:14:44 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-wallet.tg
 walletbot.me
+wallet.tg
 pay.wallet.tg
 walletbot.me
 pay.wallet.tg
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 app.whoop.com
-shop.whoop.com
 api.prod.whoop.com
+shop.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -128,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-dashboard.privy.io
 auth.privy.io
+dashboard.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -197,8 +197,8 @@ middle-force.khealth.io
 api.khealth.com
 *.capitalonegslbex.com
 *.capitalone.ca
-*.capitaloneshopping.com
 *.capitalone.com
+*.capitaloneshopping.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -435,16 +435,16 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
+site.rewire.com
 api.remitly.io
 app3.rewire.to
-site.rewire.com
 blog.remitly.com
-access.remitly.com
-news.remitly.com
-*.int.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
+*.int.remitly.com
+access.remitly.com
+news.remitly.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -478,9 +478,9 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
@@ -561,7 +561,6 @@ horizons.hostinger.com
 education.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 mediacenter.23andme.com
-healthaid.lemonaidhealth.com
 medical.23andme.com
 therapeutics.23andme.com
 store.23andme.com
@@ -573,6 +572,7 @@ auth.23andme.com
 pd-api.polkadoc.com
 clinic.lemonaidhealth.com
 lemonaidhealth.com
+healthaid.lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -789,8 +789,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1125,8 +1125,8 @@ hilton.com
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.oklink.com
 *.okx.com
+*.oklink.com
 *.okx.com
 *.oklink.com
 bridekidnapping.alternativa.film
@@ -1204,9 +1204,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
+*.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
-*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1429,8 +1429,8 @@ zerobounce.net
 zerobounce.net
 pb.deribit.com
 *.deribit.com
-test.deribit.com
 insights.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1962,8 +1962,8 @@ matrix.redditspace.com
 m.reddit.com
 *.redditinc.com
 *.memorable.io
-*.reddit.com
 developers.reddit.com
+*.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2141,8 +2141,8 @@ developers.tiktok.com
 business.tiktok.com
 live-backstage.tiktok.com
 ads.tiktok.com
-*.tiktokv.com
 tiktok.com
+*.tiktokv.com
 *.tiktok.com
 careers.tiktok.com
 *.tiktok.com
@@ -2206,9 +2206,9 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
 *.acronis.com
 beta-cloud.acronis.com
@@ -2745,8 +2745,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2978,12 +2978,12 @@ loanbuilder.com
 *.braintreepayments.com
 *.paydiant.com
 *.venmo.com
-*.braintree-api.com
 *.hyperwallet.com
+*.xoom.com
 *.braintreegateway.com
 *.paylution.com
-*.xoom.com
 *.paypal.com
+*.braintree-api.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3109,11 +3109,11 @@ www.dota2.com
 www.valvesoftware.com
 developer.valvesoftware.com
 help.steampowered.com
-steamcommunity.com
-partner.steamgames.com
 api.steampowered.com
 www.counter-strike.net
 store.steampowered.com
+partner.steamgames.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3134,8 +3134,8 @@ nadex.com
 *.mona.co
 web.crypto.com
 developer-api.crypto.com
-developer.crypto.com
 app.mona.co
+developer.crypto.com
 merchant.crypto.com
 *.crypto.com
 *.crypto.com
@@ -3341,9 +3341,9 @@ backstage.io
 logs.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
-www.dashlane.com
 api.dashlane.com
 app.dashlane.com
+www.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
 console.dashlane.com
@@ -3478,13 +3478,13 @@ moneybirdstorage.com
 *.github.net
 npmjs.com
 npmjs.org
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
 api.github.com
 classroom.github.com
-github.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3560,8 +3560,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3595,15 +3595,15 @@ linkpop.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
-*.shopify.io
 *.shopifycloud.com
+*.shopify.io
 shopifyinbox.com
-*.shopify.com
-accounts.shopify.com
+shop.app
 partners.shopify.com
 your-store.myshopify.com
+*.shopify.com
+accounts.shopify.com
 admin.shopify.com
-shop.app
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3649,8 +3649,8 @@ web.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
-business.snapchat.com
 playcanvas.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3756,9 +3756,9 @@ www.hoteltonight.com
 *.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
-www.airbnb.com
 *.airbnb.com
 *.withairbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3983,9 +3983,9 @@ reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 hackerone.live
-www.hackerone.com
 api.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
