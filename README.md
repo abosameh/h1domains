@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 10 04:17:14 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 10 05:14:55 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -11,8 +11,8 @@ pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -23,8 +23,8 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
 www.zooplus.co.uk
-www.zooplus.com
 www.zooplus.de
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -44,9 +44,9 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
+shop.whoop.com
 api.prod.whoop.com
 app.whoop.com
-shop.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -436,13 +436,13 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-api.remitly.io
 site.rewire.com
+api.remitly.io
 blog.remitly.com
+remitly.com
+*.int.remitly.com
 access.remitly.com
 news.remitly.com
-*.int.remitly.com
-remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
@@ -479,10 +479,10 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-toolsforhumanity.com
 *.worldcoin.dev
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
+toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -1127,8 +1127,8 @@ hilton.com
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.oklink.com
 *.okx.com
+*.oklink.com
 *.okx.com
 *.oklink.com
 bridekidnapping.alternativa.film
@@ -1206,9 +1206,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
-my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1366,7 +1366,6 @@ www.bookabach.co.nz
 www.mrjet.se
 www.hotwirepartnercentral.com
 *.travelocity.ca
-www.travelocity.com
 www.travelocity.ca
 www.carrentals.com
 www.flights.com
@@ -1779,8 +1778,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1797,8 +1796,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-tria.ge
 securitytrails.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1961,8 +1960,8 @@ business.reddithelp.com
 ads.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
+m.reddit.com
 *.memorable.io
 *.reddit.com
 developers.reddit.com
@@ -2144,9 +2143,9 @@ live-backstage.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
 *.tiktok.com
-business.tiktok.com
 tiktok.com
 ads.tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2599,8 +2598,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.line-apps.com
 *.linecorp.com
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2981,9 +2980,9 @@ loanbuilder.com
 *.paydiant.com
 *.venmo.com
 *.hyperwallet.com
+*.xoom.com
 *.braintreegateway.com
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
 *.paypal.com
 *.xoom.com
@@ -3136,10 +3135,10 @@ nadex.com
 *.mona.co
 web.crypto.com
 developer-api.crypto.com
-merchant.crypto.com
-*.crypto.com
 app.mona.co
 developer.crypto.com
+merchant.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3180,8 +3179,8 @@ falcon-sandbox.com
 *.bionic.ai
 *.flowsecurity.app
 *.securecircle.com
-*.crowdstrike.com
 www.crowdstrike.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3480,12 +3479,12 @@ moneybirdstorage.com
 *.github.net
 npmjs.com
 npmjs.org
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 *.githubusercontent.com
 api.github.com
-classroom.github.com
 education.github.com
+classroom.github.com
 github.com
 github.com
 api.github.com
@@ -3603,9 +3602,9 @@ partners.shopify.com
 your-store.myshopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 linkpop.com
 shop.app
-accounts.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3649,10 +3648,10 @@ forum.playcanvas.com
 web.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
-playcanvas.com
 business.snapchat.com
-snappublisher.snapchat.com
+playcanvas.com
 app.snapchat.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3757,9 +3756,9 @@ www.hoteltonight.com
 *.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
+*.withairbnb.com
 www.airbnb.com
 *.airbnb.com
-*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3871,13 +3870,13 @@ embed.tumblr.com
 t.umblr.com
 mailpoet.com
 intensedebate.com
-*.tumblr.com
 akismet.com
 my.pressable.com
 gravatar.com
 secure.tumblr.com
 www.tumblr.com
 wordpress.com
+*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
