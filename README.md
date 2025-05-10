@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 10 00:57:42 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 10 02:27:38 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-wallet.tg
 walletbot.me
+wallet.tg
 pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -22,8 +22,8 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
-www.zooplus.de
 www.zooplus.co.uk
+www.zooplus.de
 www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
@@ -44,9 +44,9 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
-app.whoop.com
 api.prod.whoop.com
 shop.whoop.com
+app.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -442,10 +442,10 @@ blog.remitly.com
 access.remitly.com
 news.remitly.com
 *.int.remitly.com
+remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
-remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,10 +478,10 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.dev
-*.consumer.worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -621,6 +621,7 @@ biolibre.mx
 biolivre.com.br
 meliplay.com.ar
 meliplay.com.pe
+meliplay.com.uy
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -789,8 +790,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -897,7 +898,6 @@ www.visa.co.jp
 visa.co.ni
 www.visa.com.vn
 www.practicalmoneyskills.com
-www.visa.com.cn
 cw.visa.com
 www.visa.com.mx
 bq.visa.com
@@ -932,6 +932,7 @@ www.cybersource.com
 developer.authorize.net
 www.visa.com.tr
 sandbox.secure.checkout.visa.com
+www.visa.com.hr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1498,8 +1499,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 business.linkedin.com
-www.linkedin.com
 api.linkedin.com
+www.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1795,8 +1796,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-securitytrails.com
 tria.ge
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1959,8 +1960,8 @@ business.reddithelp.com
 ads.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 m.reddit.com
+*.redditinc.com
 *.memorable.io
 *.reddit.com
 developers.reddit.com
@@ -2138,11 +2139,11 @@ shop.tiktok.com
 creatormarketplace.tiktok.com
 seller-id.tokopedia.com
 developers.tiktok.com
-business.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 careers.tiktok.com
 *.tiktokv.com
+business.tiktok.com
+tiktok.com
 *.tiktok.com
 ads.tiktok.com
 *.tiktok.com
@@ -2183,8 +2184,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2517,8 +2518,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2632,8 +2633,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-dic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -3021,8 +3022,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-*.mmcdn.com
 m.chaturbate.com
+*.mmcdn.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3495,8 +3496,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 www.mapbox.com
@@ -3598,12 +3599,12 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopify.io
 shopifyinbox.com
-admin.shopify.com
-shop.app
+*.shopify.com
 partners.shopify.com
 your-store.myshopify.com
 accounts.shopify.com
-*.shopify.com
+admin.shopify.com
+shop.app
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3643,14 +3644,14 @@ my.snapchat.com
 businesshelp.snapchat.com
 *.sc-core.net
 story.snapchat.com
-snappublisher.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
-business.snapchat.com
 playcanvas.com
+business.snapchat.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3714,8 +3715,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
 firefly.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3833,8 +3834,8 @@ gnip.com
 *.twitter.com
 x.com
 *.x.com
-*.x.ai
 grok.com
+*.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
