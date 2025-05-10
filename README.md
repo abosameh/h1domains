@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 10 05:14:55 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 10 06:18:28 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -11,8 +11,8 @@ pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -355,10 +355,10 @@ secure.netflix.com
 *.prod.cloud.netflix.com
 help.netflix.com
 *.prod.ftl.netflix.com
-*.nflximg.net
 ichnaea.netflix.com
 meechum.netflix.com
 www.netflix.com
+*.nflximg.net
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -436,16 +436,16 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-site.rewire.com
 api.remitly.io
+site.rewire.com
 blog.remitly.com
-remitly.com
-*.int.remitly.com
 access.remitly.com
 news.remitly.com
+*.int.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
+remitly.com
 app3.rewire.to
 *.int.remitly.com
 *.dev.remitly.com
@@ -479,10 +479,10 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.dev
-*.consumer.worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -1533,8 +1533,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1796,8 +1796,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-securitytrails.com
 tria.ge
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1944,7 +1944,6 @@ www.urbanclap.com
 *.redditblog.com
 strapi.reddit.com
 meta-api.reddit.com
-api.reddit.com
 new.reddit.com
 *.spiketrap.io
 mod.reddit.com
@@ -1960,11 +1959,12 @@ business.reddithelp.com
 ads.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 m.reddit.com
+*.redditinc.com
 *.memorable.io
 *.reddit.com
 developers.reddit.com
+api.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2142,9 +2142,9 @@ developers.tiktok.com
 live-backstage.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
-*.tiktok.com
 tiktok.com
 ads.tiktok.com
+*.tiktok.com
 business.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2184,8 +2184,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2206,8 +2206,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2359,12 +2359,12 @@ my.playstation.com
 transact.playstation.com
 wallets.api.playstation.com
 my.account.sony.com
-ca.account.sony.com
 *.api.playstation.com
 store.playstation.com
 social.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
+ca.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -3022,8 +3022,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3133,11 +3133,11 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
-web.crypto.com
 developer-api.crypto.com
+web.crypto.com
 app.mona.co
-developer.crypto.com
 merchant.crypto.com
+developer.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3483,8 +3483,8 @@ gist.github.com
 *.githubapp.com
 *.githubusercontent.com
 api.github.com
-education.github.com
 classroom.github.com
+education.github.com
 github.com
 github.com
 api.github.com
@@ -3561,8 +3561,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3648,10 +3648,10 @@ forum.playcanvas.com
 web.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
-business.snapchat.com
 playcanvas.com
-app.snapchat.com
+business.snapchat.com
 snappublisher.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3715,8 +3715,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3756,9 +3756,9 @@ www.hoteltonight.com
 *.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
+*.airbnb.com
 *.withairbnb.com
 www.airbnb.com
-*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3874,9 +3874,9 @@ akismet.com
 my.pressable.com
 gravatar.com
 secure.tumblr.com
-www.tumblr.com
 wordpress.com
 *.tumblr.com
+www.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3949,8 +3949,8 @@ slackb.com
 slack-status.com
 slackatwork.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 slackb.com
