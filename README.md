@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 10 17:12:53 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 10 18:17:48 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -11,8 +11,8 @@ wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -22,9 +22,9 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
-www.zooplus.co.uk
 www.zooplus.com
 www.zooplus.de
+www.zooplus.co.uk
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -436,8 +436,8 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-api.remitly.io
 site.rewire.com
+api.remitly.io
 blog.remitly.com
 access.remitly.com
 news.remitly.com
@@ -478,10 +478,10 @@ id.worldcoin.org
 world.org
 getworldcoin.com
 bioid-management.app
-*.worldcoin.dev
-*.consumer.worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 developer.worldcoin.org
 *.toolsforhumanity.com
 *.worldcoin.org
@@ -791,8 +791,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1004,10 +1004,10 @@ developer.currencycloud.com
 direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1248,8 +1248,8 @@ auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.skypicker.com
-*.kiwi.com
 www.kiwi.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1795,8 +1795,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-securitytrails.com
 tria.ge
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -2144,8 +2144,8 @@ ads.tiktok.com
 business.tiktok.com
 *.tiktok.com
 *.tiktokv.com
-tiktok.com
 seller-id.tokopedia.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2184,8 +2184,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2206,10 +2206,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 *.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
@@ -2359,12 +2359,12 @@ transact.playstation.com
 wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
-social.playstation.com
 ca.account.sony.com
 my.account.sony.com
+my.playstation.com
+social.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
-my.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2518,8 +2518,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2633,8 +2633,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-www.pixiv.net
 dic.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -2982,9 +2982,9 @@ loanbuilder.com
 *.xoom.com
 *.braintreegateway.com
 *.paylution.com
-*.paypal.com
 *.braintree-api.com
 paypalobjects.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3482,8 +3482,8 @@ npmjs.org
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-classroom.github.com
 education.github.com
+classroom.github.com
 github.com
 api.github.com
 github.com
@@ -3595,8 +3595,8 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
-*.shopifycloud.com
 *.shopify.io
+*.shopifycloud.com
 shopifyinbox.com
 your-store.myshopify.com
 admin.shopify.com
@@ -3715,9 +3715,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
 firefly.adobe.com
-fonts.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3758,8 +3757,8 @@ next.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 *.hoteltonight.com
-*.airbnb.com
 api.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3983,9 +3982,9 @@ app.pullrequest.com
 a5s.hackerone-ext-content.com
 hackerone.live
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.hackerone.com
-hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
