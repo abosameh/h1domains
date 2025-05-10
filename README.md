@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 10 18:17:48 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 10 19:12:38 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -22,9 +22,9 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
-www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -248,7 +248,6 @@ cdn-bal.nba.com
 stats-trafficcop-prod.nba.com
 stats.gleague.nba.com
 elm.nba.com
-gleague.nba.com
 bal.nba.com
 stats.wnba.com
 www-dev.nba.com
@@ -280,6 +279,7 @@ cms.nba.com
 identity.nba.com
 content-api-nextgen-prod.nba.com
 2kleague-dev.nba.com
+corp-dev.nba.com
 www.nba.com
 gleague.nba.com
 2kleague.nba.com
@@ -357,8 +357,8 @@ help.netflix.com
 ichnaea.netflix.com
 meechum.netflix.com
 *.nflximg.net
-*.prod.cloud.netflix.com
 www.netflix.com
+*.prod.cloud.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -436,8 +436,8 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-site.rewire.com
 api.remitly.io
+site.rewire.com
 blog.remitly.com
 access.remitly.com
 news.remitly.com
@@ -607,7 +607,6 @@ www.mercadolibre.com.hn
 www.mercadolibre.com.ec
 *.mercadoshops.com.ar
 *.mercadoshops.com.pe
-api.mercadopago.com
 *.mercadopago.cl
 *.mercadolibre.com.pe
 *.mercadolibre.com.uy
@@ -623,6 +622,7 @@ biolivre.com.br
 meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
+mercadoplay.com.pe
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -1059,7 +1059,6 @@ push.services.mozilla.com
 support.mozilla.org
 vpn.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 aus5.mozilla.org
 lando.services.mozilla.com
 firefox.settings.services.mozilla.com
@@ -1073,6 +1072,7 @@ profiler.firefox.com
 bugzilla.mozilla.org
 www.mozilla.org
 accounts.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1206,9 +1206,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1963,8 +1963,8 @@ matrix.redditspace.com
 *.memorable.io
 *.reddit.com
 developers.reddit.com
-api.reddit.com
 m.reddit.com
+api.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2142,10 +2142,10 @@ live-backstage.tiktok.com
 careers.tiktok.com
 ads.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
 seller-id.tokopedia.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2184,8 +2184,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2206,10 +2206,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 *.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
@@ -2361,9 +2361,9 @@ wallets.api.playstation.com
 store.playstation.com
 ca.account.sony.com
 my.account.sony.com
-my.playstation.com
 social.playstation.com
 *.sonyentertainmentnetwork.com
+my.playstation.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2518,8 +2518,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2598,8 +2598,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.linecorp.com
 *.line-apps.com
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2633,8 +2633,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-dic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -2746,8 +2746,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2983,8 +2983,8 @@ loanbuilder.com
 *.braintreegateway.com
 *.paylution.com
 *.braintree-api.com
-paypalobjects.com
 *.paypal.com
+paypalobjects.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3133,11 +3133,11 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
-developer-api.crypto.com
 web.crypto.com
+developer-api.crypto.com
 app.mona.co
-merchant.crypto.com
 developer.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3324,8 +3324,8 @@ backstage.io
 *.byspotify.com
 assets.spotify.com
 *.withspotify.com
-*.spotify.com
 api.spotify.com
+*.spotify.com
 *.spotify.com
 *.spotify.net
 *.withspotify.com
@@ -3479,11 +3479,11 @@ moneybirdstorage.com
 *.github.net
 npmjs.com
 npmjs.org
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
-education.github.com
 classroom.github.com
+education.github.com
 github.com
 api.github.com
 github.com
@@ -3648,10 +3648,10 @@ forum.playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
 business.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
 app.snapchat.com
 ads.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3715,8 +3715,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3754,10 +3754,10 @@ www.hoteltonight.com
 *.hoteltonight-test.com
 *.muscache.com
 next.airbnb.com
-*.withairbnb.com
 www.airbnb.com
 *.hoteltonight.com
 api.airbnb.com
+*.withairbnb.com
 *.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
@@ -3832,10 +3832,10 @@ www.greenhouse.io
 *.grok.com
 gnip.com
 *.twitter.com
-x.com
 *.x.com
 grok.com
 *.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3982,9 +3982,9 @@ app.pullrequest.com
 a5s.hackerone-ext-content.com
 hackerone.live
 api.hackerone.com
-hackerone.com
 mta-sts.wearehackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
