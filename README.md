@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 23:14:44 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 10 00:57:42 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-walletbot.me
 wallet.tg
-pay.wallet.tg
 walletbot.me
 pay.wallet.tg
+walletbot.me
+pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -33,8 +33,8 @@ mark8.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 www.syfe.com
-uat-bugbounty.nonprod.syfe.com
 alfred.syfe.com
+uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -128,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-auth.privy.io
 dashboard.privy.io
+auth.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -435,16 +435,16 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-site.rewire.com
 api.remitly.io
 app3.rewire.to
+site.rewire.com
 blog.remitly.com
+access.remitly.com
+news.remitly.com
+*.int.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
-*.int.remitly.com
-access.remitly.com
-news.remitly.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -478,9 +478,9 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
+*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
-*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
@@ -528,12 +528,12 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-university-staging.dynatracelabs.com
 account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1204,9 +1204,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-*.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1418,9 +1418,9 @@ www.expediagroup.com
 www.flights.com
 www.expediataap.com
 *.magiceden.workers.dev
-*.magiceden.dev
 magiceden.io
 *.magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1795,8 +1795,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-tria.ge
 securitytrails.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1959,11 +1959,11 @@ business.reddithelp.com
 ads.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
+m.reddit.com
 *.memorable.io
-developers.reddit.com
 *.reddit.com
+developers.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2140,11 +2140,11 @@ seller-id.tokopedia.com
 developers.tiktok.com
 business.tiktok.com
 live-backstage.tiktok.com
-ads.tiktok.com
 tiktok.com
+careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-careers.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2205,8 +2205,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2596,9 +2596,9 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.biz
+*.linecorp.com
 *.line.me
 *.line-apps.com
-*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2632,8 +2632,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-www.pixiv.net
 dic.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -2982,8 +2982,8 @@ loanbuilder.com
 *.xoom.com
 *.braintreegateway.com
 *.paylution.com
-*.paypal.com
 *.braintree-api.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3034,9 +3034,9 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
 www.bitmex.com
-blog.bitmex.com
 testnet.bitmex.com
 *.bitmex.com
+blog.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 www.bitmex.com
@@ -3178,8 +3178,8 @@ falcon-sandbox.com
 *.bionic.ai
 *.flowsecurity.app
 *.securecircle.com
-*.crowdstrike.com
 www.crowdstrike.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3560,8 +3560,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3585,8 +3585,8 @@ http://h1-your-domain.zendesk.com/sell
 http://h1-your-domain.zendesk.com/wfm/
 http://h1-your-domain.zendesk.com/qa/
 developer.zendesk.com
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopify.plus
@@ -3598,12 +3598,12 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopify.io
 shopifyinbox.com
+admin.shopify.com
 shop.app
 partners.shopify.com
 your-store.myshopify.com
-*.shopify.com
 accounts.shopify.com
-admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3649,8 +3649,8 @@ web.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
-playcanvas.com
 business.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3715,7 +3715,6 @@ marketplace.magento.com
 stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
-auth.services.adobe.com
 firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
@@ -3756,9 +3755,9 @@ www.hoteltonight.com
 *.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
-*.airbnb.com
 *.withairbnb.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3832,10 +3831,10 @@ www.greenhouse.io
 *.grok.com
 gnip.com
 *.twitter.com
-grok.com
 x.com
 *.x.com
 *.x.ai
+grok.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3984,8 +3983,8 @@ app.pullrequest.com
 a5s.hackerone-ext-content.com
 hackerone.live
 api.hackerone.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
