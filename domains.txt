@@ -111,8 +111,8 @@ https://app.hex.tech
 https://hex.tech
 login8.fiscloudservices.com
 www.virtualterminal.com
-docs.worldpay.com
 www.accessmyiq.com
+docs.worldpay.com
 www.accessmyiq.com
 www.virtualterminal.com
 login8.fiscloudservices.com
@@ -3252,7 +3252,6 @@ console.circle.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
-nmtracking.netflix.com
 *.nflxso.net
 customerevents.netflix.com
 presentationtracking.netflix.com
@@ -3268,6 +3267,7 @@ meechum.netflix.com
 *.prod.cloud.netflix.com
 *.prod.ftl.netflix.com
 www.netflix.com
+nmtracking.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -7878,8 +7878,8 @@ rpki.apnic.net
 submission.apnic.net
 * IPv4 addresses
 * IPv6 addresses
-*.oklink.com
 *.okx.com
+*.oklink.com
 *.okx.com
 *.oklink.com
 *.lacity.gov
@@ -8387,8 +8387,8 @@ superbet.bet.br
 *.napoleoncasino.be
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.napoleondice.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -9347,8 +9347,8 @@ www.alohi.com
 *.coldwellbanker.com
 *.century21global.com
 *.c21.com
-*.anywhere.re
 *.sothebysrealty.com
+*.anywhere.re
 *.era.com
 *.trgc.com
 *.leadrouter.com
@@ -10058,9 +10058,9 @@ geminiadvisory.io
 app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
-www.recordedfuture.com
 tria.ge
 securitytrails.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -11371,8 +11371,8 @@ matrix.redditspace.com
 *.redditinc.com
 *.memorable.io
 developers.reddit.com
-api.reddit.com
 m.reddit.com
+api.reddit.com
 *.reddit.com
 *.snooguts.net
 *.reddit.com
@@ -12114,12 +12114,12 @@ shop-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-careers.tiktok.com
 live-backstage.tiktok.com
+careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-seller-id.tokopedia.com
 ads.tiktok.com
+seller-id.tokopedia.com
 tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -12445,12 +12445,12 @@ transact.playstation.com
 wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
-my.playstation.com
 social.playstation.com
 ca.account.sony.com
-*.sonyentertainmentnetwork.com
 my.account.sony.com
 *.playstation.net
+*.sonyentertainmentnetwork.com
+my.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -12670,8 +12670,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -13894,8 +13894,8 @@ www.starlingbank.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -14143,8 +14143,8 @@ loanbuilder.com
 *.braintreegateway.com
 *.braintree-api.com
 *.hyperwallet.com
-*.paypal.com
 *.paylution.com
+*.paypal.com
 paypalobjects.com
 *.xoom.com
 *.paypal.com
@@ -14183,8 +14183,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-*.mmcdn.com
 m.chaturbate.com
+*.mmcdn.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -14283,8 +14283,8 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-steamcommunity.com
 partner.steamgames.com
+steamcommunity.com
 store.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -14773,8 +14773,8 @@ moneybird.com
 moneybirdstorage.com
 *.github.net
 npmjs.org
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 *.githubusercontent.com
 classroom.github.com
 education.github.com
@@ -14808,8 +14808,8 @@ design.gitlab.com
 about.gitlab.com
 *.gitlab.net
 customers.gitlab.com
-gitlab.com
 docs.gitlab.com
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -14904,8 +14904,8 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 shopifyinbox.com
 your-store.myshopify.com
-linkpop.com
 accounts.shopify.com
+linkpop.com
 shop.app
 *.shopify.io
 partners.shopify.com
