@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 03:42:26 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 04:18:48 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -11,8 +11,8 @@ wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -31,8 +31,8 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-uat-bugbounty.nonprod.syfe.com
 alfred.syfe.com
+uat-bugbounty.nonprod.syfe.com
 www.syfe.com
 api.syfe.com
 uat-bugbounty.nonprod.syfe.com
@@ -478,9 +478,9 @@ id.worldcoin.org
 world.org
 getworldcoin.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.worldcoin.dev
 toolsforhumanity.com
 *.toolsforhumanity.com
 developer.worldcoin.org
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -2142,8 +2142,8 @@ live-backstage.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-seller-id.tokopedia.com
 *.tiktok.com
+seller-id.tokopedia.com
 ads.tiktok.com
 tiktok.com
 *.tiktok.com
@@ -2359,11 +2359,11 @@ transact.playstation.com
 wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
-ca.account.sony.com
 my.account.sony.com
-social.playstation.com
+ca.account.sony.com
 *.sonyentertainmentnetwork.com
 my.playstation.com
+social.playstation.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2597,8 +2597,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.biz
-*.linecorp.com
 *.line.me
+*.linecorp.com
 *.line-apps.com
 *.line.me
 *.line-apps.com
@@ -2746,8 +2746,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2979,8 +2979,8 @@ loanbuilder.com
 *.paydiant.com
 *.venmo.com
 *.hyperwallet.com
-*.xoom.com
 *.braintreegateway.com
+*.xoom.com
 paypalobjects.com
 *.braintree-api.com
 *.paylution.com
@@ -3112,9 +3112,9 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-store.steampowered.com
-partner.steamgames.com
 steamcommunity.com
+partner.steamgames.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3479,13 +3479,13 @@ moneybirdstorage.com
 *.github.net
 npmjs.com
 npmjs.org
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
-education.github.com
 classroom.github.com
-api.github.com
+education.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3511,8 +3511,8 @@ design.gitlab.com
 *.gitlab.org
 *.gitlap.com
 about.gitlab.com
-*.gitlab.net
 docs.gitlab.com
+*.gitlab.net
 gitlab.com
 customers.gitlab.com
 *.gitlab.net
@@ -3561,8 +3561,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3599,8 +3599,8 @@ arrive-server.shopifycloud.com
 *.shopify.io
 shopifyinbox.com
 your-store.myshopify.com
-linkpop.com
 accounts.shopify.com
+linkpop.com
 partners.shopify.com
 shop.app
 *.shopify.com
@@ -3647,11 +3647,11 @@ story.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
-business.snapchat.com
 snappublisher.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 playcanvas.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3983,8 +3983,8 @@ hackerone.live
 api.hackerone.com
 mta-sts.wearehackerone.com
 www.hackerone.com
-a5s.hackerone-ext-content.com
 hackerone.com
+a5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
