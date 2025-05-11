@@ -15,8 +15,8 @@ recreation.gov
 www.recreation.gov
 cdn.recreation.gov
 manage-cdn.recreation.gov
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 cpms.silabs.com
@@ -223,10 +223,10 @@ www.zooplus.com
 zooplus.net
 api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
-mark8.syfe.com
 www.syfe.com
-alfred.syfe.com
+mark8.syfe.com
 uat-bugbounty.nonprod.syfe.com
+alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -236,8 +236,8 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
-shop.whoop.com
 app.whoop.com
+shop.whoop.com
 api.prod.whoop.com
 api.prod.whoop.com
 app.whoop.com
@@ -2703,8 +2703,8 @@ events.pagerduty.com
 api.pagerduty.com
 hackerone.stg.runbook.pagerduty.cloud
 pentest-uat.pushbot.com
-*.pagerduty.com
 www.pagerduty.com
+*.pagerduty.com
 *.pagerduty.com
 events.pagerduty.com
 api.pagerduty.com
@@ -3241,8 +3241,8 @@ tqichesapeake.com
 tqiinc.com
 tqinrfkdtc01.tqiinc.com
 api.circle.com
-app.circle.com
 console.circle.com
+app.circle.com
 api.circle.com
 app.circle.com
 console.circle.com
@@ -4712,9 +4712,9 @@ worldcoin.org
 id.worldcoin.org
 getworldcoin.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.worldcoin.dev
 toolsforhumanity.com
 *.toolsforhumanity.com
 developer.worldcoin.org
@@ -5130,8 +5130,8 @@ payments.msbpay.navient.com
 www.navirefi.com
 apply2.navirefi.com
 wsmb2bresv.navient.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 autodiscover.candourgroup.co
@@ -7878,8 +7878,8 @@ rpki.apnic.net
 submission.apnic.net
 * IPv4 addresses
 * IPv6 addresses
-*.okx.com
 *.oklink.com
+*.okx.com
 *.okx.com
 *.oklink.com
 *.lacity.gov
@@ -8212,9 +8212,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
-my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -8514,10 +8514,10 @@ www.hotwire.com
 www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
+www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
 www.ebookers.fi
-www.lastminute.co.nz
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -11370,8 +11370,8 @@ matrix.redditspace.com
 *.redditinc.com
 *.memorable.io
 developers.reddit.com
-m.reddit.com
 api.reddit.com
+m.reddit.com
 *.reddit.com
 accounts.reddit.com
 *.snooguts.net
@@ -11959,8 +11959,8 @@ file.larksuite.com
 app.larksuite.com
 status.larksuite.com
 api.larksuite.com
-hackers_chosendomain.larksuite.com
 larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -12118,8 +12118,8 @@ live-backstage.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-seller-id.tokopedia.com
 ads.tiktok.com
+seller-id.tokopedia.com
 tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -12230,8 +12230,8 @@ select.logitech.com
 https://www.logitech.com/blog
 alert.logitech.com
 *.enjinusercontent.com
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 *.enjinusercontent.com
@@ -12270,9 +12270,9 @@ www.rebelliondefense.com
 *.mooch.rip
 www.rebelliondefense.com
 *-api-*.acronis.com
-*.acronis.work
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
@@ -12444,8 +12444,8 @@ api.direct.playstation.com
 transact.playstation.com
 wallets.api.playstation.com
 store.playstation.com
-social.playstation.com
 ca.account.sony.com
+social.playstation.com
 my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -13328,8 +13328,8 @@ streaklinks.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.linecorp.com
 *.line-apps.com
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -13894,8 +13894,8 @@ www.starlingbank.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -14179,13 +14179,13 @@ swiftfinancial.com
 swiftcapital.com
 *.mmwebc.dev
 secure.chaturbate.com
-*.highwebmedia.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
 *.mmcdn.com
 m.chaturbate.com
 chaturbate.com
+*.highwebmedia.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -14283,8 +14283,8 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-steamcommunity.com
 partner.steamgames.com
+steamcommunity.com
 store.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -14305,8 +14305,8 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 web.crypto.com
-merchant.crypto.com
 app.mona.co
+merchant.crypto.com
 *.mona.co
 developer.crypto.com
 developer-platform-api.crypto.com
@@ -14791,8 +14791,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*.uberinternal.com
 *ubereats.com
+*.uberinternal.com
 *.uberinternal.com
 *ubereats.com
 www.mapbox.com
@@ -14907,9 +14907,9 @@ your-store.myshopify.com
 linkpop.com
 shop.app
 *.shopify.io
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
-accounts.shopify.com
 partners.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
@@ -14953,8 +14953,8 @@ story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 playcanvas.com
+app.snapchat.com
 business.snapchat.com
 web.snapchat.com
 ads.snapchat.com
@@ -15077,9 +15077,9 @@ next.airbnb.com
 *.hoteltonight.com
 api.airbnb.com
 *.withairbnb.com
-*.airbnb.com
 www.hoteltonight.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -15276,8 +15276,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-slack.com
 app.slack.com
+slack.com
 api.slack.com
 slack.com
 api.slack.com
@@ -15309,10 +15309,10 @@ reviewer.pullrequest.com
 app.pullrequest.com
 hackerone.live
 api.hackerone.com
-mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 www.hackerone.com
 hackerone.com
+mta-sts.wearehackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
