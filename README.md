@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 12 14:18:02 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 12 15:17:54 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -31,9 +31,9 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 uat-bugbounty.nonprod.syfe.com
-alfred.syfe.com
 api.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
+alfred.syfe.com
 www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
@@ -90,10 +90,10 @@ tb.toloka.dev
 workspace.toloka.dev
 workspace.toloka.ai
 sso.auth.toloka.ai
-ladybug.a9s.toloka.ai
 mindrift.toloka.ai
 experts-portal.toloka.ai
 auth.toloka.ai
+ladybug.a9s.toloka.ai
 auth.toloka.ai
 sso.auth.toloka.ai
 ladybug.a9s.toloka.ai
@@ -111,8 +111,8 @@ docuflow.stg.inspectorio.com
 rise.stg.inspectorio.com
 app.stg.inspectorio.com
 api.stg.inspectorio.com
-rise-api.stg.inspectorio.com
 id.stg.inspectorio.com
+rise-api.stg.inspectorio.com
 app.stg.inspectorio.com
 rise.stg.inspectorio.com
 report-html-sight.stg.inspectorio.com
@@ -197,8 +197,8 @@ middle-force.khealth.io
 api.khealth.com
 *.capitalone.ca
 *.capitaloneshopping.com
-*.capitalonegslbex.com
 *.capitalone.com
+*.capitalonegslbex.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -331,8 +331,8 @@ bal-dev.nba.com
 bal-qa.nba.com
 bal-uat.nba.com
 api.circle.com
-console.circle.com
 app.circle.com
+console.circle.com
 api.circle.com
 app.circle.com
 console.circle.com
@@ -436,8 +436,8 @@ ir.remitly.com
 app.rewire.to
 ablink.info.remitly.com
 careers.remitly.com
-app3.rewire.to
 *.int.remitly.com
+app3.rewire.to
 api.remitly.io
 access.remitly.com
 auth.remitly.com
@@ -476,12 +476,12 @@ worldcoin.org
 id.worldcoin.org
 getworldcoin.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
-*.toolsforhumanity.com
+*.worldcoin.dev
 toolsforhumanity.com
 world.org
+*.toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -532,8 +532,8 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
-university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -547,11 +547,11 @@ app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
 payments.hostinger.com
+horizons.hostinger.com
 hpanel.hostinger.com
 builder.hostinger.com
 cpanel.hostinger.com
 www.hostinger.com
-horizons.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -568,11 +568,11 @@ blog.23andme.com
 pd-api.polkadoc.com
 clinic.lemonaidhealth.com
 auth.23andme.com
+store.23andme.com
 api.23andme.com
 lemonaidhealth.com
 healthaid.lemonaidhealth.com
 you.23andme.com
-store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -610,7 +610,6 @@ www.mercadolibre.com.ec
 *.mercadopago.com.pe
 *.mercadopago.com.mx
 *.mercadoshops.com.br
-*.mercadopago.com
 mercadoplay.co
 biolibre.ar
 biolibre.mx
@@ -622,6 +621,7 @@ mercadoplay.com.pe
 portalinmobiliario.cl
 mercadoplay.com.uy
 mercadoplay.pe
+mercadoplay.uy
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -790,8 +790,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1021,11 +1021,11 @@ m.kolesa.kz
 m.avtoelon.uz
 api.krisha.kz
 kolesa.kz
-app.kolesa.kz
-id.kolesa.kz
 api.kolesa.kz
-krisha.kz
+id.kolesa.kz
 avtoelon.uz
+app.kolesa.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1069,9 +1069,9 @@ monitor.mozilla.org
 addons.allizom.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+profiler.firefox.com
 bugzilla.mozilla.org
 accounts.firefox.com
-profiler.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1156,8 +1156,8 @@ ab-platform-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriver.com
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1323,8 +1323,8 @@ sell.moonpay.com
 moonpay.com
 buy.moonpay.com
 *.hypermint.com
-api.moonpay.com
 *.moonpay.com
+api.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1380,11 +1380,9 @@ www.vrbo.com
 www.lastminute.co.nz
 www.expedia.com
 www.fewo-direkt.de
-www.expediagroup.com
 *.wotif.com
 www.travelocity.com
 *.expediapartnercentral.com
-www.hotwire.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1497,9 +1495,9 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-business.linkedin.com
 api.linkedin.com
 www.linkedin.com
+business.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1516,6 +1514,7 @@ www.hotelscombined.com
 www.cheapflights.com
 business.kayak.com
 www.kayak.com
+kayak.ai
 *.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1525,6 +1524,7 @@ www.cheapflights.com
 www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
+kayak.ai
 ws.sorare.com
 api.sorare.com
 sorare.com
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1795,8 +1795,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 tria.ge
-securitytrails.com
 www.recordedfuture.com
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1963,8 +1963,8 @@ m.reddit.com
 *.memorable.io
 *.reddit.com
 *.snooguts.net
-api.reddit.com
 accounts.reddit.com
+api.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2140,12 +2140,12 @@ creatormarketplace.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-ads.tiktok.com
 careers.tiktok.com
-developers.tiktok.com
 *.tiktok.com
+developers.tiktok.com
 tiktok.com
 seller-id.tokopedia.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2206,13 +2206,13 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 beta-cloud.acronis.com
-*.acronis.com
 account.acronis.com
 *.5nine.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2358,11 +2358,11 @@ api.direct.playstation.com
 transact.playstation.com
 wallets.api.playstation.com
 store.playstation.com
-my.playstation.com
-*.playstation.net
 social.playstation.com
 my.account.sony.com
 *.sonyentertainmentnetwork.com
+*.playstation.net
+my.playstation.com
 *.api.playstation.com
 ca.account.sony.com
 *.playstation.net
@@ -2381,9 +2381,9 @@ ps5.np.playstation.net
 faucet.polygon.technology
 ecosystem-api.polygon.technology
 portal.polygon.technology
-ecosystem.polygon.technology
 staking-api.polygon.technology
 staking.polygon.technology
+ecosystem.polygon.technology
 staking-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
@@ -2596,8 +2596,8 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.linecorp.com
 *.line.me
+*.linecorp.com
 *.line-apps.com
 *.line.biz
 *.line.me
@@ -2746,8 +2746,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2979,10 +2979,10 @@ loanbuilder.com
 *.xoom.com
 *.braintreegateway.com
 *.braintree-api.com
-paypalobjects.com
 *.hyperwallet.com
 *.paylution.com
 *.paypal.com
+paypalobjects.com
 paypal.me
 *.xoom.com
 *.paypal.com
@@ -3111,8 +3111,8 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-steamcommunity.com
 partner.steamgames.com
+steamcommunity.com
 store.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3177,9 +3177,9 @@ falcon-sandbox.com
 *.bionic.ai
 *.flowsecurity.app
 *.securecircle.com
-*.crowdstrike.com
 *.humio.com
 www.crowdstrike.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3198,8 +3198,8 @@ www.crowdstrike.com
 *.sellzone.com
 *.seoquake.com
 *.myinsights.io
-*.semrush.net
 *.semrush.com
+*.semrush.net
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3224,8 +3224,8 @@ kartaview.org
 *.grabpay.com
 *.myteksi.com
 *.ovo.id
-*.grab.com
 hungrygowhere.com
+*.grab.com
 *.myteksi.net
 *.myteksi.com
 *.myteksi.net
@@ -3481,8 +3481,8 @@ npmjs.org
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-classroom.github.com
 education.github.com
+classroom.github.com
 api.github.com
 npmjs.com
 github.com
@@ -3511,8 +3511,8 @@ design.gitlab.com
 *.gitlab.org
 *.gitlap.com
 about.gitlab.com
-docs.gitlab.com
 customers.gitlab.com
+docs.gitlab.com
 *.gitlab.net
 gitlab.com
 *.gitlab.net
@@ -3561,8 +3561,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3598,13 +3598,13 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 shopifyinbox.com
 linkpop.com
-*.shopify.io
-partners.shopify.com
 your-store.myshopify.com
-*.shopify.com
-admin.shopify.com
 accounts.shopify.com
 shop.app
+*.shopify.io
+partners.shopify.com
+*.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3645,12 +3645,12 @@ businesshelp.snapchat.com
 story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
+snappublisher.snapchat.com
 app.snapchat.com
 playcanvas.com
-ads.snapchat.com
 business.snapchat.com
 *.sc-core.net
-snappublisher.snapchat.com
+ads.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3718,7 +3718,6 @@ stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
-fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3759,8 +3758,8 @@ next.airbnb.com
 www.hoteltonight.com
 api.airbnb.com
 *.airbnb.com
-*.withairbnb.com
 www.airbnb.com
+*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
