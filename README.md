@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 12 02:47:39 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 12 03:43:05 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -23,18 +23,18 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
 www.zooplus.co.uk
-www.zooplus.com
 www.zooplus.de
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 api-uat-bugbounty.nonprod.syfe.com
 mark8.syfe.com
-alfred.syfe.com
-uat-bugbounty.nonprod.syfe.com
-api.syfe.com
 www.syfe.com
+api.syfe.com
+uat-bugbounty.nonprod.syfe.com
+alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -438,8 +438,8 @@ site.rewire.com
 blog.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
-*.int.remitly.com
 app3.rewire.to
+*.int.remitly.com
 news.remitly.com
 api.remitly.io
 access.remitly.com
@@ -476,10 +476,10 @@ worldcoin.org
 id.worldcoin.org
 getworldcoin.com
 bioid-management.app
-*.consumer.worldcoin.org
-*.worldcoin.org
-*.worldcoin.dev
 toolsforhumanity.com
+*.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 *.toolsforhumanity.com
 world.org
 developer.worldcoin.org
@@ -1154,11 +1154,11 @@ auroratechaward.com
 alternativa.film
 new-order.eu-east-1.indriverapp.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1794,8 +1794,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 tria.ge
-www.recordedfuture.com
 securitytrails.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -2141,8 +2141,8 @@ live-backstage.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-ads.tiktok.com
 seller-id.tokopedia.com
+ads.tiktok.com
 tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -2205,10 +2205,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
@@ -2359,11 +2359,11 @@ wallets.api.playstation.com
 store.playstation.com
 social.playstation.com
 my.account.sony.com
-my.playstation.com
 *.playstation.net
+my.playstation.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 ca.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2745,8 +2745,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2981,8 +2981,8 @@ loanbuilder.com
 *.paylution.com
 paypalobjects.com
 *.hyperwallet.com
-*.paypal.com
 paypal.me
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3135,8 +3135,8 @@ merchant.crypto.com
 *.mona.co
 developer.crypto.com
 developer-platform-api.crypto.com
-*.crypto.com
 developer-api.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3157,8 +3157,8 @@ secure.plaid.com
 plaid.com
 demo.plaid.com
 my.plaid.com
-cdn.plaid.com
 dashboard.plaid.com
+cdn.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3476,11 +3476,11 @@ moneybird.com
 moneybirdstorage.com
 *.github.net
 npmjs.org
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
-education.github.com
 classroom.github.com
+education.github.com
 api.github.com
 npmjs.com
 github.com
@@ -3716,6 +3716,7 @@ stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
+fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,9 +3756,9 @@ next.airbnb.com
 *.hoteltonight.com
 api.airbnb.com
 *.withairbnb.com
-www.hoteltonight.com
 *.airbnb.com
 www.airbnb.com
+www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
