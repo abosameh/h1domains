@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 12 05:17:01 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 12 06:22:01 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -29,12 +29,12 @@ www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
-api-uat-bugbounty.nonprod.syfe.com
+alfred.syfe.com
 mark8.syfe.com
 uat-bugbounty.nonprod.syfe.com
-alfred.syfe.com
-www.syfe.com
 api.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
+www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -355,9 +355,9 @@ meechum.netflix.com
 *.prod.ftl.netflix.com
 nmtracking.netflix.com
 *.nflxso.net
-*.nflxext.com
 www.netflix.com
 *.prod.cloud.netflix.com
+*.nflxext.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -434,18 +434,18 @@ partner-webhook.remitly.io
 metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
-site.rewire.com
 blog.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
-app3.rewire.to
 *.int.remitly.com
+app3.rewire.to
 news.remitly.com
 api.remitly.io
 access.remitly.com
 auth.remitly.com
 rewire.com
 remitly.com
+site.rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -479,10 +479,10 @@ bioid-management.app
 *.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
-toolsforhumanity.com
 *.toolsforhumanity.com
 world.org
 developer.worldcoin.org
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -511,8 +511,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -548,9 +548,9 @@ app.dynamic.xyz
 demo.dynamic.xyz
 payments.hostinger.com
 horizons.hostinger.com
-builder.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
+builder.hostinger.com
 hpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -570,9 +570,9 @@ pd-api.polkadoc.com
 clinic.lemonaidhealth.com
 lemonaidhealth.com
 healthaid.lemonaidhealth.com
-auth.23andme.com
 you.23andme.com
 store.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -790,8 +790,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -930,9 +930,9 @@ direct-demo.currencycloud.com
 www.cybersource.com
 developer.authorize.net
 www.visa.com.tr
-sandbox.secure.checkout.visa.com
 www.visa.com.hr
 console.tink.com
+www.visainfinite.ca
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1005,8 +1005,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1152,12 +1152,12 @@ debug.clairvoyance.indrive.tech
 profile-api.eu-east-1.indriverapp.com
 auroratechaward.com
 alternativa.film
-new-order.eu-east-1.indriverapp.com
 ab-platform-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
-*.indriver.com
 *.indriverapp.com
+new-order.eu-east-1.indriverapp.com
+*.indriver.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1654,10 +1654,10 @@ docs.databricks.com
 academy.databricks.com
 advocates.databricks.com
 community.databricks.com
-databricks.com
 partners.databricks.com
 help.databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1795,8 +1795,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 tria.ge
-www.recordedfuture.com
 securitytrails.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -2139,13 +2139,13 @@ shop.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
 live-backstage.tiktok.com
-careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-ads.tiktok.com
 seller-id.tokopedia.com
-*.tiktok.com
+ads.tiktok.com
 tiktok.com
+careers.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2184,8 +2184,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2363,8 +2363,8 @@ my.account.sony.com
 *.playstation.net
 my.playstation.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 ca.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2632,8 +2632,8 @@ novel.pixiv.net
 hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
-dic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 comic.pixiv.net
 *.fanbox.cc
@@ -2976,11 +2976,11 @@ loanbuilder.com
 *.braintreepayments.com
 *.paydiant.com
 *.venmo.com
-*.xoom.com
 *.braintreegateway.com
+*.xoom.com
 *.braintree-api.com
-*.paylution.com
 paypalobjects.com
+*.paylution.com
 *.hyperwallet.com
 *.paypal.com
 paypal.me
@@ -3136,8 +3136,8 @@ merchant.crypto.com
 *.mona.co
 developer.crypto.com
 developer-platform-api.crypto.com
-*.crypto.com
 developer-api.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3511,9 +3511,9 @@ design.gitlab.com
 *.gitlap.com
 about.gitlab.com
 customers.gitlab.com
-docs.gitlab.com
 *.gitlab.net
 gitlab.com
+docs.gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3649,8 +3649,8 @@ playcanvas.com
 business.snapchat.com
 web.snapchat.com
 ads.snapchat.com
-snappublisher.snapchat.com
 app.snapchat.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3717,6 +3717,7 @@ stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
+fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3947,8 +3948,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-slack.com
 app.slack.com
+slack.com
 api.slack.com
 slack.com
 api.slack.com
