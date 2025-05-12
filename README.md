@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 12 11:14:38 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 12 12:26:33 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-wallet.tg
 pay.wallet.tg
 walletbot.me
+wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -22,16 +22,16 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
-www.zooplus.com
 www.zooplus.co.uk
 www.zooplus.de
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 mark8.syfe.com
-alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
+alfred.syfe.com
 www.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
@@ -436,8 +436,8 @@ ir.remitly.com
 app.rewire.to
 ablink.info.remitly.com
 careers.remitly.com
-*.int.remitly.com
 app3.rewire.to
+*.int.remitly.com
 api.remitly.io
 access.remitly.com
 auth.remitly.com
@@ -477,12 +477,12 @@ id.worldcoin.org
 getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
-*.consumer.worldcoin.org
 *.worldcoin.org
-*.toolsforhumanity.com
+*.consumer.worldcoin.org
 toolsforhumanity.com
 developer.worldcoin.org
 world.org
+*.toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -511,8 +511,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -532,8 +532,8 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 university-staging.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -547,11 +547,11 @@ app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
 payments.hostinger.com
-hpanel.hostinger.com
 builder.hostinger.com
-horizons.hostinger.com
-cpanel.hostinger.com
+hpanel.hostinger.com
 www.hostinger.com
+cpanel.hostinger.com
+horizons.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -571,8 +571,8 @@ auth.23andme.com
 api.23andme.com
 lemonaidhealth.com
 healthaid.lemonaidhealth.com
-store.23andme.com
 you.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -790,14 +790,14 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.gethypr.com
 *.hypr.com
+*.gethypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -833,8 +833,8 @@ payer-details-sandbox.gocardless.com
 www.gocardless.com
 ob.gocardless.com
 auth0.gocardless.com
-login.rei.com
 rei.com
+login.rei.com
 rei.com
 login.rei.com
 http://www.rei.com/learn/expert-advice
@@ -1003,10 +1003,10 @@ developer.currencycloud.com
 direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.freshchat.com
+yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1023,9 +1023,9 @@ m.avtoelon.uz
 api.krisha.kz
 kolesa.kz
 krisha.kz
-id.kolesa.kz
 app.kolesa.kz
 api.kolesa.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1069,9 +1069,9 @@ monitor.mozilla.org
 addons.allizom.org
 www.mozilla.org
 profiler.firefox.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 bugzilla.mozilla.org
 accounts.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1156,8 +1156,8 @@ ab-platform-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriver.com
-*.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+*.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1298,8 +1298,8 @@ superbet.bet.br
 *.napoleoncasino.be
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.napoleondice.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1323,8 +1323,8 @@ sell.moonpay.com
 moonpay.com
 buy.moonpay.com
 *.hypermint.com
-*.moonpay.com
 api.moonpay.com
+*.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1594,8 +1594,8 @@ bullsheet.me
 api.etoro.com
 etoropartners.com
 billing-pci.etoro.com
-www.etoro.com
 helpers.bullsheet.me
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1795,8 +1795,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 tria.ge
-www.recordedfuture.com
 securitytrails.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1959,12 +1959,12 @@ ads.reddit.com
 matrix.redditspace.com
 *.redditinc.com
 developers.reddit.com
-*.snooguts.net
-api.reddit.com
 m.reddit.com
 *.memorable.io
 *.reddit.com
 accounts.reddit.com
+*.snooguts.net
+api.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2138,7 +2138,6 @@ shop-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 business.tiktok.com
 *.tiktokv.com
 ads.tiktok.com
@@ -2146,6 +2145,7 @@ careers.tiktok.com
 seller-id.tokopedia.com
 *.tiktok.com
 developers.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2358,13 +2358,13 @@ api.direct.playstation.com
 transact.playstation.com
 wallets.api.playstation.com
 store.playstation.com
+my.playstation.com
+*.playstation.net
 social.playstation.com
 my.account.sony.com
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
-my.playstation.com
+*.api.playstation.com
 ca.account.sony.com
-*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2517,8 +2517,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2596,10 +2596,10 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.linecorp.com
 *.line.me
-*.line-apps.com
+*.linecorp.com
 *.line.biz
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2632,8 +2632,8 @@ novel.pixiv.net
 hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
-www.pixiv.net
 dic.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 comic.pixiv.net
 *.fanbox.cc
@@ -2746,8 +2746,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -3224,8 +3224,8 @@ kartaview.org
 *.grabpay.com
 *.myteksi.com
 *.ovo.id
-hungrygowhere.com
 *.grab.com
+hungrygowhere.com
 *.myteksi.net
 *.myteksi.com
 *.myteksi.net
@@ -3273,7 +3273,6 @@ us1.badoo.com
 sockets.geneva-staging.chat
 sockets.geneva-staging.com
 gateway.geneva-staging.chat
-www.geneva-staging.com
 api.geneva-staging.com
 deeplinks.geneva-staging.chat
 www.bumble.com
@@ -3512,9 +3511,9 @@ design.gitlab.com
 *.gitlab.org
 *.gitlap.com
 about.gitlab.com
+docs.gitlab.com
 customers.gitlab.com
 *.gitlab.net
-docs.gitlab.com
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3578,8 +3577,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3647,12 +3646,12 @@ story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
 *.sc-core.net
+snappublisher.snapchat.com
 web.snapchat.com
-business.snapchat.com
 app.snapchat.com
 playcanvas.com
-snappublisher.snapchat.com
 ads.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3836,8 +3835,8 @@ gnip.com
 *.twitter.com
 grok.com
 *.x.ai
-x.com
 *.x.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3922,9 +3921,9 @@ international.coinbase.com
 api.coinbase.com
 *.base.org
 commerce.coinbase.com
+*.coinbase.com
 coinbase.com
 *.cbhq.net
-*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3950,8 +3949,8 @@ slackb.com
 slack-status.com
 slackatwork.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 slackb.com
