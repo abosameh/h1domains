@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 12 01:02:34 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 12 02:47:39 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -23,18 +23,18 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
 www.zooplus.co.uk
-www.zooplus.de
 www.zooplus.com
+www.zooplus.de
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 api-uat-bugbounty.nonprod.syfe.com
 mark8.syfe.com
-www.syfe.com
 alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api.syfe.com
+www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -346,7 +346,6 @@ customerevents.netflix.com
 presentationtracking.netflix.com
 *.nflxvideo.net
 beacon.netflix.com
-*.nflxext.com
 *.prod.dradis.netflix.com
 secure.netflix.com
 help.netflix.com
@@ -358,6 +357,7 @@ meechum.netflix.com
 nmtracking.netflix.com
 *.nflxso.net
 www.netflix.com
+*.nflxext.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -438,8 +438,8 @@ site.rewire.com
 blog.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
-app3.rewire.to
 *.int.remitly.com
+app3.rewire.to
 news.remitly.com
 api.remitly.io
 access.remitly.com
@@ -476,9 +476,9 @@ worldcoin.org
 id.worldcoin.org
 getworldcoin.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.worldcoin.dev
 toolsforhumanity.com
 *.toolsforhumanity.com
 world.org
@@ -790,8 +790,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1794,8 +1794,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 tria.ge
-securitytrails.com
 www.recordedfuture.com
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1921,11 +1921,11 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-app.taxjar.com
 js.stripe.com
 *.stripe.com
 api.stripe.com
 *.lemonsqueezy.com
+app.taxjar.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -2046,8 +2046,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.a.exodus.io
 *.exodus.com
+*.a.exodus.io
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2137,12 +2137,12 @@ shop-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-careers.tiktok.com
 live-backstage.tiktok.com
+careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-seller-id.tokopedia.com
 ads.tiktok.com
+seller-id.tokopedia.com
 tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -2183,8 +2183,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2205,10 +2205,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
@@ -2359,8 +2359,8 @@ wallets.api.playstation.com
 store.playstation.com
 social.playstation.com
 my.account.sony.com
-*.playstation.net
 my.playstation.com
+*.playstation.net
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
 ca.account.sony.com
@@ -2516,8 +2516,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2596,8 +2596,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.biz
-*.linecorp.com
 *.line.me
+*.linecorp.com
 *.line-apps.com
 *.line.me
 *.line-apps.com
@@ -2631,8 +2631,8 @@ novel.pixiv.net
 hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
-dic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 comic.pixiv.net
 *.fanbox.cc
@@ -2745,8 +2745,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2964,7 +2964,6 @@ swiftfinancial.com
 my.swiftfinancial.com
 my.loanbuilder.com
 www.loanbuilder.com
-paypal.me
 *.braintree.tools
 api.swiftfinancial.com
 swiftcapital.com
@@ -2983,6 +2982,7 @@ loanbuilder.com
 paypalobjects.com
 *.hyperwallet.com
 *.paypal.com
+paypal.me
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3135,8 +3135,8 @@ merchant.crypto.com
 *.mona.co
 developer.crypto.com
 developer-platform-api.crypto.com
-developer-api.crypto.com
 *.crypto.com
+developer-api.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3172,13 +3172,13 @@ www.crowdstrike.org
 *.adaptive-shield.com
 *.reposify.com
 hybrid-analysis.com
-*.humio.com
 falcon-sandbox.com
 *.bionic.ai
 *.flowsecurity.app
 *.securecircle.com
 *.crowdstrike.com
 www.crowdstrike.com
+*.humio.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3559,8 +3559,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3714,8 +3714,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3946,8 +3946,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-app.slack.com
 slack.com
+app.slack.com
 api.slack.com
 slack.com
 api.slack.com
@@ -3980,9 +3980,9 @@ app.pullrequest.com
 hackerone.live
 api.hackerone.com
 a5s.hackerone-ext-content.com
-hackerone.com
 mta-sts.wearehackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
