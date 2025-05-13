@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 12 23:15:15 UTC 2025)
+## Domains with Bounties (Last Updated Tue May 13 01:00:43 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -22,9 +22,9 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
-www.zooplus.de
 www.zooplus.com
 www.zooplus.co.uk
+www.zooplus.de
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -91,8 +91,8 @@ workspace.toloka.dev
 workspace.toloka.ai
 sso.auth.toloka.ai
 mindrift.toloka.ai
-experts-portal.toloka.ai
 auth.toloka.ai
+experts-portal.toloka.ai
 ladybug.a9s.toloka.ai
 auth.toloka.ai
 sso.auth.toloka.ai
@@ -111,8 +111,8 @@ docuflow.stg.inspectorio.com
 rise.stg.inspectorio.com
 app.stg.inspectorio.com
 api.stg.inspectorio.com
-id.stg.inspectorio.com
 rise-api.stg.inspectorio.com
+id.stg.inspectorio.com
 app.stg.inspectorio.com
 rise.stg.inspectorio.com
 report-html-sight.stg.inspectorio.com
@@ -197,8 +197,8 @@ middle-force.khealth.io
 api.khealth.com
 *.capitalone.ca
 *.capitaloneshopping.com
-*.capitalonegslbex.com
 *.capitalone.com
+*.capitalonegslbex.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -355,9 +355,9 @@ nmtracking.netflix.com
 *.prod.cloud.netflix.com
 *.prod.ftl.netflix.com
 *.nflxso.net
-www.netflix.com
 ichnaea.netflix.com
 *.nflxext.com
+www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -569,10 +569,10 @@ api.23andme.com
 lemonaidhealth.com
 you.23andme.com
 store.23andme.com
-healthaid.lemonaidhealth.com
-auth.23andme.com
 clinic.lemonaidhealth.com
 pd-api.polkadoc.com
+healthaid.lemonaidhealth.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -796,8 +796,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -1020,10 +1020,10 @@ app.krisha.kz
 m.kolesa.kz
 m.avtoelon.uz
 api.krisha.kz
+app.kolesa.kz
 api.kolesa.kz
 id.kolesa.kz
 avtoelon.uz
-app.kolesa.kz
 krisha.kz
 kolesa.kz
 kolesa.kz
@@ -1041,7 +1041,9 @@ api.avtoelon.uz
 app.avtoelon.uz
 id.avtoelon.uz
 prd-ring-web-us.prd.rings.solutions
+publicsafety.ring.com
 prd-ring-web-us.prd.rings.solutions
+publicsafety.ring.com
 api.tideplatform.in
 *.tide.co
 *.tide.co
@@ -1068,9 +1070,9 @@ relay.firefox.com
 monitor.mozilla.org
 addons.allizom.org
 www.mozilla.org
-profiler.firefox.com
 bugzilla.mozilla.org
 accounts.firefox.com
+profiler.firefox.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 addons.allizom.org
 developer.mozilla.org
@@ -1323,8 +1325,8 @@ sell.moonpay.com
 moonpay.com
 buy.moonpay.com
 *.hypermint.com
-*.moonpay.com
 api.moonpay.com
+*.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1375,14 +1377,15 @@ www.hotels.com
 www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
-www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
+www.lastminute.co.nz
 www.expedia.com
 www.fewo-direkt.de
 *.wotif.com
 www.orbitz.com
-www.expediagroup.com
+www.travelocity.com
+www.stayz.com.au
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1541,9 +1544,9 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
+exness.com
 exnessaffiliates.com
 my.exness.com
-exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1795,8 +1798,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 tria.ge
-www.recordedfuture.com
 securitytrails.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -2071,7 +2074,6 @@ netlify-rum.netlify.app
 list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
-*.services-prod.nsvcs.net
 *.onegraph.com
 internal.netlify.com
 netlify-cdp-loader.netlify.app
@@ -2081,6 +2083,7 @@ screenshot-proxy.netlify.app
 *.services.netlify.com
 api.netlify.com
 app.netlify.com
+*.services-prod.nsvcs.net
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2208,8 +2211,8 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.acronis.work
 *.devicelock.com
+*.acronis.work
 *.5nine.com
 account.acronis.com
 beta-cloud.acronis.com
@@ -2601,8 +2604,8 @@ app.nordpass.com
 *.line.naver.jp
 *.linecorp.com
 *.line-apps.com
-*.line.me
 *.line.biz
+*.line.me
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2749,8 +2752,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2979,14 +2982,14 @@ loanbuilder.com
 *.braintreepayments.com
 *.paydiant.com
 *.venmo.com
-*.braintreegateway.com
 *.xoom.com
+*.braintreegateway.com
 *.braintree-api.com
-paypal.me
 *.paypal.com
-paypalobjects.com
+paypal.me
 *.hyperwallet.com
 *.paylution.com
+paypalobjects.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3023,8 +3026,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.highwebmedia.com
@@ -3139,8 +3142,8 @@ merchant.crypto.com
 *.mona.co
 developer-platform-api.crypto.com
 developer.crypto.com
-developer-api.crypto.com
 *.crypto.com
+developer-api.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3580,8 +3583,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3648,13 +3651,13 @@ businesshelp.snapchat.com
 story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
-snappublisher.snapchat.com
 playcanvas.com
 ads.snapchat.com
 web.snapchat.com
 *.sc-core.net
 app.snapchat.com
 business.snapchat.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3721,7 +3724,7 @@ stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
-fonts.adobe.com
+magento.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3839,8 +3842,8 @@ gnip.com
 *.twitter.com
 *.x.com
 x.com
-*.x.ai
 grok.com
+*.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3982,9 +3985,9 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 app.pullrequest.com
 hackerone.live
+mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 www.hackerone.com
-mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
 hackerone.com
