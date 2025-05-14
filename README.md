@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 14 16:19:23 UTC 2025)
+## Domains with Bounties (Last Updated Wed May 14 17:15:04 UTC 2025)
 ```
 connect.com
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
-*.hubspotpagebuilder.eu
-api.hubapi.com
 *.hubspotemail.net
+*.hubspotpagebuilder.eu
 chatspot.ai
-api.hubspot.com
+api.hubapi.com
 app.hubspot.com
+api.hubspot.com
 app-eu1.hubspot.com
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
@@ -372,10 +372,10 @@ help.netflix.com
 meechum.netflix.com
 *.nflximg.net
 *.prod.cloud.netflix.com
-ichnaea.netflix.com
-*.nflxext.com
 nmtracking.netflix.com
 *.prod.ftl.netflix.com
+ichnaea.netflix.com
+*.nflxext.com
 *.nflxso.net
 www.netflix.com
 *.nflxext.com
@@ -500,9 +500,9 @@ bioid-management.app
 toolsforhumanity.com
 *.worldcoin.dev
 world.org
-*.worldcoin.org
-*.consumer.worldcoin.org
 developer.worldcoin.org
+*.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -569,8 +569,8 @@ demo.dynamic.xyz
 cpanel.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 www.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -794,8 +794,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-kronor.io
 *.booztlet.com
+kronor.io
 *.boozt.com
 *.boozt.com
 *.booztlet.com
@@ -839,8 +839,8 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 pay-sandbox.gocardless.com
 www.gocardless.com
-manage-sandbox.gocardless.com
 api-sandbox.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -1179,8 +1179,8 @@ ab-platform-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriver.com
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 volans.tech
 *.indrive.com
 *.indriverapp.com
@@ -1227,8 +1227,8 @@ web.grindr.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
-cloud.malwarebytes.com
 oneview.malwarebytes.com
+cloud.malwarebytes.com
 *.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
@@ -1269,8 +1269,8 @@ api.sokos.fi
 api.s-kaupat.fi
 auth.skypicker.com
 tequila.kiwi.com
-*.kiwi.com
 www.kiwi.com
+*.kiwi.com
 *.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
@@ -1567,9 +1567,9 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
+exness.com
 exnessaffiliates.com
 my.exness.com
-exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1661,9 +1661,9 @@ helpers.bullsheet.me
 api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-*.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1920,8 +1920,8 @@ support.metamask.io
 tickets.metamask.io
 www.xvideos.red
 www.xnxx.gold
-www.xvideos.com
 www.xnxx.com
+www.xvideos.com
 www.xvideos.com
 www.xvideos.red
 www.xnxx.com
@@ -1951,8 +1951,8 @@ api.taxjar.com
 js.stripe.com
 app.taxjar.com
 api.stripe.com
-*.stripe.com
 *.lemonsqueezy.com
+*.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -1984,13 +1984,13 @@ business.reddithelp.com
 ads.reddit.com
 *.redditinc.com
 developers.reddit.com
-accounts.reddit.com
 m.reddit.com
-api.reddit.com
+accounts.reddit.com
 *.memorable.io
-matrix.redditspace.com
+api.reddit.com
 *.snooguts.net
 *.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2166,10 +2166,10 @@ careers.tiktok.com
 developers.tiktok.com
 business.tiktok.com
 shop.tiktok.com
-affiliate-id.tokopedia.com
 live-backstage.tiktok.com
-ads.tiktok.com
+affiliate-id.tokopedia.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktokv.com
 seller-id.tokopedia.com
 tiktok.com
@@ -2234,8 +2234,8 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.acronis.work
 *.devicelock.com
+*.acronis.work
 *.5nine.com
 account.acronis.com
 *.acronis.com
@@ -2753,9 +2753,9 @@ de.forescout.cloud
 cloud.forescout.com
 reservations.rezserver.com
 www.getaroom.com
+admin.rezserver.com
 secure.rezserver.com
 www.bookingholdings.com
-admin.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3005,8 +3005,8 @@ paypal.me
 *.paylution.com
 *.braintreegateway.com
 sandbox.braintreegateway.com
-*.braintree-api.com
 *.venmo.com
+*.braintree-api.com
 *.xoom.com
 paypalobjects.com
 *.paypal.com
@@ -3139,8 +3139,8 @@ help.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 api.steampowered.com
-store.steampowered.com
 partner.steamgames.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3251,8 +3251,8 @@ kartaview.org
 hungrygowhere.com
 *.myteksi.com
 *.grab-sure.com
-*.grab.com
 *.taralite.com
+*.grab.com
 *.myteksi.net
 *.myteksi.com
 *.myteksi.net
@@ -3350,8 +3350,8 @@ backstage.io
 *.byspotify.com
 assets.spotify.com
 api.spotify.com
-*.spotify.com
 *.withspotify.com
+*.spotify.com
 *.spotify.com
 *.spotify.net
 *.withspotify.com
@@ -3506,12 +3506,12 @@ moneybirdstorage.com
 npmjs.org
 gist.github.com
 *.githubapp.com
-education.github.com
 classroom.github.com
+education.github.com
 npmjs.com
-github.com
 api.github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3624,13 +3624,13 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 linkpop.com
 partners.shopify.com
+shop.app
 *.shopify.io
 *.shopifycs.com
-shop.app
 accounts.shopify.com
-your-store.myshopify.com
 *.shopify.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3674,10 +3674,10 @@ snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 login.playcanvas.com
-ads.snapchat.com
-business.snapchat.com
 accounts.snapchat.com
+business.snapchat.com
 web.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3783,12 +3783,12 @@ assets.airbnb.com
 *.hoteltonight-test.com
 *.muscache.com
 next.airbnb.com
-www.hoteltonight.com
 api.airbnb.com
+www.hoteltonight.com
 *.hoteltonight.com
 *.withairbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3842,12 +3842,12 @@ donations.livestream.com
 jss.greenhouse.io
 app.interseller.io
 onboarding.greenhouse.io
-support.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
 interseller.io
 app.greenhouse.io
 www.greenhouse.io
+support.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
