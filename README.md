@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 14 22:13:26 UTC 2025)
+## Domains with Bounties (Last Updated Wed May 14 23:13:53 UTC 2025)
 ```
 connect.com
 *.hs-sites(-eu1)?.com
@@ -10,9 +10,9 @@ connect.com
 *.hubspotemail.net
 *.hubspotpagebuilder.eu
 chatspot.ai
+app-eu1.hubspot.com
 api.hubapi.com
 api.hubspot.com
-app-eu1.hubspot.com
 app.hubspot.com
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
@@ -51,9 +51,9 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
 www.syfe.com
+alfred.syfe.com
 api.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
@@ -65,8 +65,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 api.prod.whoop.com
-app.whoop.com
 shop.whoop.com
+app.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -457,13 +457,13 @@ careers.remitly.com
 api.remitly.io
 news.remitly.com
 blog.remitly.com
-access.remitly.com
 *.dev.remitly.com
+access.remitly.com
 auth.remitly.com
 remitly.com
 app3.rewire.to
-rates.rewire.com
 *.int.remitly.com
+rates.rewire.com
 site.rewire.com
 rewire.com
 *.int.remitly.com
@@ -570,8 +570,8 @@ cpanel.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
 payments.hostinger.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -586,12 +586,12 @@ therapeutics.23andme.com
 research.23andme.com
 api.23andme.com
 you.23andme.com
-pd-api.polkadoc.com
 healthaid.lemonaidhealth.com
-clinic.lemonaidhealth.com
 auth.23andme.com
-blog.23andme.com
+clinic.lemonaidhealth.com
+pd-api.polkadoc.com
 store.23andme.com
+blog.23andme.com
 lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
@@ -794,8 +794,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-kronor.io
 *.booztlet.com
+kronor.io
 *.boozt.com
 *.boozt.com
 *.booztlet.com
@@ -1039,12 +1039,12 @@ api.avtoelon.uz
 m.krisha.kz
 app.krisha.kz
 m.avtoelon.uz
-api.kolesa.kz
 app.kolesa.kz
+api.kolesa.kz
 m.kolesa.kz
 api.krisha.kz
-kolesa.kz
 krisha.kz
+kolesa.kz
 id.avtoelon.uz
 id.kolesa.kz
 avtoelon.uz
@@ -1088,12 +1088,12 @@ community-tc.services.mozilla.com
 relay.firefox.com
 monitor.mozilla.org
 addons.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-mozilla-pontoon-staging.herokuapp.com
+bugzilla.mozilla.org
 www.mozilla.org
 developer.mozilla.org
-bugzilla.mozilla.org
 profiler.firefox.com
 accounts.firefox.com
 addons.allizom.org
@@ -1226,8 +1226,8 @@ web.grindr.com
 *.mbamupdates.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
-cloud.malwarebytes.com
 oneview.malwarebytes.com
+cloud.malwarebytes.com
 *.malwarebytes.com
 www.malwarebytes.com
 my.malwarebytes.com
@@ -1269,8 +1269,8 @@ api.sokos.fi
 api.s-kaupat.fi
 auth.skypicker.com
 tequila.kiwi.com
-*.kiwi.com
 www.kiwi.com
+*.kiwi.com
 *.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
@@ -1566,9 +1566,9 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
-exness.com
 exnessaffiliates.com
 my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1619,8 +1619,8 @@ bullsheet.me
 api.etoro.com
 etoropartners.com
 billing-pci.etoro.com
-helpers.bullsheet.me
 www.etoro.com
+helpers.bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1802,8 +1802,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinderops.net
+*.gotinder.com
 *.tinder.com
 *.tinder.com
 *.gotinder.com
@@ -1919,8 +1919,8 @@ support.metamask.io
 tickets.metamask.io
 www.xvideos.red
 www.xnxx.gold
-www.xvideos.com
 www.xnxx.com
+www.xvideos.com
 www.xvideos.com
 www.xvideos.red
 www.xnxx.com
@@ -1947,9 +1947,9 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-api.stripe.com
-js.stripe.com
 app.taxjar.com
+js.stripe.com
+api.stripe.com
 *.stripe.com
 *.lemonsqueezy.com
 *.lemonsqueezy.com
@@ -1984,12 +1984,12 @@ business.reddithelp.com
 developers.reddit.com
 m.reddit.com
 accounts.reddit.com
-*.memorable.io
 api.reddit.com
+*.memorable.io
 *.reddit.com
 matrix.redditspace.com
-ads.reddit.com
 *.snooguts.net
+ads.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2057,8 +2057,8 @@ file.larksuite.com
 app.larksuite.com
 status.larksuite.com
 api.larksuite.com
-larksuite.com
 hackers_chosendomain.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2232,8 +2232,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2384,13 +2384,13 @@ api.direct.playstation.com
 transact.playstation.com
 wallets.api.playstation.com
 store.playstation.com
-my.playstation.com
 social.playstation.com
+my.playstation.com
 *.sonyentertainmentnetwork.com
 ca.account.sony.com
 *.playstation.net
-my.account.sony.com
 *.api.playstation.com
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2772,8 +2772,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2782,11 +2782,11 @@ blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
-api.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
 dashboard.omise.co
+api.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -3004,8 +3004,8 @@ paypal.me
 *.paylution.com
 *.braintreegateway.com
 sandbox.braintreegateway.com
-*.braintree-api.com
 *.venmo.com
+*.braintree-api.com
 *.xoom.com
 paypalobjects.com
 *.paypal.com
@@ -3137,8 +3137,8 @@ developer.valvesoftware.com
 help.steampowered.com
 steamcommunity.com
 partner.steamgames.com
-store.steampowered.com
 www.counter-strike.net
+store.steampowered.com
 api.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3503,14 +3503,14 @@ moneybird.com
 moneybirdstorage.com
 *.github.net
 npmjs.org
-gist.github.com
 *.githubapp.com
-education.github.com
+gist.github.com
 classroom.github.com
+education.github.com
 npmjs.com
 *.githubusercontent.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3586,9 +3586,9 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
 api.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3674,9 +3674,9 @@ app.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
 login.playcanvas.com
-ads.snapchat.com
 business.snapchat.com
 playcanvas.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3742,8 +3742,8 @@ marketplace.magento.com
 stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
-magento.com
 fonts.adobe.com
+magento.com
 firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
@@ -3860,9 +3860,9 @@ gnip.com
 *.twimg.com
 *.twitter.com
 *.grok.com
-grok.com
 x.com
 *.x.com
+grok.com
 *.x.ai
 *.twitter.com
 *.vine.co
@@ -3878,7 +3878,7 @@ cloudflareworkers.com
 one.dash.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
-waf.cumulusfire.net
+dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3948,10 +3948,10 @@ prime.coinbase.com
 international.coinbase.com
 commerce.coinbase.com
 coinbase.com
-*.coinbase.com
 *.base.org
 api.coinbase.com
 *.cbhq.net
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4004,11 +4004,11 @@ profile-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
-mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-a5s.hackerone-ext-content.com
+mta-sts.wearehackerone.com
 api.hackerone.com
 hackerone.live
+a5s.hackerone-ext-content.com
 www.wearehackerone.com
 app.pullrequest.com
 www.hackerone.com
