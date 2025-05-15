@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 15 04:19:38 UTC 2025)
+## Domains with Bounties (Last Updated Thu May 15 05:17:20 UTC 2025)
 ```
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
@@ -11,9 +11,9 @@ hackerone "in-scope" domains
 chatspot.ai
 api.hubapi.com
 api.hubspot.com
+connect.com
 app-eu1.hubspot.com
 app.hubspot.com
-connect.com
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
@@ -41,20 +41,20 @@ https://www.myntra.com
 https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
-zooplus.net
 www.zooplus.de
 www.zooplus.com
+zooplus.net
 www.zooplus.co.uk
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 mark8.syfe.com
-api-uat-bugbounty.nonprod.syfe.com
 alfred.syfe.com
-www.syfe.com
 api.syfe.com
 uat-bugbounty.nonprod.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
+www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -456,13 +456,13 @@ careers.remitly.com
 api.remitly.io
 news.remitly.com
 blog.remitly.com
-*.dev.remitly.com
 access.remitly.com
+*.dev.remitly.com
 auth.remitly.com
 remitly.com
 app3.rewire.to
-*.int.remitly.com
 rates.rewire.com
+*.int.remitly.com
 site.rewire.com
 rewire.com
 ir.remitly.com
@@ -794,8 +794,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-kronor.io
 *.booztlet.com
+kronor.io
 *.boozt.com
 *.boozt.com
 *.booztlet.com
@@ -804,8 +804,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.travix.com
-*.cheaptickets.nl
 *.trip.com
+*.cheaptickets.nl
 *.trip.com
 *.travix.com
 *.travix.io
@@ -818,8 +818,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.gethypr.com
 *.hypr.com
+*.gethypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -1043,11 +1043,11 @@ api.kolesa.kz
 m.kolesa.kz
 api.krisha.kz
 krisha.kz
-kolesa.kz
 app.avtoelon.uz
-id.avtoelon.uz
 id.kolesa.kz
+id.avtoelon.uz
 avtoelon.uz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1088,13 +1088,13 @@ community-tc.services.mozilla.com
 relay.firefox.com
 monitor.mozilla.org
 addons.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-mozilla-pontoon-staging.herokuapp.com
-www.mozilla.org
-developer.mozilla.org
 bugzilla.mozilla.org
+www.mozilla.org
 profiler.firefox.com
+developer.mozilla.org
 accounts.firefox.com
 addons.allizom.org
 developer.mozilla.org
@@ -1226,8 +1226,8 @@ web.grindr.com
 *.mbamupdates.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
-oneview.malwarebytes.com
 cloud.malwarebytes.com
+oneview.malwarebytes.com
 *.malwarebytes.com
 www.malwarebytes.com
 my.malwarebytes.com
@@ -1253,8 +1253,8 @@ tunnistus.s-ryhma.fi
 api.sokos.fi
 www.s-pankki.fi
 online.s-pankki.fi
-www.s-kaupat.fi
 api.s-kaupat.fi
+www.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1803,8 +1803,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinderops.net
+*.gotinder.com
 *.tinder.com
 *.tinder.com
 *.gotinder.com
@@ -1948,9 +1948,9 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-api.stripe.com
 js.stripe.com
 app.taxjar.com
+api.stripe.com
 *.stripe.com
 *.lemonsqueezy.com
 *.lemonsqueezy.com
@@ -1983,14 +1983,14 @@ gql.reddit.com
 business.reddithelp.com
 *.redditinc.com
 developers.reddit.com
-m.reddit.com
 accounts.reddit.com
+m.reddit.com
 api.reddit.com
 *.reddit.com
 matrix.redditspace.com
-*.snooguts.net
 ads.reddit.com
 *.memorable.io
+*.snooguts.net
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2058,8 +2058,8 @@ file.larksuite.com
 app.larksuite.com
 status.larksuite.com
 api.larksuite.com
-larksuite.com
 hackers_chosendomain.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2168,11 +2168,11 @@ business.tiktok.com
 affiliate-id.tokopedia.com
 *.tiktokv.com
 ads.tiktok.com
-seller-id.tokopedia.com
 shop.tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 tiktok.com
+seller-id.tokopedia.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2233,9 +2233,9 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 *.5nine.com
 account.acronis.com
 *.acronis.com
@@ -2390,8 +2390,8 @@ social.playstation.com
 *.sonyentertainmentnetwork.com
 ca.account.sony.com
 *.playstation.net
-my.account.sony.com
 *.api.playstation.com
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2409,8 +2409,8 @@ faucet.polygon.technology
 ecosystem-api.polygon.technology
 portal.polygon.technology
 staking-api.polygon.technology
-ecosystem.polygon.technology
 staking.polygon.technology
+ecosystem.polygon.technology
 staking-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
@@ -3004,8 +3004,8 @@ paypal.me
 *.hyperwallet.com
 *.paylution.com
 sandbox.braintreegateway.com
-*.braintree-api.com
 *.venmo.com
+*.braintree-api.com
 *.xoom.com
 paypalobjects.com
 *.paypalcorp.com
@@ -3251,8 +3251,8 @@ kartaview.org
 hungrygowhere.com
 *.myteksi.com
 *.myteksi.net
-*.grab-sure.com
 *.grab.com
+*.grab-sure.com
 *.ovofinansial.com
 *.myteksi.com
 *.myteksi.net
@@ -3504,10 +3504,10 @@ moneybird.com
 moneybirdstorage.com
 *.github.net
 npmjs.org
-gist.github.com
 *.githubapp.com
-education.github.com
+gist.github.com
 classroom.github.com
+education.github.com
 npmjs.com
 *.githubusercontent.com
 api.github.com
@@ -3624,13 +3624,13 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 linkpop.com
 partners.shopify.com
+*.shopifycs.com
+your-store.myshopify.com
+*.shopify.com
 shop.app
 *.shopify.io
 accounts.shopify.com
 admin.shopify.com
-*.shopifycs.com
-your-store.myshopify.com
-*.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3782,8 +3782,8 @@ assets.airbnb.com
 *.hoteltonight-test.com
 *.muscache.com
 next.airbnb.com
-www.hoteltonight.com
 api.airbnb.com
+www.hoteltonight.com
 *.hoteltonight.com
 *.withairbnb.com
 www.airbnb.com
@@ -3879,8 +3879,8 @@ cloudflareworkers.com
 one.dash.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
-waf.cumulusfire.net
 dash.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3949,10 +3949,10 @@ api.custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
 commerce.coinbase.com
-*.coinbase.com
 *.base.org
 api.coinbase.com
 *.cbhq.net
+*.coinbase.com
 coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3979,8 +3979,8 @@ slackatwork.com
 slack-imgs.com
 *.quip.com
 api.slack.com
-slack.com
 app.slack.com
+slack.com
 slack.com
 api.slack.com
 slackb.com
