@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 21 12:27:39 UTC 2025)
+## Domains with Bounties (Last Updated Tue Oct 21 13:28:43 UTC 2025)
 ```
 nummus.robinhood.com
 *.rhinternal.net
