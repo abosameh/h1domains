@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 13 04:03:09 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 13 04:41:43 UTC 2026)
 ```
 *.platacard.mx
 *.platacard.mx
