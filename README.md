@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 12 15:29:19 UTC 2026)
+## Domains with Bounties (Last Updated Sun Apr 12 16:28:46 UTC 2026)
 ```
 1w.cash
 1win.com
@@ -30,8 +30,8 @@ concierge.clearme.com
 identity.clearme.com
 web-edge.clearme.com
 mobile.clearme.com
-clearme.com
 authentication.clearme.com
+clearme.com
 my.clearme.com
 verified.clearme.com
 www.clearme.com
@@ -50,11 +50,11 @@ identity.clearme.com
 http://verified.clearme.com/dashboard
 clearme.atlassian.net
 affiliate.meesho.com
-supplier.meesho.com
 superstoreapp.meesho.com
 www.valmo.in
 admin.meeshosupply.com
 www.meesho.com
+supplier.meesho.com
 www.meesho.com
 admin.meeshosupply.com
 supplier.meesho.com
@@ -64,8 +64,6 @@ superstoreapp.meesho.com
 signup.sendgrid.com
 mc.sendgrid.com
 sendgrid.com
-*.sip.*.twilio.com
-app.sendgrid.com
 *.sip.*.twilio.com
 http://tsock.us1.twilio.com
 https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c
@@ -96,11 +94,11 @@ issuer.idpay-uat.unico.io
 secure.unico.io
 blog.unico.io
 devcenter.unico.io
+*.uat.unico.app
 unico.io
 openfinance.unico.io
 idcash-uat.unico.io
 identityhomolog.acesso.io
-*.uat.unico.app
 idpay-uat.unico.io
 backend-sdk.uat.private.unico.run
 *.cadastro.uat.unico.app
@@ -119,8 +117,8 @@ blog.unico.io
 devcenter.unico.io
 *.platacard.mx
 *.platacard.mx
-mail.notion.so
 calendar.notion.so
+mail.notion.so
 mail.notion.so
 calendar.notion.so
 go.stripchat.com
@@ -283,8 +281,8 @@ hubspot.net
 chatspot.ai
 hubspot.net
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-wallet.tg
 wallettg.com
+wallet.tg
 wallettg.net
 pay.wallet.tg
 p2p.walletbot.me
@@ -316,12 +314,12 @@ www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 alfred-uat-31.nonprod.syfe.com
-www.syfe.com
 mark8.syfe.com
 alfred.syfe.com
+www.syfe.com
+uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -380,8 +378,8 @@ app.uma.money
 recovery.privy.io
 auth.privy.io
 api.privy.io
-dashboard.privy.io
 home.privy.io
+dashboard.privy.io
 auth.privy.io
 dashboard.privy.io
 home.privy.io
@@ -408,10 +406,10 @@ arc.net
 thebrowser.company
 bcny.com
 diabrowser.com
-www.cart.starbucks.co.jp/
 cart.starbucks.co.jp
 gift.starbucks.co.jp
 login.starbucks.co.jp
+www.cart.starbucks.co.jp/
 www.starbucks.co.jp
 www.starbucks.co.jp
 www.cart.starbucks.co.jp/
@@ -460,6 +458,7 @@ auth.hhc247.org
 *.capitaloneshopping.com
 *.capitalonegslbex.com
 *.capitalone.ca
+bestfiends.com
 *.serious.li
 *.monopoly-poker.com
 gnocchi-www.buffalo-ggn.net
@@ -483,8 +482,8 @@ bestfiends.com
 apix.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
-vfo01.vodafone.om
 www.vodafone.om
+vfo01.vodafone.om
 www.vodafone.om
 apix.vodafone.om
 vfo01.vodafone.om
@@ -689,12 +688,12 @@ mobileapi.insightly.com
 http://api.na1.insightly.com/v3.1/
 marketing.na1.insightly.com
 rpc.drpc.testnet.arc.network
-app.circle.com
-rpc.testnet.arc.network
-console.circle.com
 rpc.blockdaemon.testnet.arc.network
 api.circle.com
+rpc.testnet.arc.network
+console.circle.com
 rpc.quicknode.testnet.arc.network
+app.circle.com
 api.circle.com
 app.circle.com
 console.circle.com
@@ -758,8 +757,8 @@ xs2a.banking.playground.klarna.com
 klarna.net
 pricerunner.com
 js.klarna.com
-portal.openbanking.playground.klarna.com
 klarnacdn.net
+portal.openbanking.playground.klarna.com
 klarna.com
 api.klarna.com
 xs2a.banking.playground.klarna.com
@@ -851,8 +850,8 @@ world.org
 toolsforhumanity.com
 getworldcoin.com
 *.worldcoin.org
-*.toolsforhumanity.com
 developer.worldcoin.org
+*.toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -884,9 +883,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -925,13 +924,13 @@ reach.hostinger.com
 agents.hostinger.com
 research.23andme.com
 education.23andme.com
-www.23andme.com
 medical.23andme.com
 blog.23andme.com
 store.23andme.com
 api.23andme.com
 auth.23andme.com
 mediacenter.23andme.com
+www.23andme.com
 you.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -1139,10 +1138,10 @@ app.blueskytravelvietnam.com
 *.vayama.com
 *.vliegwinkel.nl
 *.trip.biz
-*.trip.com
 *.trainpal.com
 *.mytrainpal.com
 *.budgetair.com
+*.trip.com
 *.travix.com
 *.cheaptickets.nl
 *.trip.com
@@ -1169,8 +1168,42 @@ www.compass.com
 *.hypr.com
 *.hypr.com
 *.gethypr.com
-cdn.moderntreasury.com
-app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
+app.moderntreasury.com
+cdn.moderntreasury.com
+auth0.gocardless.com
+payer-details-sandbox.gocardless.com
+*.gocardless-cicd.io
+www.gocardless.com
+pay-sandbox.gocardless.com
+connect-sandbox.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
+oauth-sandbox.gocardless.com
+*.gocardless.com
+ob.gocardless.com
+api-sandbox.gocardless.com
+manage-sandbox.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
+*.gocardless-cicd.io
+*.gocardless.com
+manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+api-sandbox.gocardless.com
+connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+payer-details-sandbox.gocardless.com
+www.gocardless.com
+ob.gocardless.com
+auth0.gocardless.com
+rei.com
+login.rei.com
+rei.com
+login.rei.com
+http://www.rei.com/learn/expert-advice
+http://collaboration.rei.com
+www.coinhako.com
+www.coinhako.com
 ```
