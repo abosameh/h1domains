@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  6 19:28:02 UTC 2026)
+## Domains with Bounties (Last Updated Wed May  6 21:04:58 UTC 2026)
 ```
 cart-front-api.tw.coupang.com
 dco.tw.coupang.com
