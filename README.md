@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 15 20:54:35 UTC 2026)
+## Domains with Bounties (Last Updated Fri May 15 21:51:30 UTC 2026)
 ```
 docs.anthropic.com
 anthropic.atlassian.com
