@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug  2 17:54:56 UTC 2026)
+## Domains with Bounties (Last Updated Sun Aug  2 18:55:53 UTC 2026)
 ```
 drive.wolt.com
 wolt.com
