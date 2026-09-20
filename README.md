@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 20 02:29:04 UTC 2026)
+## Domains with Bounties (Last Updated Sun Sep 20 08:05:51 UTC 2026)
 ```
 rpc.drpc.testnet.arc.network
 *.arc.io
