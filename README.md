@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 31 07:49:27 UTC 2026)
+## Domains with Bounties (Last Updated Sat Oct 31 14:03:41 UTC 2026)
 ```
 app.ticketmaster.ie
 www.lineup.com.mx
